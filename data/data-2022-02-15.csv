@@ -40,6 +40,7 @@ id,date,state,county,addr,death,injured,link
 2233848,"February 14, 2022",Texas,San Antonio,10000 block of Frio City Rd,0,1,https://www.ksat.com/news/local/2022/02/14/sapd-investigation-underway-after-man-is-shot-on-west-side/
 2233682,"February 14, 2022",Texas,San Antonio,7327 N Loop 1604 W,0,1,https://www.ksat.com/news/local/2022/02/14/man-in-critical-condition-after-being-shot-in-far-nw-side-parking-lot-police-say/
 2233813,"February 14, 2022",Georgia,Atlanta,1991 Delowe Dr,1,0,https://www.ajc.com/news/crime/21-year-old-found-shot-dead-in-sw-atlanta/RACKD5HZIVDKJJFBKHDI7GPYKI/
+2234487,"February 14, 2022",Georgia,Vidalia,100 block of S Thompson Rd,1,0,https://www.wjcl.com/article/vidalia-toombs-county-shooting-death/39089956
 2233752,"February 14, 2022",New York,New York (Manhattan),2949 8th Ave,0,1,https://twitter.com/NYC_Alerts911/status/1493204337543294976
 2233719,"February 14, 2022",Rhode Island,Newport,3 Farewell St,1,1,https://www.newportri.com/story/news/local/2022/02/14/newport-ri-shooting-leaves-one-dead-concerns-friendly-sons-of-newport-social-club-neighbors/6785674001/
 2234464,"February 14, 2022",Virginia,Henrico,Queensmere Pl,0,1,https://www.nbc12.com/2022/02/15/henrico-man-hospitalized-after-being-shot-hip/
@@ -224,7 +225,6 @@ id,date,state,county,addr,death,injured,link
 2232645,"February 12, 2022",Louisiana,Baton Rouge,10451 Reiger Rd,1,0,https://www.wbrz.com/news/suspect-still-on-the-run-after-deadly-shooting-at-hotel-along-siegen-lane
 2233129,"February 12, 2022",Virginia,Norfolk,211 Granby St,0,1,https://www.wtkr.com/news/police-investigate-officer-involved-shooting-in-norfolk
 2232623,"February 12, 2022",Pennsylvania,Philadelphia,8100 block of Grovers Ave,1,0,https://philadelphia.cbslocal.com/2022/02/12/philadelphia-shooting-eastwick-man-killed-homicide-gun-violence/
-2233048,"February 12, 2022",Georgia,Savannah,1100 block of E 54th St,0,1,https://www.wtoc.com/2022/02/13/savannah-police-respond-shooting-east-54th-street/
 2233217,"February 12, 2022",Pennsylvania,Carbondale (Simpson),Morse Ave,1,0,https://www.wnep.com/article/news/local/lackawanna-county/one-person-dead-shooting-lackawanna-county/523-e43725f2-ebe8-4ace-b640-80c5eedbaf02
 2232575,"February 12, 2022",Minnesota,Minneapolis,2400 block of Ogema Pl,0,1,https://twitter.com/MN_CRIME/status/1492420917468803075
 2232524,"February 12, 2022",Kentucky,Louisville,6800 block of W Pages Ln,1,0,https://www.wave3.com/2022/02/12/man-killed-pleasure-ridge-park-shooting/
@@ -264,5 +264,3 @@ id,date,state,county,addr,death,injured,link
 2232419,"February 12, 2022",Texas,Fort Worth,1100 block of E Baltimore Ave,2,0,https://www.star-telegram.com/news/local/crime/article258380708.html
 2233372,"February 12, 2022",Texas,El Paso (Socorro),200 block of Isabel Way,1,0,https://kvia.com/news/2022/02/13/18-year-old-man-arrested-after-deadly-shooting-of-woman-in-socorro/
 2233764,"February 12, 2022",Illinois,Danville,100 block of Edwards St,0,1,https://www.wandtv.com/news/four-shot-including-9-year-old-boy-in-danville/article_f4e97884-8dc6-11ec-89fa-a7c3864952de.html
-2232414,"February 12, 2022",South Carolina,Lugoff,1200 block of Longtown Rd,0,1,https://wpde.com/news/local/man-shot-son-in-self-defense-deputies-say
-2232368,"February 12, 2022",Texas,Mesquite,4700 block of Samuell Blvd,0,1,https://www.star-telegram.com/news/local/article258326873.html
