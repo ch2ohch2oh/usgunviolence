@@ -6,6 +6,7 @@ import pandas as pd
 import time
 import csv
 
+
 def download_raw_data(page=0):
     """Download data."""
     link = f"https://www.gunviolencearchive.org/last-72-hours?page={page}"
@@ -34,6 +35,7 @@ def extract_table_data(html):
         table_data.append(row_data)
     return table_data
 
+
 def download_last72hours():
     '''Download all data within the last 72 hours.'''
     data = []
@@ -45,12 +47,14 @@ def download_last72hours():
             break
     return data
 
+
 if __name__ == '__main__':
     data = download_last72hours()
     date = time.strftime('%Y-%m-%d')
     outfile = f'data/data-{date}.csv'
     with open(outfile, 'w') as f:
         writer = csv.writer(f)
+        writer.writerow(['id', 'date', 'state', 'county',
+                         'addr', 'death', 'injured', 'link'])
         writer.writerows(data)
         print(f'{len(data)} rows written to {outfile}')
-    
