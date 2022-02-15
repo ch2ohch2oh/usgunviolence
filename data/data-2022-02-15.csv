@@ -1,4 +1,5 @@
 id,date,state,county,addr,death,injured,link
+2234496,"February 15, 2022",Georgia,Milledgeville,Towns St,1,0,https://www.13wmaz.com/article/news/local/woman-killed-in-baldwin-county-shooting/93-aeda5a96-83e7-4afd-8d25-c618a903200a
 2234471,"February 15, 2022",Wisconsin,Milwaukee,3104 W Wells St,0,1,https://mke-police.herokuapp.com/call/220460884
 2234469,"February 15, 2022",Virginia,Richmond,2300 block of Joplin Ave,0,1,https://www.nbc12.com/2022/02/15/man-fighting-life-following-tuesday-afternoon-shooting/
 2234462,"February 15, 2022",Virginia,Petersburg,600 block of Nance Dr,0,1,https://www.nbc12.com/2022/02/15/investigation-underway-after-petersburg-man-suffers-multiple-gunshot-wounds/
@@ -131,6 +132,7 @@ id,date,state,county,addr,death,injured,link
 2233098,"February 13, 2022",Colorado,Aurora,1700 block of Troy St,0,1,https://twitter.com/AuroraPD/status/1492987043235840001
 2233771,"February 13, 2022",Florida,Tallahassee,2017 W Pensacola St,0,1,https://www.tallahassee.com/story/news/2022/02/14/man-injured-west-pensacola-shooting-tallahassee-police-investigate-crime-gun-leon-county-super-bowl/6782665001/
 2233684,"February 13, 2022",Tennessee,Madisonville,500 block of Hill St,1,0,https://www.wbir.com/article/news/local/mcminn-monroe/tennessee-bureau-of-investigation-madisonville-police-officer-fatal/51-e78bb7a7-c118-40bb-aacf-7ba69ce3cccd
+2233829,"February 13, 2022",Kentucky,Brooks,600 block of Lake Elmo Rd,1,0,https://www.wave3.com/2022/02/14/bullitt-county-woman-charged-after-victim-dies-gunshot-wound-head/
 2233078,"February 13, 2022",Tennessee,Jackson,Christmasville Rd and Greenview Dr,0,3,https://www.wbbjtv.com/2022/02/13/authorities-investigate-early-morning-shooting/
 2233069,"February 13, 2022",South Carolina,Columbia,3722 River Rd,1,0,https://www.wistv.com/2022/02/13/homicide-night-club-under-investigation-rcsd-says/
 2233626,"February 13, 2022",Florida,Winter Garden,1000 Block of E Bay St,0,1,https://www.clickorlando.com/news/local/2022/02/13/juvenile-hospitalized-after-being-shot-in-winter-garden-police-say/
@@ -262,5 +264,3 @@ id,date,state,county,addr,death,injured,link
 2232311,"February 12, 2022",Texas,Houston,6333 Long Dr,1,0,http://www.houstontx.gov/police/nr/2022/feb/nr220214-3.htm
 2232307,"February 12, 2022",Texas,Houston,8500 block of Gulf Fwy,1,0,http://www.houstontx.gov/police/nr/2022/feb/nr220214-4.htm
 2232419,"February 12, 2022",Texas,Fort Worth,1100 block of E Baltimore Ave,2,0,https://www.star-telegram.com/news/local/crime/article258380708.html
-2233372,"February 12, 2022",Texas,El Paso (Socorro),200 block of Isabel Way,1,0,https://kvia.com/news/2022/02/13/18-year-old-man-arrested-after-deadly-shooting-of-woman-in-socorro/
-2233764,"February 12, 2022",Illinois,Danville,100 block of Edwards St,0,1,https://www.wandtv.com/news/four-shot-including-9-year-old-boy-in-danville/article_f4e97884-8dc6-11ec-89fa-a7c3864952de.html
