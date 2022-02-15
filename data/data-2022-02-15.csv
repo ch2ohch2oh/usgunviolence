@@ -74,6 +74,7 @@ id,date,state,county,addr,death,injured,link
 2233483,"February 14, 2022",Indiana,Indianapolis,I-70 and Shadeland Ave,0,1,https://www.wthr.com/article/news/local/impd-indiana-state-police-2-shot-interstate-70-indianapolis/531-7f9789ae-75fb-4c3b-b169-3ed385b2feb1
 2234160,"February 14, 2022",Illinois,Chicago,5300 block of S Hoyne Ave,0,1,https://chicago.suntimes.com/crime/2022/2/15/22934527/1-person-shot-monday-february-15-crime-gun-violence-chicago
 2234133,"February 14, 2022",Oregon,Portland,SE 124th Ave and Powell Blvd,1,0,https://katu.com/news/local/man-dies-after-shooting-in-se-portland-early-monday-morning
+2234133,"February 14, 2022",Oregon,Portland,SE 124th Ave and Powell Blvd,1,0,https://katu.com/news/local/man-dies-after-shooting-in-se-portland-early-monday-morning
 2233925,"February 14, 2022",New York,Rochester,Pardee St and Joseph Ave,1,0,https://13wham.com/news/local/large-police-presence-on-pardee-street-near-joseph-avenue
 2234114,"February 14, 2022",Alabama,Oxford,I-20 and Airport Rd,1,0,https://www.al.com/news/anniston-gadsden/2022/02/carjacking-suspect-killed-in-shootout-with-east-alabama-police-after-i-20-chase.html
 2234073,"February 14, 2022",North Carolina,Durham,3700 Fayetteville St,0,2,https://www.cbs17.com/news/local-news/durham-county-news/surveillance-video-shows-when-teen-man-were-shot-at-gas-station-across-from-hillside-high-school-in-durham/
@@ -198,7 +199,6 @@ id,date,state,county,addr,death,injured,link
 2233352,"February 13, 2022",California,Los Angeles,Whittier Blvd and S Atlantic Blvd,0,1,https://twitter.com/MikeRogersTV/status/1493088028096663554
 2233342,"February 13, 2022",Maryland,Baltimore,1600 block of E Belvedere Ave,0,2,https://www.facebook.com/BaltimoreCityPolice/posts/311663404322580
 2234103,"February 13, 2022",California,Los Angeles,11700 block of Kagel Canyon St,0,1,https://losangeles.cbslocal.com/2022/02/14/13-girl-hospitalized-shot-lake-view-terrace/
-2234087,"February 13, 2022",Wisconsin,Milwaukee (River Hills),8500 N River Road,1,0,https://county.milwaukee.gov/EN/Medical-Examiner/Public-Data?
 2234036,"February 13, 2022",Mississippi,Kosciusko,512 Northview Dr,1,0,https://www.breezynews.com/local/one-dead-following-sunday-night-shooting-in-kosciusko
 2234051,"February 13, 2022",Mississippi,Columbus,2005 13th Ave N,1,1,https://www.wcbi.com/columbus-police-investigate-fatal-shooting/
 2233270,"February 13, 2022",Michigan,Clinton,24126 Country Squire St,1,0,https://www.macombdaily.com/2022/02/13/clinton-twp-resident-fatally-shot-at-apartment-building/
@@ -223,6 +223,7 @@ id,date,state,county,addr,death,injured,link
 2232535,"February 12, 2022",Kentucky,Louisville,6500 block of Hackel Dr,0,1,https://www.wave3.com/2022/02/12/man-taken-hospital-after-shooting-lmpd-investigating/
 2232376,"February 12, 2022",Louisiana,Marrero,7200 block of Gentry Rd,1,0,https://www.nola.com/news/crime_police/article_9555c1d8-8de5-11ec-acf2-37d94e8216e5.html
 2233773,"February 12, 2022",Illinois,Danville,N Bowman Ave and Griggs St,0,1,https://www.wandtv.com/news/four-shot-including-9-year-old-boy-in-danville/article_f4e97884-8dc6-11ec-89fa-a7c3864952de.html
+2232567,"February 12, 2022",North Carolina,Spring Lake,412 N Bragg Blvd,0,1,https://www.cbs17.com/news/local-news/cumberland-county-news/cumberland-county-man-in-critical-condition-following-overnight-saloon-shooting/
 2232567,"February 12, 2022",North Carolina,Spring Lake,412 N Bragg Blvd,0,1,https://www.cbs17.com/news/local-news/cumberland-county-news/cumberland-county-man-in-critical-condition-following-overnight-saloon-shooting/
 2233191,"February 12, 2022",California,Long Beach,900 block of 20th St,0,1,https://lbpost.com/news/man-shot-20th-street
 2232553,"February 12, 2022",Colorado,Colorado Springs,2501 E Platte Ave,0,1,https://www.fox21news.com/top-stories/overnight-shootings-in-colorado-springs-leave-3-injured/
@@ -263,8 +264,3 @@ id,date,state,county,addr,death,injured,link
 2233066,"February 12, 2022",Illinois,Decatur,3400 block of N Charles St,0,1,https://www.wandtv.com/news/woman-recovering-after-being-shot/article_4a64cd0c-8c7f-11ec-8f29-1fe4b8763472.html
 2232590,"February 12, 2022",New York,Buffalo,E Eagle St and Washington St,1,0,https://www.wgrz.com/article/news/local/state-police-investigating-a-trooper-involved-shooting/71-cfefdba4-299d-4f7c-bb85-d9a65e843335
 2233022,"February 12, 2022",California,Oakland,800 block of Apgar St,0,1,https://www.eastbaytimes.com/2022/02/12/north-oakland-shooting-apgar-street/
-2233010,"February 12, 2022",California,San Jose,200 block of N 6th St,0,1,https://sanfrancisco.cbslocal.com/2022/02/13/san-jose-police-investigate-shooting-that-left-man-critically-injured/
-2232999,"February 12, 2022",Georgia,Columbus,Old Cusseta Rd and Farr Rd,0,1,https://www.wtvm.com/2022/02/13/columbus-police-investigating-multiple-shootings-farr-rd-leaving-three-people-injured/
-2232997,"February 12, 2022",Georgia,Columbus,1118 Farr Rd,0,1,https://www.wtvm.com/2022/02/13/columbus-police-investigating-multiple-shootings-farr-rd-leaving-three-people-injured/
-2232303,"February 12, 2022",Texas,Houston,1700 block of Longacre Dr,0,1,https://twitter.com/houstonpolice/status/1492607896890322949
-2232995,"February 12, 2022",Georgia,Columbus,1118 Farr Rd,0,1,https://www.wtvm.com/2022/02/13/columbus-police-investigating-multiple-shootings-farr-rd-leaving-three-people-injured/
