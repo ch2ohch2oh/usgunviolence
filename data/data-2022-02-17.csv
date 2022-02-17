@@ -35,6 +35,13 @@ id,date,state,county,addr,death,injured,link
 2234936,"February 16, 2022",California,Bakersfield,1241 G St,0,0,https://bakersfieldnow.com/news/local/bakersfield-high-school-student-arrested-for-bringing-gun-to-campus
 2234901,"February 16, 2022",District of Columbia,Washington,3800 block of 9th Street SE,1,0,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/45605
 2234897,"February 16, 2022",Virginia,Springfield,7600 Old Keene Mill Rd,1,0,https://twitter.com/alanhenney/status/1493990611460014081
+2235749,"February 16, 2022",Oregon,Portland,N Mohawk Ave and N Fessenden St,1,0,https://www.kptv.com/news/suspect-cooperating-with-police-after-deadly-north-portland-shooting/article_2bb721e4-8f2b-11ec-aa4b-af1f36c7b151.html?block_id=994645
+2235673,"February 16, 2022",Missouri,Columbia,600 block of Talon Rd,0,1,https://www.columbiamissourian.com/news/local/cpd-investigating-shots-fired-with-injury-near-columbia-apartment-complex/article_4e2e5bd2-cac3-52cd-9957-14f106ce6fb5.html
+2235718,"February 16, 2022",Missouri,Saint Louis (Kirkwood),801 W Essex Ave,0,0,https://fox2now.com/news/missouri/gun-found-in-students-backpack-at-kirkwood-high-school/
+2235713,"February 16, 2022",Missouri,Saint Louis,3500 block of S Spring Ave,0,1,https://www.kmov.com/news/38-year-old-turns-himself-in-after-a-shooting-in-south-city/article_af7e0198-8f5b-11ec-9aad-6b30056a4a65.html?block_id=677763
+2235692,"February 16, 2022",Minnesota,Saint Paul,1050 Payne Ave,1,0,https://www.fox9.com/news/st-paul-police-investigating-after-woman-shot-killed-near-payne-avenue
+2235689,"February 16, 2022",Michigan,Detroit,Riverview St,0,2,https://www.facebook.com/TheDetroitScanner/posts/5286815521342460
+2235686,"February 16, 2022",Kansas,Kansas City,1600 block of Birch St,1,0,https://fox4kc.com/news/man-found-shot-dead-wednesday-morning-kckpd-investigate-as-homicide/
 2235664,"February 16, 2022",Colorado,Colorado Springs,1100 block of E Fillmore St,0,1,https://krdo.com/news/2022/02/16/colorado-springs-police-search-for-suspects-in-jewelry-store-robbery-one-in-custody/
 2235656,"February 16, 2022",Maryland,Baltimore,1400 block of Mullikin Ct,0,1,https://foxbaltimore.com/news/local/bloodbath-in-baltimore-6-shooting-victims-within-one-hour-two-under-18-killed
 2235650,"February 16, 2022",Maryland,Baltimore,3500 block of Gelston Dr,2,1,https://foxbaltimore.com/news/local/bloodbath-in-baltimore-6-shooting-victims-within-one-hour-two-under-18-killed
@@ -105,7 +112,6 @@ id,date,state,county,addr,death,injured,link
 2235153,"February 15, 2022",Florida,Kissimmee,Simpson Rd and Buenaventura Blvd,1,0,https://www.clickorlando.com/news/local/2022/02/16/fatal-shooting-investigated-in-kissimmee/
 2235145,"February 15, 2022",New York,New York (Manhattan),666 W 162nd St,0,1,https://twitter.com/NYC_Alerts911/status/1493780193030328321
 2234358,"February 15, 2022",Georgia,Atlanta,Hunnicutt St and Centennial Olympic Park Dr,1,0,https://www.ajc.com/news/crime/breaking-1-dead-in-shooting-at-downtown-atlanta-apartments/BKMQEDGVFFCKPB62WSIQSC6N6U/
-2235134,"February 15, 2022",Michigan,Millington,14400 N Belsay Rd,1,0,https://www.facebook.com/flintpoliceops/posts/5182538321780534
 2234994,"February 15, 2022",Texas,Dallas,3500 block of E Overton Rd,1,1,https://dpdbeat.com/2022/02/16/homicide-on-3500-overton-road/
 2235118,"February 15, 2022",Illinois,Chicago,8000 block of S St Louis Ave,0,1,https://chicago.suntimes.com/crime/2022/2/16/22936927/4-shot-tuesday-february-15-crime-gun-violence-chicago
 2234412,"February 15, 2022",Texas,Corpus Christi,2200 block of Prescott St,1,0,https://corpuschristicronica.com/man-shot-in-face-on-2100-block-of-prescott-screet/
@@ -136,10 +142,17 @@ id,date,state,county,addr,death,injured,link
 2234875,"February 15, 2022",California,Lancaster,25300 block of Abacus Ave,1,0,https://theavtimes.com/2022/02/16/lasd-woman-allegedly-charged-at-deputies-with-knife-prior-to-being-shot/
 2234170,"February 15, 2022",Illinois,Chicago,4700 block of W Van Buren St,0,1,https://www.fox32chicago.com/news/man-shot-in-austin-alley
 2234868,"February 15, 2022",Illinois,Joliet,700 block of Francis St,1,3,https://wgntv.com/news/1-dead-3-wounded-in-joliet-shooting/
+2235741,"February 15, 2022",Nebraska,Omaha,5929 N 72nd St,0,1,https://omaha.com/news/local/crime-and-courts/omaha-police-investigating-three-shootings-in-a-45-minute-period/article_f3b67a90-8f1d-11ec-bf25-e78fc36f710a.html
+2235738,"February 15, 2022",Nebraska,Omaha,N 65th St and Grand Ave,0,1,https://www.ketv.com/article/three-women-hurt-in-series-of-shootings-reported-within-an-hour-in-omaha-tuesday-night/39100225
+2235735,"February 15, 2022",Nebraska,Omaha,3247 N 42nd St,0,1,https://www.ketv.com/article/three-women-hurt-in-series-of-shootings-reported-within-an-hour-in-omaha-tuesday-night/39100225
+2235732,"February 15, 2022",Oklahoma,Davis,3rd St,0,1,https://www.kxii.com/2022/02/16/2-custody-following-shooting-davis-apartments/
+2235727,"February 15, 2022",Idaho,Parma,Pearl Rd and Elmore Rd,0,1,https://www.ktvb.com/article/news/local/middleton-man-shot-in-target-practice-accident/277-aef241e4-793e-49e1-94fe-971f4c8a7743
+2235677,"February 15, 2022",Missouri,Saint Louis,1500 block of Hickory St,0,1,https://www.stltoday.com/news/local/crime-and-courts/boy-is-latest-to-be-shot-in-st-louis-peabody-darst-webbe-neighborhood/article_b2139b80-8d04-5514-8882-764d21668974.html
 2234860,"February 15, 2022",Texas,San Antonio,2011 Dollarhide Ave,1,0,https://www.kens5.com/article/news/crime/man-in-critical-condition-after-a-shooting-on-the-southeast-side-police-say/273-5417ecff-6458-448f-bcac-6de2b46e2137
 2234852,"February 15, 2022",Arkansas,Little Rock,6310 Colonel Glenn Rd,0,1,https://www.fox16.com/crime/woman-facing-charges-after-shooting-at-little-rock-apartments/
 2234845,"February 15, 2022",Arkansas,Bryant,2500 Bellerive Ave,1,0,https://www.fox16.com/crime/police-22-year-old-woman-killed-in-bryant-shooting/
 2234821,"February 15, 2022",Louisiana,Shreveport,5325 Jewella Ave,1,0,https://www.ksla.com/2022/02/15/man-shot-inside-shreveport-store/
+2235134,"February 15, 2022",Michigan,Millington,14400 N Belsay Rd,1,0,https://www.mlive.com/news/flint/2022/02/police-id-man-fatally-shot-in-thetford-township.html
 2234818,"February 15, 2022",Louisiana,Shreveport,5101 Westwood Park Dr,1,0,https://www.ktbs.com/news/crime/1-dead-in-west-shreveport-motel-shooting/article_f95e5f58-8e5f-11ec-a73a-1f7796fdd124.html
 2234815,"February 15, 2022",Louisiana,Baton Rouge,1160 block of Sherwood Hollow Ct,1,0,https://www.brproud.com/news/local-news/brpd-responds-to-shooting-on-sherwood-meadow/
 2234813,"February 15, 2022",Washington,Seattle,13400 block of Meridian Ave N,0,1,https://twitter.com/SeattlePD/status/1493810136829227008
@@ -166,7 +179,6 @@ id,date,state,county,addr,death,injured,link
 2234133,"February 14, 2022",Oregon,Portland,SE 124th Ave and Powell Blvd,1,0,https://www.kptv.com/news/victim-identified-in-powellhurst-gilbert-valentines-day-shooting/article_cb3ed726-8e99-11ec-8ecf-33c750717120.html?block_id=666189
 2233916,"February 14, 2022",California,Fresno,Jensen Ave and Walnut Ave,0,1,https://abc30.com/southwest-shooting-fresno-man-shot/11565039/
 2233893,"February 14, 2022",Kentucky,Henderson,1400 block of Oak St,0,1,https://www.14news.com/2022/02/14/person-shot-henderson/
-2233904,"February 14, 2022",Missouri,Saint Louis,1401 Lasalle Ln,0,3,https://fox2now.com/news/multiple-people-shot-in-downtown-st-louis/
 2233891,"February 14, 2022",Missouri,Springfield,1400 block of N Frisco Ave,0,1,https://www.ky3.com/2022/02/15/springfield-police-investigate-shots-fired-by-3-into-house-hitting-person-sleeping/
 2235407,"February 14, 2022",Indiana,Gary,1100 block of Clark St,0,1,https://www.nwitimes.com/news/local/crime-and-courts/teen-wounded-in-shooting-police-say/article_aa6efc53-b846-5a66-8df4-b97f45fd75a0.html
 2234584,"February 14, 2022",North Carolina,Greensboro,2600 block of Patio Pl,0,1,https://www.wfmynews2.com/article/news/crime/person-rushed-to-hospital-after-shooting-on-patio-place-in-greensboro-monday/83-c4183b9c-49b0-4486-b694-1d60d28d40ab
@@ -225,4 +237,3 @@ id,date,state,county,addr,death,injured,link
 2234302,"February 14, 2022",California,Bakersfield,Pensinger Rd and Buena Vista Rd,0,1,https://www.turnto23.com/news/crime/bpd-16-year-old-boy-armed-with-a-knife-shot-following-officer-involved-shooting
 2233483,"February 14, 2022",Indiana,Indianapolis,I-70 and Shadeland Ave,0,1,https://www.wthr.com/article/news/local/impd-indiana-state-police-2-shot-interstate-70-indianapolis/531-7f9789ae-75fb-4c3b-b169-3ed385b2feb1
 2234160,"February 14, 2022",Illinois,Chicago,5300 block of S Hoyne Ave,0,1,https://chicago.suntimes.com/crime/2022/2/15/22934527/1-person-shot-monday-february-15-crime-gun-violence-chicago
-2233999,"February 14, 2022",Louisiana,Shreveport,Downing St and Bond Dr,1,0,https://www.ktbs.com/deadliestzipcodes/victim-in-monday-afternoon-fatal-shooting-identified/article_9fde8414-8e4e-11ec-b3ba-dbeb4433dbd6.html
