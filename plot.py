@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[16]:
+# In[1]:
 
 
 #!/usr/bin/env python3
@@ -18,7 +18,7 @@ df['date'] = pd.to_datetime(df['date'])
 df.head()
 
 
-# In[17]:
+# In[2]:
 
 
 county_count = df[['state', 'county', 'death', 'injured']].groupby(by=['state', 'county']).sum()
@@ -27,7 +27,7 @@ county_count.sort_values(by='total', ascending=False, inplace=True)
 county_count.head()
 
 
-# In[18]:
+# In[3]:
 
 
 def plot_victim_groupby(df, days=3, limit=20, groupby=['state', 'county']):
@@ -51,18 +51,18 @@ def plot_victim_groupby(df, days=3, limit=20, groupby=['state', 'county']):
     plt.tight_layout()
     return fig
 
-fig = plot_victim_groupby(df)
-fig.savefig('docs/imgs/victim_city_3days.png')
+fig = plot_victim_groupby(df, days=7)
+fig.savefig('docs/imgs/victim_city_7days.png')
 
 
-# In[19]:
+# In[4]:
 
 
-fig = plot_victim_groupby(df, groupby=['state'])
-fig.savefig('docs/imgs/victim_state_3days.png')
+fig = plot_victim_groupby(df, days=7, groupby=['state'])
+fig.savefig('docs/imgs/victim_state_7days.png')
 
 
-# In[20]:
+# In[5]:
 
 
 date_count = df[['date', 'injured', 'death']].groupby('date').sum()
@@ -70,7 +70,7 @@ date_count['total'] = date_count['injured'] + date_count['death']
 date_count
 
 
-# In[21]:
+# In[6]:
 
 
 def plot_victim_time(df, days=90):
@@ -89,8 +89,8 @@ def plot_victim_time(df, days=90):
     plt.tight_layout()
     return fig
 
-fig = plot_victim_time(df, days=90)
-fig.savefig('docs/imgs/victim_count_90days.png')
+fig = plot_victim_time(df, days=30)
+fig.savefig('docs/imgs/victim_count_30days.png')
 
 
 # In[ ]:
