@@ -748,3 +748,30 @@ id,date,state,county,addr,death,injured,link
 2237051,"February 17, 2022",Louisiana,Baton Rouge,5300 block of Astoria Dr,0,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_9efc7e76-90cd-11ec-8ce0-238fb638481f.html
 2237047,"February 17, 2022",Alabama,Newville,1023 Ozark Rd,1,0,https://www.wsfa.com/2022/02/18/henry-county-teen-fatally-shot-during-dispute/
 2236599,"February 17, 2022",Alabama,Dothan,US-231 and Ross Clark Cir,1,0,https://www.al.com/news/2022/02/dothan-police-shoot-kill-person-they-say-drove-through-crime-scene.html
+2237161,"February 19, 2022",Florida,Miami,SW 8th St and SW 13th Ave,1,0,https://www.local10.com/news/local/2022/02/19/police-investigating-overnight-shooting-death-in-little-havana/
+2237152,"February 19, 2022",Louisiana,New Orleans,4600 block of Rosalia Dr,1,0,https://wgno.com/news/crime/new-orleans-east-homicide-leaves-45-year-old-man-dead-on-the-scene/
+2237143,"February 19, 2022",Arizona,Phoenix,N 32nd St and E Harvard St,1,0,https://www.abc15.com/news/region-phoenix-metro/man-shot-and-killed-near-32nd-street-and-thomas-road
+2237141,"February 19, 2022",Texas,Corpus Christi,2200 block of Bolivar St,1,0,https://www.kristv.com/news/local-news/teen-dead-after-midnight-shooting
+2237118,"February 19, 2022",Florida,Jacksonville,2800 block of Belair Rd E,0,1,https://www.news4jax.com/news/local/2022/02/19/person-shot-on-belair-rd-according-to-jso/
+2237058,"February 19, 2022",North Carolina,Durham,1400 E Cornwallis Rd,2,2,https://www.wral.com/2-killed-2-hurt-in-shooting-at-durham-apartment-complex/20148647/
+2237147,"February 18, 2022",Arizona,Phoenix,35th Ave and Osborn Rd,1,1,https://www.abc15.com/news/crime/one-man-killed-another-hospitalized-after-shooting-friday-morning-in-phoenix
+2237111,"February 18, 2022",Pennsylvania,Philadelphia,6100 block of Ogontz Ave,0,1,https://philadelphia.cbslocal.com/2022/02/18/philadelphia-east-germantown-shooting-woman-injured-child-dog-mauling/
+2237109,"February 18, 2022",Texas,Texarkana,400 block of W 53rd St,1,0,https://kfdm.com/news/local/port-arthur-police-investigating-after-man-found-dead-had-gunshot-wound
+2237008,"February 18, 2022",Illinois,Chicago,9332 block of S Harper Ave,1,0,https://twitter.com/SPOTNEWSonIG/status/1494847832938921992
+2237096,"February 18, 2022",Illinois,Chicago,8400 block of S Ingleside Ave,1,0,https://abc7chicago.com/chicago-shooting-crime-south-side-police/11580135/
+2237094,"February 18, 2022",Texas,Houston,3700 block of Old Spanish Trail,0,1,https://twitter.com/houstonpolice/status/1494866469758414849?cxt=HHwWgsC9ycrI6r4pAAAA
+2237091,"February 18, 2022",Illinois,Chicago,4400 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4400-block-of-w-belmont-on-february-18-2022-approx-1052-p-m-25th-dist/
+2237088,"February 18, 2022",Illinois,Chicago,3500 block of W Lawrence Ave,0,1,https://home.chicagopolice.org/media_incident/3500-block-of-w-lawrence-on-february-18-2022-approx-1026-p-m-17th-dist/
+2237083,"February 18, 2022",Texas,Houston,2000 block of Caroline St,1,1,https://twitter.com/houstonpolice/status/1494881556254633988?cxt=HHwWiMC53d228b4pAAAA
+2237073,"February 18, 2022",Washington,Vancouver,7300 block of NE 131st Ave,0,1,https://katu.com/news/local/youth-shot-near-heritage-high-school-in-vancouver-violence-linked-to-gang-dispute
+2237165,"February 17, 2022",Texas,Duncansville,700 block of W Center St,1,0,https://www.focusdailynews.com/duncanville-police-respond-to-call-on-shooting-with-injury/
+2235843,"February 17, 2022",Arizona,Glendale,65th Ave and Bethany Home Rd,1,0,https://www.12news.com/article/news/local/arizona/mother-of-7-year-old-killed-in-glendale-drive-by-shooting-speaks-out/75-e2b3a88f-02bf-4c7e-aba7-9c0b052b5698
+2237123,"February 17, 2022",Florida,Jacksonville,5200 block of Roanoke Blvd,1,0,https://www.firstcoastnews.com/article/news/crime/father-of-3-identified-as-victim/77-058251bb-02ff-4af6-bea6-24fb2a79b019
+2237116,"February 17, 2022",Pennsylvania,Philadelphia,4700 block of Bleigh St,0,1,"https://phl.carto.com/api/v2/sql?q=SELECT+*,+ST_Y(the_geom)+AS+lat,+ST_X(the_geom)+AS+lng+FROM+shootings&filename=shootings&format=csv&skipfields=cartodb_id"
+2237114,"February 17, 2022",Pennsylvania,Philadelphia,1300 block of Arrott St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2237081,"February 17, 2022",Oregon,Portland,,0,1,https://www.koin.com/news/crime/portland-sees-6-shooting-incidents-within-9-hours/
+2237079,"February 17, 2022",Oregon,Portland,NE Fremont St,1,0,https://www.koin.com/news/crime/portland-sees-6-shooting-incidents-within-9-hours/
+2237075,"February 17, 2022",Texas,Houston,301 W Little York Rd,2,0,http://www.houstontx.gov/police/nr/2022/feb/nr220217-5.htm
+2237067,"February 17, 2022",Mississippi,Natchez,103 Jackson St,1,0,https://www.natchezdemocrat.com/2022/02/17/update-teen-found-dead-on-arrival-at-shooting-scene-near-martin-luther-king-jackson-streets/
+2236737,"February 17, 2022",California,Norwalk,12100 block of Foster Rd,1,1,https://losangeles.cbslocal.com/2022/02/18/deputy-involved-shooting-thursday-evening-in-norwalk/
+2236205,"February 17, 2022",Mississippi,Louin,CR 16,0,2,https://www.leader-call.com/news/free_news/home-invasion-shootout-suspect-caught-in-jones/article_617d81ea-9103-11ec-9403-5bcc55c5334d.html
