@@ -1,4 +1,8 @@
 id,date,state,county,addr,death,injured,link
+2237861,"February 20, 2022",Florida,Jacksonville,888 Franklin St,1,0,https://www.firstcoastnews.com/article/news/crime/deadly-shooting-downtown-east-apartments-jacksonville/77-e9c41a3b-3aca-44ba-897f-4a5d2a38afc1
+2237805,"February 20, 2022",Illinois,Chicago,6300 block of S Wentworth Ave,0,1,https://home.chicagopolice.org/media_incident/6300-block-of-s-wentworth-on-february-19-2022-at-approx-119-p-m-3rd-district/
+2237784,"February 20, 2022",Illinois,Chicago,4200 block of W Irving Park Rd,0,3,https://chicago.suntimes.com/crime/2022/2/20/22942984/3-shot-at-gathering-in-old-irving-park
+2237779,"February 20, 2022",Illinois,Chicago,12000 block of S Princeton Ave,1,0,https://chicago.suntimes.com/crime/2022/2/20/22943237/1-in-custody-after-man-shot-and-killed-after-fight-inside-west-pullman-home
 2237735,"February 20, 2022",Illinois,Waukegan,3900 Fountain Square Pl,0,2,https://www.nbcchicago.com/news/local/2-shot-during-altercation-in-waukegan-walmart-parking-lot/2764723/
 2237574,"February 19, 2022",Louisiana,Lafayette,3300 block of Ambassador Caffery Pkwy,0,1,https://www.klfy.com/lafayette-parish/altercation-in-lafayette-ends-with-shooting-and-one-in-hospital/
 2237570,"February 19, 2022",Oklahoma,Oklahoma City,SW 44th St and S May Ave,0,1,https://kfor.com/news/local/man-shot-twice-during-drive-by-shooting-in-oklahoma-city/
@@ -39,9 +43,20 @@ id,date,state,county,addr,death,injured,link
 2237186,"February 19, 2022",Florida,Spring Hill,4564 Commercial Way,0,1,https://www.wfla.com/news/local-news/hernando-county/man-shot-multiple-times-in-spring-hill-lounge-parking-lot/
 2237179,"February 19, 2022",New Mexico,Albuquerque,1st St and Central Ave,1,0,https://www.kob.com/albuquerque-news/apd-investigates-fatal-shooting-in-downtown-albuquerque/6398683/?cat=516
 2237161,"February 19, 2022",Florida,Miami,SW 8th St and SW 13th Ave,1,0,https://www.local10.com/news/local/2022/02/19/police-investigating-overnight-shooting-death-in-little-havana/
+2237863,"February 19, 2022",Florida,Winter Park,1050 W Morse Blvd,1,0,https://www.news4jax.com/news/local/2022/02/20/man-shot-by-police-dies-2-officers-injured-after-fight-at-central-florida-wedding-reception/
+2237855,"February 19, 2022",Florida,Fort Myers,2810 Grand Ave,0,1,https://nbc-2.com/news/crime/2022/02/20/fort-myers-police-investigate-shooting-at-an-apartment-complex/
 2237143,"February 19, 2022",Arizona,Phoenix,N 32nd St and E Harvard St,1,0,https://www.abc15.com/news/region-phoenix-metro/man-shot-and-killed-near-32nd-street-and-thomas-road
 2237141,"February 19, 2022",Texas,Corpus Christi,2200 block of Bolivar St,1,0,https://www.kristv.com/news/local-news/teen-dead-after-midnight-shooting
 2237118,"February 19, 2022",Florida,Jacksonville,2800 block of Belair Rd E,0,1,https://www.news4jax.com/news/local/2022/02/19/person-shot-on-belair-rd-according-to-jso/
+2237826,"February 19, 2022",Tennessee,Elizabethton,Hillside Drive,1,0,http://www.sheriff.cc/press-releases/sheriffs-office-conducting-homicide-investigation-after-shooting-on-hillside-drive/
+2237697,"February 19, 2022",Oregon,Portland,NE 55th Ave and NE Hassalo St,1,5,https://www.kgw.com/article/news/crime/four-shot-one-deceased-two-arrested-mass-shooting/283-e203fa09-d667-43ae-9f17-c07f4992a7f3
+2237808,"February 19, 2022",Oregon,Portland,900 block of SW Broadway Dr,1,0,https://www.portlandoregon.gov/police/news/read.cfm?id=402188
+2237801,"February 19, 2022",Illinois,Chicago,4300 block of W Thomas St,0,1,https://home.chicagopolice.org/media_incident/4300-block-of-w-thomas-on-february-19-2022-at-approx-348-p-m-11th-district/
+2237796,"February 19, 2022",Illinois,Chicago,13200 block of S Prairie Ave,0,2,https://chicago.cbslocal.com/2022/02/20/man-in-serious-condition-woman-injured-after-shooting-in-eden-green/
+2237791,"February 19, 2022",Illinois,Chicago,500 block of W 66th St,0,2,https://chicago.suntimes.com/crime/2022/2/20/22942987/weekend-roundup-shootings-homicides-chicago
+2237789,"February 19, 2022",Kentucky,Lexington,1749 Liberty Rd,1,0,https://www.wkyt.com/2022/02/20/one-person-killed-lexington-shooting/
+2237782,"February 19, 2022",Illinois,Chicago,5400 block of W Walton St,1,0,https://chicago.suntimes.com/crime/2022/2/20/22942933/man-found-fatally-shot-in-south-austin
+2237775,"February 19, 2022",Washington,Tacoma,4300 block of S Cedar St,1,0,https://www.kiro7.com/news/local/homicide-investigation-underway-after-man-shot-tacoma/OAKP5JKSLZCVFPC2QJ6RHPG5EE/
 2237058,"February 19, 2022",North Carolina,Durham,1400 E Cornwallis Rd,2,2,https://www.wral.com/2-killed-2-hurt-in-shooting-at-durham-apartment-complex/20148647/
 2237754,"February 19, 2022",Wisconsin,Milwaukee,N 13th St and W North Ave,1,1,https://www.cbs58.com/news/milwaukee-police-investigating-overnight-shooting-that-left-one-dead
 2237746,"February 19, 2022",Minnesota,Minneapolis,2100 block of Lyndale Ave S,0,2,https://minnesota.cbslocal.com/2022/02/19/4-people-shot-injured-in-separate-minneapolis-incidents-overnight/
@@ -49,8 +64,8 @@ id,date,state,county,addr,death,injured,link
 2237741,"February 19, 2022",Minnesota,Minneapolis (Golden Valley),Duluth St and Regent Ave N,0,1,https://minnesota.cbslocal.com/2022/02/19/police-report-drive-by-shooting-in-golden-valley/
 2237739,"February 19, 2022",Alabama,Birmingham (Ensley),1745 33rd St,1,0,https://www.al.com/news/birmingham/2022/02/46-year-old-man-found-shot-to-death-in-front-yard-of-ensley-home.html
 2237593,"February 19, 2022",Missouri,Charleston,106 S Franklin St,2,14,https://www.kfvs12.com/2022/02/19/shooting-charleston-leaves-two-dead-multiple-injuries/
+2237451,"February 19, 2022",Alabama,Tuscaloosa,1701 McFarland Blvd E,0,4,https://www.wbrc.com/2022/02/19/one-injured-shooting-university-mall-tuscaloosa/
 2237196,"February 19, 2022",California,Turlock,142 S 1st St,0,7,https://www.facebook.com/TurlockPD/posts/318893603600704
-2237697,"February 19, 2022",Oregon,Portland,NE 55th Ave and NE Hassalo St,1,3,https://katu.com/news/local/one-killed-in-northeast-portland-mass-shooting
 2237635,"February 19, 2022",North Carolina,Charlotte,N Tryon St and Salome Church Rd,0,2,https://www.wsoctv.com/news/local/mecklenburg-sheriffs-deputy-shot-northeast-charlotte-officials-says/SOGG4QCSXNAGDGRMYXDWH744ME/
 2237689,"February 19, 2022",Arkansas,Jonesboro,N/A,0,1,https://www.knoe.com/2022/02/19/jonesboro-police-investigating-after-gunshot-victim-shows-up-hospital/
 2237678,"February 19, 2022",North Carolina,Greensboro,2100 block of Textile Dr,0,1,https://www.wfmynews2.com/article/news/crime/one-person-hurt-in-textile-drive-shooting-in-greensboro/83-34b5d4ca-388b-4b97-a61b-fa4b54fb7b22
@@ -124,7 +139,6 @@ id,date,state,county,addr,death,injured,link
 2237096,"February 18, 2022",Illinois,Chicago,8400 block of S Ingleside Ave,1,0,https://abc7chicago.com/chicago-shooting-crime-south-side-police/11580135/
 2237091,"February 18, 2022",Illinois,Chicago,4400 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4400-block-of-w-belmont-on-february-18-2022-approx-1052-p-m-25th-dist/
 2237088,"February 18, 2022",Illinois,Chicago,3500 block of W Lawrence Ave,0,1,https://home.chicagopolice.org/media_incident/3500-block-of-w-lawrence-on-february-18-2022-approx-1026-p-m-17th-dist/
-2237088,"February 18, 2022",Illinois,Chicago,3500 block of W Lawrence Ave,0,1,https://home.chicagopolice.org/media_incident/3500-block-of-w-lawrence-on-february-18-2022-approx-1026-p-m-17th-dist/
 2237073,"February 18, 2022",Washington,Vancouver,7300 block of NE 131st Ave,0,1,https://katu.com/news/local/youth-shot-near-heritage-high-school-in-vancouver-violence-linked-to-gang-dispute
 2237056,"February 18, 2022",Louisiana,New Orleans,400 block of S Broad St,1,0,https://www.wdsu.com/article/new-orleans-police-homicide-tulane-gravier/39133467
 2237751,"February 18, 2022",Wisconsin,Beaver Dam,Lakecrest Dr,0,1,https://www.wiscnews.com/community/bdc/beaver-dam-police-investigate-man-shot-in-the-foot/article_cff646d6-9655-5c51-9f04-939ae88ccfb0.html#tracking-source=home-top-story
@@ -149,6 +163,8 @@ id,date,state,county,addr,death,injured,link
 2236823,"February 17, 2022",Kansas,Kansas City,Birch Dr and S 22nd St,2,0,https://fox4kc.com/news/2-juveniles-shot-and-killed-in-kck-apartment/
 2236160,"February 17, 2022",Texas,Midland,4509 W Wadley Ave,2,0,https://www.chron.com/news/local/article/MPD-respond-to-murder-suicide-16927865.php
 2236345,"February 17, 2022",Virginia,Richmond,700 block of E 6th St,0,1,https://www.wric.com/news/woman-shot-in-southside-richmond-expected-to-recover/
+2236308,"February 17, 2022",New York,Syracuse,Walton St,0,1,https://www.syracuse.com/crime/2022/02/woman-found-bleeding-heavily-after-reported-shooting-in-armory-square.html
+2235938,"February 17, 2022",Pennsylvania,Philadelphia,1700 block of Chestnut St,0,2,https://philadelphia.cbslocal.com/2022/02/18/philadelphia-shooting-center-city-delivery-driver-gun-violence/
 2237479,"February 17, 2022",Florida,Miami Gardens,3101 NW 191st St,0,0,https://wsvn.com/news/local/miami-dade/police-woman-brought-gun-to-parent-teacher-conference-at-brentwood-elementary-threatened-to-use-it/
 2236968,"February 17, 2022",New York,Poughkeepsie,49 Gifford Ave,1,0,https://dailyvoice.com/new-york/putnam/police-fire/one-dead-following-shooting-in-area-police-say/826321/
 2236198,"February 17, 2022",Minnesota,Saint Paul,Old Hudson Rd and White Bear Ave,0,1,https://www.twincities.com/2022/02/17/rideshare-driver-shot-carjacked-by-passengers-in-st-paul-police-say/
@@ -174,8 +190,6 @@ id,date,state,county,addr,death,injured,link
 2236152,"February 17, 2022",Illinois,Chicago,200 block of N Campbell Ave,0,1,https://home.chicagopolice.org/media_incident/200-block-of-n-campbell-on-17-feb-22-approx-1000-a-m-12th-district/
 2236208,"February 17, 2022",Texas,Odessa,1305 E 8th St,1,0,https://www.newswest9.com/article/news/local/opd-investigates-major-incident-in-1300-block-of-e-8th/513-87702e89-2b1f-439b-9610-e11ff1fde01d
 2236280,"February 17, 2022",Virginia,Richmond,1402 Jennie Scher Rd,1,0,https://www.nbc12.com/2022/02/18/family-identifies-richmond-high-school-student-killed-shooting/
-2236208,"February 17, 2022",Texas,Odessa,1305 E 8th St,1,0,https://www.newswest9.com/article/news/local/opd-investigates-major-incident-in-1300-block-of-e-8th/513-87702e89-2b1f-439b-9610-e11ff1fde01d
-2236280,"February 17, 2022",Virginia,Richmond,1402 Jennie Scher Rd,1,0,https://www.nbc12.com/2022/02/18/family-identifies-richmond-high-school-student-killed-shooting/
 2236118,"February 17, 2022",Illinois,Chicago,50 block of S Western Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-western-on-february-17-2022-at-approx-221-p-m-11th-district/
 2236101,"February 17, 2022",Illinois,Chicago,8600 block of S Elizabeth St,0,2,https://chicago.suntimes.com/crime/2022/2/17/22939691/2-wounded-drive-by-auburn-gresham
 2236826,"February 17, 2022",Texas,Fort Worth,2425 Scott Ave,0,1,https://www.star-telegram.com/news/local/crime/article258538798.html
@@ -199,33 +213,6 @@ id,date,state,county,addr,death,injured,link
 2236584,"February 17, 2022",California,Wilmington,1011 N Flint Ave,0,2,https://ktla.com/news/local-news/two-men-wounded-in-wilmington-drive-by-shooting/
 2236697,"February 17, 2022",California,Lucerne Valley,29900 block of Exeter St,1,0,https://ktla.com/news/local-news/man-arrested-for-fatally-shooting-father-in-san-bernardino-county-sheriff/
 2236695,"February 17, 2022",North Carolina,Goldsboro,607 Stronach Ave,0,1,https://www.witn.com/2022/02/18/teen-critical-condition-after-goldsboro-shooting/
+2236693,"February 17, 2022",North Carolina,Weldon,900 Sycamore St,1,0,https://www.witn.com/2022/02/18/teenager-fatally-shot-halifax-county/
+2236690,"February 17, 2022",California,Oakland,1400 block of 17th Ave,1,0,https://www.mercurynews.com/2022/02/18/oakland-two-men-shot-to-death-within-a-four-hour-span/
 2235849,"February 17, 2022",Arizona,Mesa,Alma School Rd and Main St,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/02/17/mesa-police-officer-shoots-kills-man-seen-firing-gun-surveillance-footage/6828123001/
-2236267,"February 17, 2022",Alabama,Birmingham,1700 block of 14th Way SW,1,0,https://police.birminghamal.gov/media-release-33-ongoing-homicide-investigation-in-the-cooper-green-housing-community/
-2235843,"February 17, 2022",Arizona,Glendale,65th Ave and Bethany Home Rd,1,0,https://www.12news.com/article/news/local/arizona/mother-of-7-year-old-killed-in-glendale-drive-by-shooting-speaks-out/75-e2b3a88f-02bf-4c7e-aba7-9c0b052b5698
-2235869,"February 17, 2022",Indiana,Indianapolis,Hillside Ave and E 25th St,0,1,https://www.wthr.com/article/news/crime/3-injured-in-east-indianapolis-shootings-thursday-morning-impd/531-543b2082-d045-4f92-af07-836d1e77d5a2
-2235862,"February 17, 2022",Indiana,Indianapolis,1900 block of N Bosart Ave,0,1,https://www.wthr.com/article/news/crime/3-injured-in-east-indianapolis-shootings-thursday-morning-impd/531-543b2082-d045-4f92-af07-836d1e77d5a2
-2235857,"February 17, 2022",Indiana,Indianapolis,2100 block of N Drexel Ave,0,1,https://www.wthr.com/article/news/crime/3-injured-in-east-indianapolis-shootings-thursday-morning-impd/531-543b2082-d045-4f92-af07-836d1e77d5a2
-2237123,"February 17, 2022",Florida,Jacksonville,5200 block of Roanoke Blvd,1,0,https://www.firstcoastnews.com/article/news/crime/father-of-3-identified-as-victim/77-058251bb-02ff-4af6-bea6-24fb2a79b019
-2237116,"February 17, 2022",Pennsylvania,Philadelphia,4700 block of Bleigh St,0,1,"https://phl.carto.com/api/v2/sql?q=SELECT+*,+ST_Y(the_geom)+AS+lat,+ST_X(the_geom)+AS+lng+FROM+shootings&filename=shootings&format=csv&skipfields=cartodb_id"
-2236593,"February 17, 2022",Maryland,Baltimore,2300 block of Eutaw Pl,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-shootings-0217-20220217-t5qlojo4mzfc3khdnmf5j3pvam-story.html
-2237114,"February 17, 2022",Pennsylvania,Philadelphia,1300 block of Arrott St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
-2235827,"February 17, 2022",Maryland,Fort Washington,Woodrow Wilson Memorial Bridge,1,0,https://twitter.com/RealTimeNews10/status/1494346981006888962
-2236577,"February 17, 2022",Maryland,Rockville,Fletcher Pl and Bradley Ave,1,0,https://wjla.com/news/local/22-year-old-man-gunshot-wounds-montgomery-county-homicide-rockville-intersection-bradley-avenue-fletcher-place-investigating-shooting-police-presence
-2236193,"February 17, 2022",District of Columbia,Washington,3700 Georgia Ave NW,0,1,https://www.fox5dc.com/news/15-year-old-arrested-in-shooting-of-teen-at-dc-metro-station
-2236575,"February 17, 2022",California,Stockton,Greensboro Way,1,0,https://fox40.com/news/local-news/stockton-police-investigating-shooting-that-left-man-injured/
-2236571,"February 17, 2022",New Jersey,Newark,Orange St and 4th St,0,3,https://www.rlsmedia.com/article/breaking-three-juveniles-shot-newark
-2236568,"February 17, 2022",New Jersey,Newark,152 Livingston St,0,1,https://www.rlsmedia.com/article/male-shot-back-newarks-central-ward
-2235778,"February 17, 2022",Texas,Houston,3000 Blodgett St,0,5,https://www.ketk.com/news/crime-public-safety/5-injured-in-texas-shooting-outside-nightclub/
-2235794,"February 17, 2022",Texas,Austin,Colorado St and W 4th St,0,2,https://cbsaustin.com/news/local/2-shooting-victims-dumped-in-downtown-austin
-2236560,"February 17, 2022",Illinois,Chicago,5700 block of S Laflin St,0,2,https://home.chicagopolice.org/media_incident/5700-block-of-south-laflin-on-17-feb-22-at-approx-641pm-007th-district/
-2236083,"February 17, 2022",Illinois,Chicago,5800 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/2/17/22939141/15-year-old-boy-critically-wounded-west-englewood-shooting
-2235789,"February 17, 2022",Texas,La Marque,1000 block of Pirtle St,0,2,https://www.click2houston.com/news/local/2022/02/17/gunmen-open-fire-on-2-men-during-walk-by-shooting-in-la-marque-police-say/
-2236554,"February 17, 2022",Illinois,Kankakee,300 block of S Harrison Ave,1,0,https://www.daily-journal.com/news/update-police-say-shooting-death-related-to-another-report-of-shots-fired/article_d73f2fee-9038-11ec-a2da-3fd52367bf1a.html
-2237081,"February 17, 2022",Oregon,Portland,N/A,0,1,https://www.koin.com/news/crime/portland-sees-6-shooting-incidents-within-9-hours/
-2236552,"February 17, 2022",Washington,Grandview,800 block of W 2nd St,0,1,https://www.yaktrinews.com/two-suspects-at-large-in-grandview-after-shooting-outside-of-an-elementary-school/
-2235755,"February 17, 2022",Washington,Seattle,3rd Ave and Cedar St,0,2,https://komonews.com/news/local/suspect-sought-after-2-men-shot-wounded-in-seattle-police-say
-2236552,"February 17, 2022",Washington,Grandview,800 block of W 2nd St,0,1,https://www.yaktrinews.com/two-suspects-at-large-in-grandview-after-shooting-outside-of-an-elementary-school/
-2235755,"February 17, 2022",Washington,Seattle,3rd Ave and Cedar St,0,2,https://komonews.com/news/local/suspect-sought-after-2-men-shot-wounded-in-seattle-police-say
-2237067,"February 17, 2022",Mississippi,Natchez,103 Jackson St,1,0,https://www.natchezdemocrat.com/2022/02/17/update-teen-found-dead-on-arrival-at-shooting-scene-near-martin-luther-king-jackson-streets/
-2236737,"February 17, 2022",California,Norwalk,12100 block of Foster Rd,1,1,https://losangeles.cbslocal.com/2022/02/18/deputy-involved-shooting-thursday-evening-in-norwalk/
-2236205,"February 17, 2022",Mississippi,Louin,CR 16,0,2,https://www.leader-call.com/news/free_news/home-invasion-shootout-suspect-caught-in-jones/article_617d81ea-9103-11ec-9403-5bcc55c5334d.html
