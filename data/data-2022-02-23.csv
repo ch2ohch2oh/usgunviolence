@@ -39,6 +39,10 @@ id,date,state,county,addr,death,injured,link
 2239380,"February 22, 2022",District of Columbia,Washington,Martin Luther King Jr Ave SE and Talbert St SE,0,1,https://twitter.com/Killmoenews1/status/1496133502265401344
 2239360,"February 22, 2022",District of Columbia,Washington,Ainger Pl SE and Bruce Pl SE,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/45706
 2239299,"February 22, 2022",Missouri,Saint Louis,N/A,0,1,https://twitter.com/RogueRunnerSTL/status/1496086889950031875
+2240115,"February 22, 2022",Idaho,Boise,W Fairview Ave,0,1,https://www.idahopress.com/news/local/boise-police-man-shot-by-police-officer-is-hospitalized/article_8dec26e7-9c5e-577b-af99-a28d0e5d36df.html
+2240107,"February 22, 2022",Washington,Renton,Bronson Way NE and Vuemont Pl NE,0,1,https://www.kiro7.com/news/local/renton-police-investigating-after-man-shot-hip/LEHKATECTZFSXHHHIPTIRY264A/
+2240096,"February 22, 2022",Louisiana,Shreveport,2000 Grimmett Dr,0,2,https://www.ksla.com/2022/02/23/gunfire-reported-grimmett-drive/
+2240077,"February 22, 2022",Louisiana,New Orleans,4300 block of Dodt Ave,1,0,https://www.nola.com/news/crime_police/article_0ddc87ec-9451-11ec-9c97-17b4a5221d2b.html
 2239895,"February 22, 2022",Michigan,Detroit,I-94 and 14th St,0,1,https://www.wxyz.com/news/eastbound-i-94-at-i-96-in-detroit-closes-after-shooting
 2239961,"February 22, 2022",Minnesota,Minneapolis,3300 block of 25th Ave S,1,0,https://minnesota.cbslocal.com/2022/02/22/minneapolis-corcoran-homicide/
 2240057,"February 22, 2022",Alabama,Birmingham,500 block of 83rd Pl S,1,1,https://www.al.com/news/birmingham/2022/02/1-killed-1-wounded-in-east-birmingham-shooting-tuesday-night.html
@@ -129,17 +133,17 @@ id,date,state,county,addr,death,injured,link
 2239307,"February 21, 2022",Florida,West Palm Beach,4385 45th St,0,2,https://www.wptv.com/news/region-c-palm-beach-county/west-palm-beach/two-shot-inside-taco-bell-in-west-palm-beach
 2238617,"February 21, 2022",Missouri,Kansas City,Linwood Blvd and Agnes Ave,2,1,https://www.kmbc.com/article/2-dead-child-injured-in-shooting-early-monday-morning/39158194
 2239293,"February 21, 2022",Colorado,Aurora,11500 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1495841897163677696
-2239288,"February 21, 2022",Washington,Seattle,1409 SW 107th St,0,1,https://www.q13fox.com/news/deputies-investigating-13-year-old-boy-shot-in-white-center
 2239286,"February 21, 2022",Washington,Renton,1400 block of Shattuck Ave S,0,1,https://www.q13fox.com/news/police-man-shot-in-the-back-in-renton
 2239284,"February 21, 2022",Washington,Seattle,3rd Ave and Pike St,0,1,https://www.q13fox.com/news/police-investigating-downtown-seattle-shooting
 2239271,"February 21, 2022",New York,Rochester,300 block of Roycroft Dr,0,1,https://twitter.com/RPLCinfosharing/status/1495800077608275971
 2239253,"February 21, 2022",New York,Corona (Queens),109-02 Merrick Blvd,0,1,https://www.nydailynews.com/new-york/nyc-crime/ny-queens-one-man-stabbed-another-shot-20220222-gjxdmwssivcjzcxh2vvg4sg2re-story.html
 2239257,"February 21, 2022",New York,Corona (Queens),116-19 Mexico St,1,0,https://nypost.com/2022/02/22/queens-violence-leaves-two-men-dead-another-wounded/
 2239260,"February 21, 2022",New York,Bronx,2821 Dewey Ave,0,1,https://twitter.com/NYC_Alerts911/status/1495896266181595139
+2240072,"February 21, 2022",Louisiana,New Orleans,300 block of Magazine St,0,1,https://wgno.com/news/crime/domestic-dispute-leads-to-woman-being-shot-in-head-nopd-reports/
+2239199,"February 21, 2022",Louisiana,Marrero,1800 block of Betty St,1,0,https://www.nola.com/news/crime_police/article_f9fe1542-9419-11ec-8da9-2b69f28bdc14.html
+2240070,"February 21, 2022",Alabama,Mobile,I-65,0,1,https://mynbc15.com/news/local/person-shot-on-i-65-in-mobile
 2239233,"February 21, 2022",Louisiana,New Orleans,7900 block of Chef Menteur Hwy,1,1,https://www.wdsu.com/article/new-orleans-police-double-shooting-homicide/39159824
 2240060,"February 21, 2022",Alabama,Birmingham,1700 block of 33rd St N,1,0,https://www.wvtm13.com/article/homicide-investigation-norwood-neighborhood-birmingham/39167206
-2239199,"February 21, 2022",Louisiana,Marrero,1800 block of Betty St,1,0,https://www.fox8live.com/2022/02/21/john-ehret-high-student-shot-death-early-monday-marrero-jpso-says/
-2239185,"February 20, 2022",South Dakota,Rapid City,826 Main St,1,0,https://www.newscenter1.tv/one-person-dead-following-downtown-rapid-city-shooting/
 2237955,"February 20, 2022",Texas,San Antonio,126 W Rector,1,1,https://foxsanantonio.com/newsletter-daily/man-dies-while-trying-to-defend-his-friend-from-gunman-outside-sports-bar-investigation-handgun-violence-sanantonio-police-custody-arrest-suspect
 2238284,"February 20, 2022",California,Fresno,Nevada Ave and Backer Ave,0,1,https://abc30.com/fresno-neighbor-shooting-police-feud/11584563/
 2238401,"February 20, 2022",Montana,Great Falls,200 block of 16th Ave S,0,1,https://www.greatfallstribune.com/story/news/crime/2022/02/20/great-falls-police-department-investigating-home-shooting/63432980007/
@@ -258,8 +262,3 @@ id,date,state,county,addr,death,injured,link
 2238418,"February 20, 2022",Washington,Pasco,Pilot Ln and Wrigley Dr,0,1,https://www.nbcrightnow.com/rightnow/police-investigating-shots-fired-in-pasco-neighborhood/article_49520eca-92ab-11ec-8f7e-6fefd1880d0d.html
 2238413,"February 20, 2022",Washington,Seattle,1700 block of Summit Ave,1,0,https://www.kiro7.com/news/local/police-searching-suspect-after-1-injured-shooting/4USCIVSBYJHDHL62HNLUZIBUGM/
 2238410,"February 20, 2022",Washington,Federal Way,27202 Pacific Hwy S,0,1,https://www.q13fox.com/news/police-investigating-federal-way-shooting-man-seriously-injured
-2239274,"February 20, 2022",New York,Rochester,300 block of Kelly St,0,1,https://twitter.com/RPLCinfosharing/status/1495800077608275971
-2238399,"February 20, 2022",Massachusetts,Dracut,Lakeview Ave,0,1,https://www.nbcboston.com/news/local/dracut-man-22-injured-in-shooting-no-arrests/2650482/
-2238394,"February 20, 2022",Oklahoma,Boise City,N Texas Ave,1,0,https://www.newschannel10.com/2022/02/21/man-killed-1-person-arrested-after-force-break-in-cimarron-county/
-2237905,"February 20, 2022",Louisiana,New Orleans,I-10 and W 7th St,0,1,https://www.nola.com/news/crime_police/article_6f5762fc-9268-11ec-a53d-f7aeb18bcbb0.html
-2238353,"February 20, 2022",Louisiana,New Orleans,3900 Dublin St,1,0,https://www.nola.com/news/crime_police/article_ab5edc08-92b8-11ec-9678-ab27b860f4ed.html
