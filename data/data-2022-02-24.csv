@@ -33,6 +33,13 @@ id,date,state,county,addr,death,injured,link
 2240332,"February 23, 2022",Florida,Kissimmee,Indian Point Cir,1,0,https://www.wftv.com/news/local/man-18-found-dead-kissimmee/CMTAPZUVDZBEDO7D4B2TTSUFBE/
 2240265,"February 23, 2022",New York,Corona (Queens),711 Seagirt Ave,0,1,https://twitter.com/NYC_Alerts911/status/1496321048538755077
 2240153,"February 23, 2022",Arizona,Phoenix,51st Ave and Thomas Rd,1,0,https://www.azfamily.com/news/woman-shoots-kills-father-after-claims-of-sexual-abuse/article_fabc6aea-9434-11ec-b578-8fa10251bfec.html
+2240923,"February 23, 2022",Wisconsin,Milwaukee,N/A,0,1,https://mke-police.herokuapp.com/call/220540813
+2240921,"February 23, 2022",Wisconsin,Milwaukee,N 27th St and W Capitol Dr,0,1,https://mke-police.herokuapp.com/call/220542024
+2240919,"February 23, 2022",Wisconsin,Milwaukee,N/A,0,1,https://mke-police.herokuapp.com/call/220540813
+2240904,"February 23, 2022",California,Lompoc (Vandenberg Village),600 block of Mercury Dr,0,1,https://keyt.com/news/santa-maria-north-county/2022/02/23/santa-barbara-sheriffs-office-handling-major-incident-in-lompoc/
+2240902,"February 23, 2022",Michigan,Detroit,Schoolcraft Rd and Asbury Park,0,1,https://www.facebook.com/TheDetroitScanner/posts/5309948182362527
+2240899,"February 23, 2022",Michigan,Detroit,Monica St and Burlingame St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5309653179058694
+2240892,"February 23, 2022",Louisiana,Shreveport,Legardy St and Willie Mays St,0,1,https://www.ksla.com/2022/02/24/driver-shot-once-his-upper-back/
 2240840,"February 23, 2022",Tennessee,Memphis,700 block of Buntyn St,0,2,https://wreg.com/news/local/two-injured-in-orange-mound-shooting-2/
 2240832,"February 23, 2022",Virginia,Norfolk,7400 block of Sewells Point Rd,0,1,https://www.13newsnow.com/article/news/crime/man-hospitalized-norfolk-shooting/291-2ed3c2e4-bac2-4206-b983-b7d7e1122514
 2240829,"February 23, 2022",Texas,San Antonio,2000 S East Loop 410,0,1,https://www.ksat.com/news/local/2022/02/23/police-find-suspect-gun-not-far-from-scene-of-shooting-outside-east-side-bar/
@@ -118,10 +125,13 @@ id,date,state,county,addr,death,injured,link
 2240167,"February 22, 2022",Pennsylvania,Philadelphia,6200 block of Oxford Ave,1,0,https://philadelphia.cbslocal.com/2022/02/22/man-killed-in-shooting-outside-of-storage-facility-in-crescentville-philly-police-say/
 2240131,"February 22, 2022",California,Pittsburg,100 block of W Leland Rd,1,2,https://www.facebook.com/pittsburgpd/posts/297710312455533
 2239299,"February 22, 2022",Missouri,Saint Louis,N/A,0,1,https://twitter.com/RogueRunnerSTL/status/1496086889950031875
+2240942,"February 22, 2022",Washington,Richland,1370 Tapteal Dr,0,1,https://www.tri-cityherald.com/news/local/crime/article258682198.html
+2240933,"February 22, 2022",Nebraska,Omaha,S 155th St and Gertrude St,0,1,https://www.wowt.com/2022/02/23/suspect-custody-after-shooting-sarpy-county-sends-one-person-hospital/
 2240115,"February 22, 2022",Idaho,Boise,W Fairview Ave,0,1,https://www.idahopress.com/news/local/boise-police-man-shot-by-police-officer-is-hospitalized/article_8dec26e7-9c5e-577b-af99-a28d0e5d36df.html
 2240107,"February 22, 2022",Washington,Renton,Bronson Way NE and Vuemont Pl NE,0,1,https://www.kiro7.com/news/local/renton-police-investigating-after-man-shot-hip/LEHKATECTZFSXHHHIPTIRY264A/
-2240096,"February 22, 2022",Louisiana,Shreveport,2000 Grimmett Dr,0,2,https://www.ksla.com/2022/02/23/gunfire-reported-grimmett-drive/
+2240925,"February 22, 2022",Wisconsin,Milwaukee,7149 W Villard Ave,0,1,https://mke-police.herokuapp.com/call/220530990
 2240077,"February 22, 2022",Louisiana,New Orleans,4300 block of Dodt Ave,1,0,https://www.nola.com/news/crime_police/article_0ddc87ec-9451-11ec-9c97-17b4a5221d2b.html
+2240096,"February 22, 2022",Louisiana,Shreveport,2000 Grimmett Dr,0,2,https://www.ksla.com/2022/02/23/gunfire-reported-grimmett-drive/
 2239895,"February 22, 2022",Michigan,Detroit,I-94 and 14th St,0,1,https://www.wxyz.com/news/eastbound-i-94-at-i-96-in-detroit-closes-after-shooting
 2240838,"February 22, 2022",Texas,San Antonio,1703 Broadway,1,0,https://www.ksat.com/news/local/2022/02/23/man-found-fatally-shot-in-car-near-the-pearl-san-antonio-police-say/
 2240836,"February 22, 2022",Tennessee,Nashville,Paragon Mills Rd,1,0,https://www.wkrn.com/news/local-news/nashville/woman-found-dead-from-gunshot-wounds-in-backseat-of-stolen-vehicle/
@@ -221,11 +231,3 @@ id,date,state,county,addr,death,injured,link
 2239293,"February 21, 2022",Colorado,Aurora,11500 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1495841897163677696
 2239286,"February 21, 2022",Washington,Renton,1400 block of Shattuck Ave S,0,1,https://www.q13fox.com/news/police-man-shot-in-the-back-in-renton
 2239284,"February 21, 2022",Washington,Seattle,3rd Ave and Pike St,0,1,https://www.q13fox.com/news/police-investigating-downtown-seattle-shooting
-2239271,"February 21, 2022",New York,Rochester,300 block of Roycroft Dr,0,1,https://twitter.com/RPLCinfosharing/status/1495800077608275971
-2239253,"February 21, 2022",New York,Corona (Queens),109-02 Merrick Blvd,0,1,https://www.nydailynews.com/new-york/nyc-crime/ny-queens-one-man-stabbed-another-shot-20220222-gjxdmwssivcjzcxh2vvg4sg2re-story.html
-2239257,"February 21, 2022",New York,Corona (Queens),116-19 Mexico St,1,0,https://nypost.com/2022/02/22/queens-violence-leaves-two-men-dead-another-wounded/
-2239260,"February 21, 2022",New York,Bronx,2821 Dewey Ave,0,1,https://twitter.com/NYC_Alerts911/status/1495896266181595139
-2240072,"February 21, 2022",Louisiana,New Orleans,300 block of Magazine St,0,1,https://wgno.com/news/crime/domestic-dispute-leads-to-woman-being-shot-in-head-nopd-reports/
-2239199,"February 21, 2022",Louisiana,Marrero,1800 block of Betty St,1,0,https://www.nola.com/news/crime_police/article_f9fe1542-9419-11ec-8da9-2b69f28bdc14.html
-2240070,"February 21, 2022",Alabama,Mobile,I-65,0,1,https://mynbc15.com/news/local/person-shot-on-i-65-in-mobile
-2239233,"February 21, 2022",Louisiana,New Orleans,7900 block of Chef Menteur Hwy,1,1,https://www.wdsu.com/article/new-orleans-police-double-shooting-homicide/39159824
