@@ -28,6 +28,19 @@ id,date,state,county,addr,death,injured,link
 2240991,"February 24, 2022",Florida,Hollywood (Pembroke Park),4400 block of W Hallandale Beach Blvd,0,1,https://miami.cbslocal.com/2022/02/24/person-shot-pembroke-park-robbery/
 2240962,"February 24, 2022",Colorado,Aurora,9650 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1496806779195465732
 2240956,"February 24, 2022",Illinois,Chicago,3700 block of W Hirsch St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-w-hirsch-on-february-24-2022-at-approx-1209-a-m-25th-district/
+2241558,"February 24, 2022",South Carolina,Myrtle Beach,405 S. Kings Hwy,0,1,https://www.wmbfnews.com/2022/02/24/woman-injured-early-morning-shooting-myrtle-beach-bar/
+2241550,"February 24, 2022",South Carolina,Beaufort,159 Joe Frazier Rd,1,0,https://www.live5news.com/2022/02/25/deputies-investigating-fatal-shooting-beaufort-county/
+2241547,"February 24, 2022",North Dakota,Minot,N/A,1,0,https://www.kfyrtv.com/2022/02/24/minot-police-investigating-homicide/
+2241543,"February 24, 2022",Louisiana,Shreveport,4400 block of Rosary Ln,0,2,https://www.arklatexhomepage.com/news/crime/one-injured-in-south-shreveport-shooting/
+2241538,"February 24, 2022",Louisiana,New Roads,St Mary St,1,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_1a2c475e-95d6-11ec-9fb9-ab40a944f206.html
+2241535,"February 24, 2022",Louisiana,Baton Rouge,9000 block of Tracy Ave,0,1,https://www.theadvocate.com/article_94ecf626-95c9-11ec-96ab-47f23d5989c4.html
+2241532,"February 24, 2022",North Carolina,Fayetteville,4600 block of Fen Ct,1,1,https://www.fayobserver.com/story/news/2022/02/24/fayetteville-fen-court-fatal-shooting-cliffdale-road/6932410001/
+2241527,"February 24, 2022",Louisiana,New Orleans,N Robertson St and Frenchman St,0,2,https://www.wdsu.com/article/nopd-investigating-double-shooting-at-frenchman-street-intersection/39211251
+2241507,"February 24, 2022",Alabama,Mobile,Bernice Hudson Dr,0,1,https://mynbc15.com/news/local/2-detained-and-man-left-in-critical-condition-after-mobile-shooting
+2241522,"February 24, 2022",Alabama,Birmingham,600 block of 1st St N,1,0,https://www.al.com/news/birmingham/2022/02/man-shot-to-death-in-birminghams-smithfield-neighborhood.html
+2241518,"February 24, 2022",Alabama,Millbrook,4100 block of Oliver Dr,1,0,https://www.montgomeryadvertiser.com/story/news/crime/2022/02/24/millbrook-police-investigate-fatal-shooting/6933276001/
+2241516,"February 24, 2022",Kentucky,Louisville,N/A,0,1,https://www.wave3.com/2022/02/25/shooting-victim-driven-hospital-by-wife-lmpd-investigating/
+2241503,"February 24, 2022",Louisiana,New Orleans,St Charles Ave and Josephine St,0,1,https://wgno.com/news/crime/shooting-on-st-charles-leaves-parade-goers-steps-away-from-scene-where-teen-was-fired-at/
 2241492,"February 24, 2022",Mississippi,Hazelhurst,237 Caldwell Dr,1,0,https://www.wlbt.com/2022/02/25/police-man-charged-with-murder-after-allegedly-shooting-customer-hazlehurst-auto-shop/
 2241473,"February 23, 2022",Georgia,Savannah,1200 block of New Castle Ave,1,0,https://www.wtoc.com/2022/02/24/savannah-police-scene-incident-part-augusta-ave-closed/
 2241181,"February 23, 2022",Nevada,Reno,4959 Talbot Ln,1,0,https://www.rgj.com/story/news/crime/2022/02/24/sparks-police-shoot-kill-suspect-after-late-night-foot-chase-reno/6926657001/
@@ -41,7 +54,6 @@ id,date,state,county,addr,death,injured,link
 2240976,"February 23, 2022",Arizona,Avondale,E Buckeye Rd and N Dysart Rd,1,1,https://www.abc15.com/news/region-west-valley/avondale/two-juveniles-shot-one-killed-in-avondale-near-dysart-and-buckeye-roads
 2240719,"February 23, 2022",North Carolina,Rocky Mount,1500 E Virginia St,0,0,https://www.witn.com/2022/02/23/police-gun-taken-rocky-mount-middle-school-student-who-bought-it-other-student/
 2240692,"February 23, 2022",North Carolina,Charlotte,3600 Block of Annlin Ave,0,1,https://www.charlotteobserver.com/news/local/crime/article258673438.html
-2240658,"February 23, 2022",Alabama,Mobile,3949 Government Blvd,0,1,https://www.wkrg.com/mobile-county/person-shot-at-burger-king-at-government-boulevard/
 2240651,"February 23, 2022",Louisiana,Baton Rouge,Balis Dr,0,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_f1b8d99e-94eb-11ec-a9c0-df2228886b0e.html
 2240709,"February 23, 2022",Tennessee,Nashville,3300 block of Ezell Rd,1,0,https://www.wsmv.com/news/mnpd-investigate-fatal-shooting-after-one-man-dies-wednesday/article_f372416e-94e4-11ec-8102-2772823ed61e.html?block_id=998420
 2240645,"February 23, 2022",California,Lancaster,45300 block of 48th St W,1,0,https://local.nixle.com/alert/9274925/
@@ -97,14 +109,16 @@ id,date,state,county,addr,death,injured,link
 2241003,"February 23, 2022",Pennsylvania,Philadelphia,900 block of N 68th St,1,0,https://philadelphia.cbslocal.com/2022/02/24/police-48-year-old-man-found-shot-to-death-inside-overbrook-home/
 2240999,"February 23, 2022",Arizona,Glendale,4325 W Bethany Home Rd,1,0,https://www.abc15.com/news/region-west-valley/glendale/man-shot-at-restaurant-near-43rd-avenue-and-bethany-home-road
 2240997,"February 23, 2022",Georgia,Atlanta,1989 Cheshire Bridge Rd NE,1,0,https://www.wsbtv.com/news/local/atlanta/no-charges-after-man-accidentally-shoots-himself-leg-dies/WA5L7LTOUJHOJDXUEKZ5LQDZL4/
-2240972,"February 23, 2022",Alabama,Birmingham,4300 block of Morris Ave N,1,0,https://www.al.com/news/birmingham/2022/02/man-shot-killed-by-birmingham-police-had-2020-murder-charge-recently-dismissed.html
 2240815,"February 23, 2022",New York,Rochester,200 block of Cottage St,0,1,https://twitter.com/RPLCinfosharing/status/1496854165800296450
 2240948,"February 23, 2022",Washington,Auburn,400 block of E St NE,1,0,https://www.kiro7.com/news/local/search-underway-suspect-after-man-fatally-shot-auburn/6LRREZV6ARA7PGYIIGOHQ4R2YA/
 2240946,"February 23, 2022",Washington,Seattle,143rd St and Linden Ave,0,1,https://www.q13fox.com/news/man-injured-in-north-seattle-shooting-wednesday-morning-police-investigating
+2241541,"February 23, 2022",Louisiana,Baton Rouge,S Acadian Thruway,0,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_b0524b7a-9522-11ec-8b1b-876bf2e07bb4.html
 2240923,"February 23, 2022",Wisconsin,Milwaukee,N/A,0,1,https://mke-police.herokuapp.com/call/220540813
 2240919,"February 23, 2022",Wisconsin,Milwaukee,N/A,0,1,https://mke-police.herokuapp.com/call/220540813
+2240972,"February 23, 2022",Alabama,Birmingham,4300 block of Morris Ave N,1,0,https://www.al.com/news/birmingham/2022/02/man-shot-killed-by-birmingham-police-had-2020-murder-charge-recently-dismissed.html
 2240904,"February 23, 2022",California,Lompoc (Vandenberg Village),600 block of Mercury Dr,0,1,https://keyt.com/news/santa-maria-north-county/2022/02/23/santa-barbara-sheriffs-office-handling-major-incident-in-lompoc/
 2240902,"February 23, 2022",Michigan,Detroit,Schoolcraft Rd and Asbury Park,0,1,https://www.facebook.com/TheDetroitScanner/posts/5309948182362527
+2240658,"February 23, 2022",Alabama,Mobile,3949 Government Blvd,0,1,https://www.wkrg.com/mobile-county/1-arrested-for-shooting-at-burger-king/
 2240899,"February 23, 2022",Michigan,Detroit,Monica St and Burlingame St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5309653179058694
 2240892,"February 23, 2022",Louisiana,Shreveport,Legardy St and Willie Mays St,0,1,https://www.ksla.com/2022/02/24/driver-shot-once-his-upper-back/
 2241495,"February 23, 2022",Mississippi,Jackson,N/A,1,0,https://www.wlbt.com/2022/02/16/jpd-investigating-homicide-after-body-dumped/
@@ -203,9 +217,3 @@ id,date,state,county,addr,death,injured,link
 2239872,"February 22, 2022",Illinois,Chicago,9500 block of S Commercial Ave,0,1,https://home.chicagopolice.org/media_incident/9500-block-of-s-commercial-on-february-22-2022-approx-200-a-m-4th-district/
 2239869,"February 22, 2022",Illinois,Chicago,5400 block of S Wood St,0,1,https://home.chicagopolice.org/media_incident/5400-block-of-s-wood-on-february-22-2022-approx-156-a-m-9th-district/
 2240942,"February 22, 2022",Washington,Richland,1370 Tapteal Dr,0,1,https://www.tri-cityherald.com/news/local/crime/article258682198.html
-2240933,"February 22, 2022",Nebraska,Omaha,S 155th St and Gertrude St,0,1,https://www.wowt.com/2022/02/23/suspect-custody-after-shooting-sarpy-county-sends-one-person-hospital/
-2240115,"February 22, 2022",Idaho,Boise,W Fairview Ave,0,1,https://www.idahopress.com/news/local/boise-police-man-shot-by-police-officer-is-hospitalized/article_8dec26e7-9c5e-577b-af99-a28d0e5d36df.html
-2240107,"February 22, 2022",Washington,Renton,Bronson Way NE and Vuemont Pl NE,0,1,https://www.kiro7.com/news/local/renton-police-investigating-after-man-shot-hip/LEHKATECTZFSXHHHIPTIRY264A/
-2240925,"February 22, 2022",Wisconsin,Milwaukee,7149 W Villard Ave,0,1,https://mke-police.herokuapp.com/call/220530990
-2240077,"February 22, 2022",Louisiana,New Orleans,4300 block of Dodt Ave,1,0,https://www.nola.com/news/crime_police/article_0ddc87ec-9451-11ec-9c97-17b4a5221d2b.html
-2240096,"February 22, 2022",Louisiana,Shreveport,2000 Grimmett Dr,0,2,https://www.ksla.com/2022/02/23/gunfire-reported-grimmett-drive/
