@@ -1,5 +1,7 @@
 id,date,state,county,addr,death,injured,link
-2242450,"February 26, 2022",Louisiana,Baton Rouge,1600 block of North Acadian Thruway,0,1,https://www.wbrz.com/news/one-person-shot-on-north-acadian-thruway/
+2242519,"February 27, 2022",Wisconsin,Milwaukee,S 6th St and W Cleveland Ave,1,1,https://mke-police.herokuapp.com/call/220580148
+2242495,"February 27, 2022",Michigan,Detroit,Wayburn St and Casino Ave,0,1,https://www.facebook.com/TheDetroitScanner/posts/5318939098130102
+2242497,"February 27, 2022",Michigan,Detroit,14000 W McNichols Rd,0,2,https://www.facebook.com/TheDetroitScanner/posts/5318931934797485
 2242420,"February 26, 2022",Arkansas,Conway,Neal St and Garland St,1,0,https://www.thv11.com/article/news/crime/conway-police-investigating-shooting-leaving-one-person-dead/91-7ed39f5a-10a7-49f3-8e73-d977c9c06e64
 2242408,"February 26, 2022",Louisiana,New Orleans,N Dupre St and Conti St,2,1,https://www.nola.com/news/crime_police/article_8d73e8b6-976b-11ec-bdfd-0f896a09f1d9.html
 2242405,"February 26, 2022",Louisiana,New Orleans,3100 block of N Tonti St,0,1,https://www.wdsu.com/article/nopd-reports-one-woman-shot-in-the-ninth-ward-area/39244393
@@ -45,6 +47,11 @@ id,date,state,county,addr,death,injured,link
 2242133,"February 26, 2022",Florida,Winter Haven,FL-540,0,1,https://www.fox13news.com/news/suspect-hospitalized-after-being-shot-by-polk-county-deputy
 2242132,"February 26, 2022",Texas,Houston,2800 block of Quitman St,0,0,https://twitter.com/houstonpolice/status/1497125710758096896
 2242130,"February 26, 2022",Florida,Hollywood,3500 block of Ocean Dr,0,1,https://miami.cbslocal.com/2022/02/26/hollywood-police-officer-involved-shooting/
+2242546,"February 26, 2022",Nevada,Las Vegas,5000 block of Madre Mesa Dr,1,0,https://news3lv.com/news/local/1-person-found-dead-with-gunshot-wound-in-central-valley
+2242537,"February 26, 2022",New Mexico,Albuquerque,Rio Puerco Trail SW and Delgado Dr SW,1,2,https://www.kob.com/albuquerque-news/apd-1-dead-multiple-injured-in-sw-albuquerque-shooting/6405309/?cat=500
+2242529,"February 26, 2022",Arizona,Tucson,1011 N Tyndall Ave,0,2,https://www.kgun9.com/news/local-news/tpd-investigating-shooting-near-n-tyndall-ave
+2242524,"February 26, 2022",Arizona,Phoenix,19th Ave and Dunlap Ave,1,0,https://www.abc15.com/news/region-phoenix-metro/police-investigating-a-deadly-shooing-near-19th-and-dunlap-avenues
+2242450,"February 26, 2022",Louisiana,Baton Rouge,1600 block of N Acadian Thruway,0,1,https://www.wbrz.com/news/one-person-shot-on-north-acadian-thruway/
 2242480,"February 26, 2022",New York,Rochester,799 N Clinton Ave,0,2,https://www.rochesterfirst.com/news/local-news/rochester-police-investigate-double-shooting-at-north-clinton-avenue-gas-station/
 2242478,"February 26, 2022",New York,Corona (Queens),75th St and Rockaway Blvd,0,1,https://twitter.com/NYC_Alerts911/status/1497739694980878337
 2242087,"February 25, 2022",Louisiana,New Orleans,6300 block of Chef Menteur Hwy,1,0,https://www.nola.com/news/crime_police/article_a87319e8-9711-11ec-b053-b3f638f65c5e.html
@@ -79,7 +86,6 @@ id,date,state,county,addr,death,injured,link
 2242249,"February 25, 2022",Illinois,Chicago,3300 block of W Cuyler Ave,1,0,https://wgntv.com/news/chicagocrime/42-year-old-woman-found-shot-to-death-on-northwest-side/
 2241794,"February 25, 2022",Texas,Fort Worth,12900 block of Trinity Blvd,0,2,https://www.star-telegram.com/news/local/crime/article258770183.html
 2241791,"February 25, 2022",Texas,Flint,FM 2868,2,0,https://www.ketk.com/news/two-people-found-dead-in-truck-on-side-of-smith-county-road/
-2241654,"February 25, 2022",New Mexico,Albuquerque,6701 Fortuna Rd NW,1,0,https://www.kob.com/albuquerque-news/west-mesa-hs-enters-shelter-in-place-amid-police-investigation/6404377/
 2241763,"February 25, 2022",Texas,Wichita Falls,2700 block of Ridgeway Dr,0,1,https://www.texomashomepage.com/news/local-news/13-year-old-shot-during-car-break-in-attempt-police-say/
 2242237,"February 25, 2022",Delaware,Wilmington,1300 Block of N Claymont St,1,0,https://6abc.com/wilmington-fatal-shooting-man-killed-police-investigation-gun-violence/11601169/
 2242220,"February 25, 2022",Maine,Pittsfield,Detroit Ave and Washington St,1,0,https://www.wabi.tv/2022/02/26/standoff-with-police-pittsfield-ends-with-mans-death/
@@ -104,7 +110,10 @@ id,date,state,county,addr,death,injured,link
 2241572,"February 25, 2022",New York,Bronx,2817 Barker Ave,0,1,https://twitter.com/NYC_Alerts911/status/1497201507728506888
 2241569,"February 25, 2022",Washington,Auburn,1202 Auburn Way N,0,2,https://komonews.com/news/local/two-shot-at-auburn-memos-restaurant-suspect-search-ongoing
 2242110,"February 25, 2022",Washington,Seattle (Tukwila),3400 block of S 144th St,0,1,https://www.kiro7.com/news/local/woman-shot-injured-tukwila/NAQJTBZVRNHC7AHBOW44SYEEBA/
+2242541,"February 25, 2022",New Mexico,Las Cruces,Windmill Rd and Del Ray Blvd,0,1,https://www.krqe.com/news/crime/3-teens-in-las-cruces-arrested-for-shooting-man-in-car/
+2241654,"February 25, 2022",New Mexico,Albuquerque,6701 Fortuna Rd NW,1,0,https://www.koat.com/article/west-mesa-high-school-in-shelter-in-place-following-shooting/39225432
 2242082,"February 25, 2022",Louisiana,Baton Rouge,1300 block of Scenic Hwy,0,1,https://www.wafb.com/2022/02/25/one-person-critical-condition-after-shooting-scenic-highway/
+2242527,"February 25, 2022",Arizona,Phoenix,19th Ave and Bethany Home Rd,1,0,https://www.12news.com/article/news/local/valley/64-year-old-man-found-dead-phoenix-home-heard-several-days/75-496615a8-8fa0-4578-aad1-22476cd8551a
 2242080,"February 25, 2022",Arkansas,Jonesboro,1800 block of Georgia Dr,0,1,https://www.kait8.com/2022/02/26/jonesboro-police-respond-shooting-georgia-drive/
 2242066,"February 25, 2022",Alabama,Huntsville,2755 Wilson Dr,0,1,https://www.al.com/news/huntsville/2022/02/student-shot-in-incident-at-huntsville-elementary-school.html
 2242061,"February 25, 2022",Alabama,Birmingham,900 block of 47th St N,1,0,https://www.al.com/news/birmingham/2022/02/gunfire-in-birminghams-baby-kingston-neighborhood-leaves-1-dead.html
@@ -176,14 +185,3 @@ id,date,state,county,addr,death,injured,link
 2240956,"February 24, 2022",Illinois,Chicago,3700 block of W Hirsch St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-w-hirsch-on-february-24-2022-at-approx-1209-a-m-25th-district/
 2241567,"February 24, 2022",Washington,Tacoma,1100 Block of Dock St,1,0,https://www.king5.com/article/news/local/tacoma/armed-robbery-suspect-shot-killed-tacoma-dock-street/281-bf5bed77-71aa-4522-8fb4-1c9df3a2a1ae
 2242107,"February 24, 2022",Washington,Port Angeles,Wild Currant Way,2,0,https://www.q13fox.com/news/deputies-investigating-suspicious-death-in-port-angeles
-2241492,"February 24, 2022",Mississippi,Hazelhurst,237 Caldwell Dr,1,0,https://www.wlbt.com/2022/02/25/police-man-charged-with-murder-after-allegedly-shooting-customer-hazlehurst-auto-shop/
-2241558,"February 24, 2022",South Carolina,Myrtle Beach,405 S. Kings Hwy,0,1,https://www.wmbfnews.com/2022/02/24/woman-injured-early-morning-shooting-myrtle-beach-bar/
-2241547,"February 24, 2022",North Dakota,Minot,N/A,1,0,https://www.kfyrtv.com/2022/02/24/minot-police-investigating-homicide/
-2241507,"February 24, 2022",Alabama,Mobile,Bernice Hudson Dr,1,0,https://www.wkrg.com/mobile-county/man-dies-after-shooting-on-bernice-hudson-drive/
-2241543,"February 24, 2022",Louisiana,Shreveport,4400 block of Rosary Ln,0,2,https://www.arklatexhomepage.com/news/crime/one-injured-in-south-shreveport-shooting/
-2241522,"February 24, 2022",Alabama,Birmingham,600 block of 1st St N,1,0,https://www.al.com/news/birmingham/2022/02/50-year-old-man-idd-as-birminghams-latest-homicide-victim.html
-2241535,"February 24, 2022",Louisiana,Baton Rouge,9000 block of Tracy Ave,0,1,https://www.theadvocate.com/article_94ecf626-95c9-11ec-96ab-47f23d5989c4.html
-2241527,"February 24, 2022",Louisiana,New Orleans,N Robertson St and Frenchman St,0,2,https://www.wdsu.com/article/nopd-investigating-double-shooting-at-frenchman-street-intersection/39211251
-2241538,"February 24, 2022",Louisiana,New Roads,1009 St Mary St,1,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_1a2c475e-95d6-11ec-9fb9-ab40a944f206.html
-2241516,"February 24, 2022",Kentucky,Louisville,N/A,0,1,https://www.wave3.com/2022/02/25/shooting-victim-driven-hospital-by-wife-lmpd-investigating/
-2241503,"February 24, 2022",Louisiana,New Orleans,St Charles Ave and Josephine St,0,1,https://wgno.com/news/crime/shooting-on-st-charles-leaves-parade-goers-steps-away-from-scene-where-teen-was-fired-at/
