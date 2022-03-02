@@ -2195,3 +2195,11 @@ id,date,state,county,addr,death,injured,link
 2243146,"February 27, 2022",Alabama,Guntersville,Wiggs St,1,0,https://www.waff.com/2022/02/28/one-person-arrested-following-deadly-shooting-guntersville/
 2244094,"February 27, 2022",Idaho,Shelley,604 W Fir St,1,0,https://www.eastidahonews.com/2022/02/police-release-name-of-man-killed-in-officer-involved-shooting/
 2243321,"February 27, 2022",North Dakota,Grand Forks,800 block of County Rd 81,0,1,https://www.kvrr.com/2022/02/28/update-identities-of-those-in-officer-involved-shooting-released/
+2244886,"March 2, 2022",Michigan,Detroit,,0,1,https://www.facebook.com/TheDetroitScanner/posts/5327536753937003
+2244880,"March 1, 2022",Wisconsin,Milwaukee,3169 N 28th St,0,1,https://mke-police.herokuapp.com/call/220601453
+2244867,"March 1, 2022",Michigan,Detroit,12600 block of Outer Dr W,0,1,https://www.facebook.com/TheDetroitScanner/posts/5326907873999891
+2244839,"March 1, 2022",Mississippi,Moss Point,6000 block of Elder St,2,1,https://www.wlox.com/2022/03/01/police-investigating-double-homicide-moss-point/
+2244584,"March 1, 2022",New Jersey,Trenton,1100 block of N Willow St,1,1,https://www.fox29.com/news/man-killed-woman-hurt-during-broad-daylight-shooting-in-trenton-police-say
+2244830,"March 1, 2022",Pennsylvania,Philadelphia,1700 block of Barbara St,1,0,https://www.fox29.com/news/police-officers-shoot-kill-juvenile-who-opened-fire-on-police-in-south-philadelphia
+2244854,"February 28, 2022",Mississippi,Meridian,,0,1,https://www.meridianstar.com/news/local_news/mpd-responds-to-3-shootings-in-24-hours/article_ff842cd7-87b1-5d28-9d6b-9470eed46cf3.html
+2244852,"February 28, 2022",Mississippi,Meridian,36th Ave and 18th St,0,1,https://www.meridianstar.com/news/local_news/mpd-responds-to-3-shootings-in-24-hours/article_ff842cd7-87b1-5d28-9d6b-9470eed46cf3.html
