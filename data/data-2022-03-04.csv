@@ -1,5 +1,4 @@
 id,date,state,county,addr,death,injured,link
-2246217,"March 3, 2022",West Virginia,Morgantown,18 Van Gilder St,1,0,https://www.wdtv.com/2022/03/04/man-shot-dead-morgantown-shooting/
 2246213,"March 3, 2022",Georgia,Lithonia,6114 Covington Hwy,1,0,https://www.fox5atlanta.com/news/deadly-shooting-covington-highway-shell-gas-station-dekalb-county
 2246203,"March 3, 2022",Texas,Temple,1000 block of S 31st St,0,1,https://www.kwtx.com/2022/03/04/temple-man-shot-thursday-shooting-police-looking-suspects/
 2246199,"March 3, 2022",California,San Diego,400 block of W Beech St,1,0,https://fox5sandiego.com/news/local-news/sdpd-officer-injured-downtown/
@@ -35,6 +34,17 @@ id,date,state,county,addr,death,injured,link
 2245800,"March 3, 2022",Indiana,Evansville,Adams Ave and S Linwood Ave,0,1,https://www.14news.com/2022/03/03/man-shows-up-evansville-hospital-with-gunshot-wound/
 2245775,"March 3, 2022",Illinois,Chicago,6900 block of S Parnell Ave,0,2,https://home.chicagopolice.org/media_incident/6900-block-of-s-parnell-on-march-3-2022-approx-108-a-m-7th-dist/
 2245726,"March 3, 2022",California,Bellflower,Artesia Blvd and Downey Ave,1,0,https://www.ocregister.com/2022/03/03/deputies-shoot-and-kill-man-after-stopping-bellflower-street-takeover/
+2246345,"March 3, 2022",South Dakota,Sioux Falls,1000 block of E First St,0,1,https://www.argusleader.com/story/news/crime/2022/03/03/man-shot-girlfriend-after-argument-sioux-falls/9360072002/?itm_medium=recirc&itm_source=taboola&itm_campaign=internal&itm_content=BelowHomepageFeed-FeedRedesign
+2246342,"March 3, 2022",North Carolina,Asheville,Atkinson St,0,1,https://www.foxcarolina.com/2022/03/03/officer-investigating-rape-report-hurt-when-suspects-gun-discharges-police-say/
+2246331,"March 3, 2022",Alabama,Birmingham,7559 Georgia Rd,0,2,https://www.wvtm13.com/article/two-injured-gate-city-shooting-birmingham-alabama/39316221#
+2246319,"March 3, 2022",Louisiana,Shreveport,3500 block of Lillian St,1,0,https://www.shreveporttimes.com/story/news/local/2022/03/03/shreveport-teen-named-thursday-afternoon-homicide-shooting-louisiana-coroner/9367702002/
+2246299,"March 3, 2022",Virginia,Norfolk,3300 block of Verdun Ave,0,1,https://www.wavy.com/news/crime/person-shot-on-verdun-ave-in-lafayette-area-of-norfolk/
+2246217,"March 3, 2022",West Virginia,Morgantown,18 Van Gilder St,1,0,https://www.wdtv.com/2022/03/04/man-shot-dead-morgantown-shooting/
+2246301,"March 3, 2022",Louisiana,New Orleans,Franklin Ave and Urquhart St,0,2,https://www.nola.com/news/crime_police/article_ce116dd2-9b51-11ec-af6b-eb3210a339ac.html
+2246283,"March 3, 2022",Mississippi,Natchez,100 block of Farr Rd,0,1,https://www.natchezdemocrat.com/2022/03/03/update-natchez-woman-who-shot-herself-accidentally-is-in-stable-condition/
+2246272,"March 3, 2022",Kentucky,Louisville,Dixie Hwy and Standard Ave,0,3,https://www.whas11.com/article/news/crime/dixie-highway-standard-avenue-shooting-park-hill-louisville-police-investigate-lmpd/417-1ba76efb-eec0-4754-a4ee-725df902dbb2
+2246265,"March 3, 2022",Florida,Deltona,3000 block of Waterman St,0,1,https://www.clickorlando.com/news/local/2022/03/04/deltona-man-accused-of-shooting-daughters-ex-boyfriend/
+2246276,"March 3, 2022",North Carolina,Salisbury,323 S Arlington St,1,0,https://www.wbtv.com/2022/03/04/active-investigation-underway-walmart-salisbury-police-say-avoid-area/
 2246191,"March 3, 2022",Tennessee,Chattanooga,2400 block of Long St,0,1,https://www.wdef.com/early-morning-shooting-on-long-street-near-i-24/
 2246257,"March 3, 2022",Virginia,Richmond,5300 block of Marian St,0,1,https://www.wric.com/news/local-news/richmond/one-person-hospitalized-after-shooting-in-richmond/
 2246254,"March 3, 2022",Tennessee,Memphis,5155 Citation Dr,0,1,https://wreg.com/news/local/one-injured-in-shooting-at-amazon-warehouse/
@@ -118,22 +128,26 @@ id,date,state,county,addr,death,injured,link
 2245700,"March 2, 2022",Washington,Sunnyside,1400 block of Ferson Rd,0,2,https://www.yaktrinews.com/2-shot-near-sunnyside-in-gang-related-drive-by-shooting/
 2245697,"March 2, 2022",Washington,Spokane,W 7th Ave and S Monroe St,1,0,https://www.spokesman.com/stories/2022/mar/02/shooting-south-of-downtown-spokane-leaves-one-pers/
 2245695,"March 2, 2022",Washington,Seattle,3rd Ave and Pike St,1,0,https://www.q13fox.com/news/person-shot-at-3rd-ave-and-pine-street-in-downtown-seattle
+2246339,"March 2, 2022",South Carolina,Summerville,595 Sangaree Pkwy,2,0,https://www.live5news.com/2022/03/03/deputies-seek-information-after-sangaree-shooting-leaves-two-people-dead/
 2245680,"March 2, 2022",Oklahoma,Wagoner,NE 1st St and N Proctor Ave,0,1,http://www.newson6.com/story/621f9cf718ebc5072978dbeb/wagoner-officers-shoot-man-carrying-an-axe-fbi-investigating
 2245690,"March 2, 2022",Nebraska,Omaha,Dewey Ave and S 27th St,0,1,https://www.wowt.com/2022/03/02/omaha-woman-shot-by-unknown-people/
+2246325,"March 2, 2022",Louisiana,Homer,300 block of Oil Mill St,1,0,https://www.ktbs.com/news/man-shot-killed-in-homer-arrest-made/article_88bd8ee4-9a9a-11ec-8261-cf5e9d7def40.html
+2246321,"March 2, 2022",North Carolina,Lexington,500 block of Burgess St,2,0,https://www.wxii12.com/article/lexington-police-investigates-deaths-adults-traumatic-injuries-child/39310046
 2244886,"March 2, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5327536753937003
 2245670,"March 2, 2022",Connecticut,Hartford,652 Garden St,1,0,https://www.nbcconnecticut.com/news/local/police-investigating-homicide-on-garden-street-in-hartford/2731825/
-2245608,"March 2, 2022",Kentucky,Louisville,1900 block of Buechel Bank Rd,1,0,https://www.wave3.com/2022/03/03/lmpd-subject-with-multiple-warrants-fatally-shoots-self-after-police-pursuit/
+2246304,"March 2, 2022",North Carolina,High Point,200 block of Northpoint Ave,1,0,https://greensboro.com/news/local/crime-and-courts/high-point-man-21-dies-after-being-shot-wednesday-night-police-say/article_d7566f1c-9aea-11ec-820a-431afbace32d.html
+2246229,"March 2, 2022",Virginia,Portsmouth,3300 block of Turnpike Rd,0,1,https://www.wavy.com/news/local-news/portsmouth/man-injured-in-shooting-on-turnpike-road-in-portsmouth/
+2245618,"March 2, 2022",Kentucky,Hopkinsville,2403 Fort Campbell Blvd,1,0,https://whopam.com/2022/03/03/teen-sought-for-fatal-shooting/
+2245608,"March 2, 2022",Kentucky,Louisville,1900 block of Buechel Bank Rd,1,0,https://www.wlky.com/article/suspect-kills-self-buechel-bank-road-louisville/39314537
 2245512,"March 2, 2022",Tennessee,Nashville,1300 block of 12th Ave S,1,0,https://www.newschannel5.com/news/woman-shot-killed-in-edgehill-apartments
 2245483,"March 2, 2022",Kentucky,Lexington,100 block of Dundee Dr,0,1,https://www.wtvq.com/man-seriously-injured-in-shooting-wednesday-lexington-police-looking-for-info/
 2245637,"March 2, 2022",Alabama,Birmingham,Pine Ave,0,1,https://www.cbs42.com/news/crime/bpd-1-injured-in-pine-avenue-shooting/
-2245618,"March 2, 2022",Kentucky,Hopkinsville,2403 Fort Campbell Blvd,1,0,https://whopam.com/2022/03/02/man-dead-after-boulevard-shooting/
 2246263,"March 2, 2022",Tennessee,Clinton,200 Longmire Rd,0,1,https://www.wbir.com/article/news/crime/shooting-mobile-home-park-clinton/51-c097413b-767f-4a4a-a0a7-f4575dde0cb3
 2246248,"March 2, 2022",Georgia,Columbia,3100 block of Hubbard St,0,1,https://www.wrbl.com/news/local-news/police-investigating-second-wednesday-shooting-block-away-from-first/
 2246243,"March 2, 2022",Georgia,Columbus,100 block of 30th Ave,0,1,https://www.wrbl.com/news/crime/4-year-old-girl-shot-on-30th-avenue/?ipid=promo-link-block1
 2245585,"March 2, 2022",Virginia,Norfolk,600 E Liberty St,0,1,https://www.13newsnow.com/article/news/local/mycity/norfolk/man-seriously-injured-shooting-convenience-store-norfolk/291-853348f2-8e4e-4189-a60a-0490e9e9903a
 2246241,"March 2, 2022",Georgia,Macon,3900 block of Arkwright Rd,0,1,https://www.41nbc.com/man-shot-on-arkwright-road/
 2245582,"March 2, 2022",Arizona,Laveen,5120 W Baseline Rd,1,0,https://www.12news.com/article/news/crime/phoenix-police-investigate-shooting-mcdonalds/75-b35d32c2-b7b6-4645-aead-2b580c963835
-2246229,"March 2, 2022",Virginia,Portsmouth,3300 block of Turnpike Rd,0,1,https://www.wavy.com/news/crime/person-shot-on-verdun-ave-in-lafayette-area-of-norfolk/
 2246232,"March 2, 2022",Georgia,Byron,281Bobbie Cir,1,0,https://www.41nbc.com/daughter-charged-with-fathers-murder-in-byron/
 2244364,"March 1, 2022",Ohio,Reynoldsburg,2800 block of Tussing Park Dr,0,1,https://abc6onyourside.com/news/local/east-columbus-shooting-tussing-park-drive-apartment-complex-tuesday-3-1-2022
 2245555,"March 1, 2022",Indiana,Fort Wayne,4600 Weisser Park Ave,0,1,https://www.fortwaynesnbc.com/2022/03/02/man-suffering-life-threatening-injuries-after-weisser-park-shooting/
@@ -207,8 +221,3 @@ id,date,state,county,addr,death,injured,link
 2244136,"March 1, 2022",Pennsylvania,Philadelphia,3400 block of W Huntingdon St,1,0,https://philadelphia.cbslocal.com/2022/03/01/philadelphia-shooting-strawberry-mansion-gun-violence-woman-killed/
 2245750,"March 1, 2022",Illinois,Chicago,200 block of W 76th St,0,1,https://home.chicagopolice.org/media_incident/200-block-of-w-76th-st-on-march-01-2022-at-approx-1123-p-m-6th-district/
 2245103,"March 1, 2022",Pennsylvania,Philadelphia,S 18th St and Barbara St,1,0,https://philadelphia.cbslocal.com/2022/03/02/south-philadelphia-police-shootout-thomas-siderio-gun-violence/
-2245605,"March 1, 2022",New Hampshire,Rumney,9 Post Office Ln,0,1,https://www.unionleader.com/news/crime/police-rumney-man-shot-another-man-during-argument-outside-post-office/article_6d6784c9-3ef4-549c-a00c-1a34232300ba.html
-2245639,"March 1, 2022",Kentucky,Owensboro,1700 block of McConnell Ave,0,1,https://www.owensborotimes.com/news/2022/03/opd-21-year-old-charged-with-shooting-a-man-tuesday/
-2245662,"March 1, 2022",Connecticut,Plainfield,Squaw Rock Rd,0,1,https://www.registercitizen.com/news/article/Police-Man-65-shot-in-leg-in-Mossup-16969649.php
-2244880,"March 1, 2022",Wisconsin,Milwaukee,3169 N 28th St,0,1,https://mke-police.herokuapp.com/call/220601453
-2244867,"March 1, 2022",Michigan,Detroit,12600 block of Outer Dr W,0,1,https://www.facebook.com/TheDetroitScanner/posts/5326907873999891
