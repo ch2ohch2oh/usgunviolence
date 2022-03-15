@@ -3940,3 +3940,31 @@ id,date,state,county,addr,death,injured,link
 2252633,"March 13, 2022",Louisiana,Baton Rouge,515 Gardere Ln,1,0,https://www.wafb.com/2022/03/14/two-suspects-arrested-connection-fatal-shooting-gardere/
 2253002,"March 13, 2022",Louisiana,Baton Rouge,8100 block of Skysail Avenue,0,1,https://www.wafb.com/2022/03/14/child-shot-baton-rouge-sunday/
 2252944,"March 13, 2022",Kentucky,Louisville,,1,0,https://www.wlky.com/article/teen-arrested-in-louisville-accused-of-murdering-woman-by-shooting-her-in-the-face/39428897
+2254061,"March 15, 2022",Wisconsin,Milwaukee,4062 N 79th St,1,0,https://mke-police.herokuapp.com/call/220740171
+2254015,"March 15, 2022",Michigan,Flint,1102 N Ballenger Hwy,1,0,https://www.mlive.com/news/flint/2022/03/1-killed-in-early-morning-shooting-on-flints-west-side.html
+2253507,"March 14, 2022",Virginia,Covington,121 N Alleghany Ave,3,0,https://www.wboc.com/news/virginia-state-police-say-police-officer-was-fatally-shot-at-a-gas-station/article_220e41fc-a472-11ec-a889-2fdc21357e20.html
+2253714,"March 14, 2022",Pennsylvania,Reading,1300 block of Meade St,1,3,https://www.wfmz.com/news/area/berks/police-at-least-15-teens-involved-in-fight-that-led-to-deadly-shooting-at-brookline/article_6cb4e1f4-a47a-11ec-a4af-df2752d6bf13.html
+2253822,"March 14, 2022",California,Bakersfield,2701 Ming Ave,0,3,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-shooting-outside-of-valley-plaza-mall
+2254036,"March 14, 2022",Iowa,Sioux City,1923 Ingleside Ave,0,1,https://siouxlandnews.com/news/local/scpd-investigate-shooting-during-burglary
+2253709,"March 14, 2022",Florida,Miami,250 NE 183rd St,1,0,https://www.miamiherald.com/news/local/crime/article259385589.html
+2254013,"March 14, 2022",Florida,Miami,NW 83rd St and NW 5 Ave,1,0,https://www.local10.com/news/local/2022/03/15/police-woman-found-shot-to-death-inside-her-miami-home/
+2254004,"March 14, 2022",Pennsylvania,Pittsburgh,California Ave,0,1,https://www.wpxi.com/news/top-stories/police-scene-incident-pittsburghs-brighton-heights-neighborhood/J7WKZTRUCVG4FB6CPZHD53WVOI/
+2254002,"March 14, 2022",Florida,Fort Myers,Stockton St,1,0,https://nbc-2.com/news/crime/2022/03/15/lee-county-deputies-surround-home-in-north-fort-myers/
+2253998,"March 14, 2022",Indiana,South Bend,1900 block of E Irvington Ave,0,1,https://www.abc57.com/news/police-investigating-shooting-on-e-irvington-monday-night
+2253689,"March 14, 2022",Illinois,Chicago,1212 S Michigan Ave,0,1,https://www.cbsnews.com/chicago/news/man-charged-in-south-loop-shooting/
+2253726,"March 14, 2022",Illinois,Crest Hill,Pioneer Rd and Bicentennial Ave,1,1,https://www.cbsnews.com/chicago/news/officer-injured-suspect-shot-crest-hill/
+2253965,"March 14, 2022",Illinois,Shorewood,19715 NE Frontage Rd,1,0,https://chicago.suntimes.com/crime/2022/3/15/22978882/shorewood-police-shooting-crestwood
+2253963,"March 14, 2022",Pennsylvania,Philadelphia,N 3rd St,0,1,https://philadelphia.cbslocal.com/2022/03/14/stabbing-shooting-north-philadelphia-2-injured/
+2253739,"March 14, 2022",Illinois,Chicago,7200 S Bennett Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1503518946510655493
+2253746,"March 14, 2022",Illinois,Chicago,6548 S Marshfield Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1503536957619687431
+2253750,"March 14, 2022",Illinois,Chicago,2408 S Trumbull Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1503533392314650625
+2253855,"March 14, 2022",Maryland,Pasadena,Whitaker Rd and Liberty Cir,1,1,https://www.facebook.com/aacopd/posts/330159059148919
+2253924,"March 14, 2022",Texas,Mesquite,3700 block of Childress Ave,0,1,https://www.facebook.com/MesquitePoliceTX/posts/448803023652069
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2253922,"March 13, 2022",Washington,Pasco,6th Ave and W Lewis St,0,1,https://www.yaktrinews.com/siu-called-to-investigate-officer-involved-shooting-in-pasco-2/
