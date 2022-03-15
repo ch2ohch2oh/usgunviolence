@@ -1,8 +1,5 @@
 id,date,state,county,addr,death,injured,link
-2253887,"March 15, 2022",Michigan,Detroit,300 block of Newport St,0,2,https://www.facebook.com/TheDetroitScanner/posts/5362697240420954
-2253885,"March 15, 2022",Michigan,Detroit,12400 block of Lansdowne St,1,0,https://www.facebook.com/TheDetroitScanner/posts/5362759067081438
 2253832,"March 15, 2022",Colorado,Denver,700 block of 20th Ave,0,1,https://twitter.com/DenverPolice/status/1503574085661384704
-2253780,"March 15, 2022",Indiana,Indianapolis,10100 block of John Marshall Dr,0,3,https://www.wthr.com/article/news/local/police-3-wounded-in-east-indianapolis-shooting/531-ffbfbfc4-2bfa-4c11-8a47-9364d302518b
 2253750,"March 14, 2022",Illinois,Chicago,2400 block of S Trumbull Ave,0,1,https://home.chicagopolice.org/media_incident/2400-block-of-s-trumbull-ave-on-march-14-2022-at-approx-747-p-m-10th-district/
 2253746,"March 14, 2022",Illinois,Chicago,6500 block of S Marshfield Ave,0,1,https://home.chicagopolice.org/media_incident/6500-block-of-s-marshfield-on-march-14-2022-at-approx-800-p-m-7th-district/
 2253718,"March 14, 2022",New York,Rochester,500 block of Smith St,0,1,https://twitter.com/RPLCinfosharing/status/1503328393647079427
@@ -28,7 +25,6 @@ id,date,state,county,addr,death,injured,link
 2253459,"March 14, 2022",Missouri,Kansas City,8105 Bannister Rd,1,0,https://fox4kc.com/news/one-person-killed-at-gas-station-in-south-kansas-city/
 2253454,"March 14, 2022",Pennsylvania,Pittsburgh,500 block of Frayne St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1683
 2253432,"March 14, 2022",Wisconsin,Milwaukee,1900 block of W Capitol Dr,0,1,https://www.fox6now.com/news/milwaukee-police-investigate-3-shootings
-2253439,"March 14, 2022",Wisconsin,Milwaukee,5300 block of N 36th St,0,1,https://www.fox6now.com/news/milwaukee-police-investigate-3-shootings
 2253447,"March 14, 2022",Wisconsin,Milwaukee,N/A,0,1,https://www.fox6now.com/news/milwaukee-police-investigate-3-shootings
 2253172,"March 14, 2022",Pennsylvania,Philadelphia,4300 block of N 3rd St,0,1,https://6abc.com/philadelphia-shooting-double-feltonville-north-3rd-street/11649997/
 2253427,"March 14, 2022",Illinois,Springfield,Chickadee Ct and Roadrunner Ct,1,0,https://www.wandtv.com/news/1-dead-in-springfield-shooting/article_eec9e960-a3cf-11ec-b276-e742c842d4fb.html
@@ -44,11 +40,18 @@ id,date,state,county,addr,death,injured,link
 2253305,"March 14, 2022",Louisiana,New Orleans,5600 block of Read Blvd,0,1,https://wgno.com/news/crime/four-people-shot-overnight-as-nopd-investigates-back-to-back-shootings/
 2253292,"March 14, 2022",Michigan,Detroit,6000 block of Crane St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5362068850483793
 2253134,"March 14, 2022",Washington,Tacoma,4300 block of E Portland Ave,1,0,https://www.king5.com/article/news/local/tacoma-police-shooting-deadly/281-0c406f6d-a42b-46e7-a8a7-20e45ec9288d
+2253920,"March 14, 2022",Washington,Seattle,7000 block of Rainier Ave S,0,1,https://www.kiro7.com/news/local/police-investigating-after-man-injured-south-seattle-shooting/C4FYRWEMB5FMVJ6K6TQ6ZKASYM/
 2253123,"March 14, 2022",Texas,Houston,900 block of S Wayside Dr,0,1,https://twitter.com/houstonpolice/status/1503267924794089472?cxt=HHwWgIC5udCN19wpAAAA
+2253439,"March 14, 2022",Wisconsin,Milwaukee,5312 N 36th St,0,1,https://mke-police.herokuapp.com/call/220730783
+2253780,"March 14, 2022",Indiana,Indianapolis,10100 block of John Marshall Dr,0,3,https://www.wthr.com/article/news/local/police-3-wounded-in-east-indianapolis-shooting/531-ffbfbfc4-2bfa-4c11-8a47-9364d302518b
+2253885,"March 14, 2022",Michigan,Detroit,12400 block of Lansdowne St,1,0,https://www.facebook.com/TheDetroitScanner/posts/5362759067081438
+2253887,"March 14, 2022",Michigan,Detroit,300 block of Newport St,0,2,https://www.facebook.com/TheDetroitScanner/posts/5362697240420954
 2253319,"March 14, 2022",Michigan,Detroit,11626 Woodward Ave,1,0,https://twitter.com/detroitpolice/status/1503540129662742531
 2253471,"March 14, 2022",Michigan,Wyoming,355 54th St SW,1,0,https://twitter.com/LukeStier/status/1503499054155714562
 2253870,"March 14, 2022",Maryland,Baltimore,2900 block of Stranden Rd,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/329188175903436
 2253865,"March 14, 2022",Maryland,Baltimore,2400 block of Winchester St,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/329188175903436
+2253855,"March 14, 2022",Maryland,Pasadena,7900 block of Liberty Cir,1,1,https://www.wmar2news.com/news/local-news/woman-killed-16-year-old-injured-in-anne-arundell-county-shooting
+2253848,"March 14, 2022",New York,Buffalo,1900 block of Hertel Ave,0,1,https://www.wgrz.com/article/news/local/part-of-hertel-avenue-closed-due-to-police-presence-buffalo-ny/71-9ede11c7-5cbb-4cb1-b5ca-9be75abf4ac7
 2253846,"March 14, 2022",Maryland,Hyattsville (Landover Hills),4400 block of 68th Pl,0,1,https://twitter.com/RealTimeNews10/status/1503522009401024512
 2253829,"March 14, 2022",Tennessee,Cordova,153 Timber Creek Dr,0,1,https://wreg.com/news/local/police-investigating-after-shooting-outside-cordova-restaurant/
 2253827,"March 14, 2022",Florida,Hollywood,N 73rd Ave and Johnson St,1,0,https://wsvn.com/news/local/police-search-for-armed-gunmen-after-shooting-kills-1-in-hollywood/
@@ -60,7 +63,6 @@ id,date,state,county,addr,death,injured,link
 2253784,"March 14, 2022",West Virginia,Montgomery,1000 block of 4th Ave,0,1,https://www.wowktv.com/news/local/developing-one-person-shot-in-montgomery/
 2253527,"March 13, 2022",Virginia,Richmond,6000 block of Glenway Ct,0,1,https://www.wtvr.com/news/local-news/boy-shot-glenway-court-richmond
 2253035,"March 13, 2022",Illinois,Chicago,700 block of N Christiana Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-n-christiana-on-march-13-2022-at-approx-508-p-m-11th-district/
-2253545,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.13newsnow.com/article/news/local/mycity/portsmouth/man-injured-portsmouth-shooting/291-af7432ae-6557-40fc-bebb-68445f94c76e
 2253033,"March 13, 2022",Illinois,Chicago,300 block of S Independence Blvd,0,1,https://home.chicagopolice.org/media_incident/300-block-of-s-independence-on-march-13-2022-at-approx-453-p-m-11th-district/
 2253712,"March 13, 2022",Virginia,Culpeper,N Blue Ridge Ave,0,1,https://starexponent.com/news/no-one-seriously-hurt-in-2-separate-shootings-early-sunday-in-culpeper/article_c39135c0-ec4c-5ff1-8829-4580065129fe.html
 2253723,"March 13, 2022",Florida,Stuart,N/A,0,1,https://www.wptv.com/news/region-martin-county/stuart/police-searching-for-gunman-in-stuart-shooting
@@ -74,7 +76,6 @@ id,date,state,county,addr,death,injured,link
 2253377,"March 13, 2022",Tennessee,Memphis,Summer Ave and N Bingham St,0,1,https://wreg.com/news/local/one-critical-after-binghampton-shooting/
 2253645,"March 13, 2022",Georgia,Savannah,700 block of W 35th St,1,0,https://www.wtoc.com/2022/03/14/18-year-old-killed-shooting-west-35th-street/
 2252948,"March 13, 2022",Kentucky,Louisville,1100 block of South 26th St,0,1,https://www.whas11.com/article/news/crime/man-shot-parkland-south-26th-street-lmpd/417-fcfeb673-e0fb-4b83-a0a4-1f83127a588bhttps://www.whas11.com/article/news/crime/man-shot-parkland-south-26th-street-lmpd/417-fcfeb673-e0fb-4b83-a0a4-1f83127a588b
-2252944,"March 13, 2022",Kentucky,Louisville,N/A,1,0,https://www.whas11.com/article/news/crime/louisville-woman-killed-shot-hospital-homicide-private-car/417-aaa30d5b-8406-467e-9649-a3569c512c80
 2252770,"March 13, 2022",New York,Staten Island,200 block of Broad St,0,1,https://www.silive.com/crime-safety/2022/03/police-respond-to-shooting-in-stapleton-victim-found-wounded-in-clifton.html
 2253632,"March 13, 2022",Tennessee,Nashville,41st Ave N,0,1,https://www.wkrn.com/news/local-news/nashville/man-shot-in-west-nashville-investigation-underway/
 2253388,"March 13, 2022",Tennessee,Nashville,Colby Dr,0,1,https://www.wkrn.com/news/local-news/nashville/police-working-to-identify-car-burglar-who-shot-nashville-man-outside-his-home/
@@ -99,8 +100,6 @@ id,date,state,county,addr,death,injured,link
 2253461,"March 13, 2022",Texas,Beaumont,800 block of Wall St,1,0,https://kfdm.com/news/local/developing-bpd-releases-name-of-homicide-victim-in-citys-second-killing-since-thursday
 2253456,"March 13, 2022",Pennsylvania,Pittsburgh,Island Ave and Preble Ave,0,2,https://pittsburghpa.gov/publicsafety/blotterview/1682
 2252798,"March 13, 2022",North Carolina,Pembroke,1100 block of Jones Rd,2,0,https://www.wmbfnews.com/2022/03/14/sheriff-identifies-15-year-old-fatally-shot-robeson-county-birthday-party/
-2253456,"March 13, 2022",Pennsylvania,Pittsburgh,Island Ave and Preble Ave,0,2,https://pittsburghpa.gov/publicsafety/blotterview/1682
-2252798,"March 13, 2022",North Carolina,Pembroke,1100 block of Jones Rd,2,0,https://www.wmbfnews.com/2022/03/14/sheriff-identifies-15-year-old-fatally-shot-robeson-county-birthday-party/
 2252754,"March 13, 2022",Colorado,Aurora,E Hampden Ave and S Tower Rd,0,1,https://www.9news.com/article/news/crime/aurora-shooting/73-6d46b2b8-e033-4023-89c1-2062e0542d95
 2253445,"March 13, 2022",California,Littlerock,34220 Cheseboro Rd,1,0,https://theavtimes.com/2022/03/14/man-shot-to-death-at-littlerock-mobile-home-park/
 2253443,"March 13, 2022",Illinois,Decatur,700 block of E Grand Ave,0,1,https://www.wandtv.com/news/police-investigating-decatur-shooting/article_cbb2d430-a3ae-11ec-b826-6f4e984ec3a9.html
@@ -119,7 +118,6 @@ id,date,state,county,addr,death,injured,link
 2253323,"March 13, 2022",Michigan,Wyoming,2924 Taft Ave SW,1,0,https://www.miheadlines.com/2022/03/14/boyfriend-dead-mother-and-child-missing-in-kent-county/
 2253332,"March 13, 2022",Maryland,Glen Burnie,300 block of 9th Ave SE,0,1,https://www.aacounty.org/news-and-events/news/police-press-release---march-14-2022
 2253329,"March 13, 2022",Maryland,Baltimore,4600 block of Shamrock Ave,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-sunday-night-shootings-20220314-6cl2e7tfyrgxpgrd3zkxgpyffa-story.html
-2252633,"March 13, 2022",Louisiana,Baton Rouge,515 Gardere Ln,1,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_1ffb506a-a2e4-11ec-b98a-a36d04a50fa8.html
 2252724,"March 13, 2022",Minnesota,Naytahwaush,N/A,0,1,https://www.startribune.com/law-enforcement-chase-in-nw-minnesota-ends-with-woman-shot/600155817/
 2253302,"March 13, 2022",North Carolina,Raleigh,1700 Trawick Rd,1,0,https://www.wral.com/18-year-old-charged-with-murder-after-shooting-outside-raleigh-mcdonald-s/20186021/
 2253056,"March 13, 2022",Wisconsin,Milwaukee,3056 N Buffum St,0,1,https://mke-police.herokuapp.com/call/220721647
@@ -153,8 +151,11 @@ id,date,state,county,addr,death,injured,link
 2253126,"March 13, 2022",Montana,Kalispell,N/A,0,1,https://nbcmontana.com/news/local/kalispell-police-search-for-suspect-in-shooting
 2253120,"March 13, 2022",Texas,Dallas,1200 block of Diceman Ave,1,0,https://dpdbeat.com/2022/03/13/homicide-on-diceman-avenue/
 2253080,"March 13, 2022",Texas,San Antonio,5950 block of Wurzbach Rd,1,0,https://www.expressnews.com/news/local/article/Overnight-shootings-in-San-Antonio-leave-two-men-16998358.php
+2252633,"March 13, 2022",Louisiana,Baton Rouge,515 Gardere Ln,1,0,https://www.wafb.com/2022/03/14/two-suspects-arrested-connection-fatal-shooting-gardere/
+2253002,"March 13, 2022",Louisiana,Baton Rouge,8100 block of Skysail Avenue,0,1,https://www.wafb.com/2022/03/14/child-shot-baton-rouge-sunday/
 2253063,"March 13, 2022",Texas,Houston,3800 Tidwell Rd,0,2,https://www.click2houston.com/news/local/2022/03/13/two-people-injured-in-shooting-in-northeast-houston-hpd-says/
 2253058,"March 13, 2022",Texas,Houston,7979 N Eldridge Pkwy,0,1,https://nextdoor.com/agency-post/tx/harris-county/harris-county-sheriffs-office/flea-market-shooting-220032384/
+2252944,"March 13, 2022",Kentucky,Louisville,N/A,1,0,https://www.wlky.com/article/teen-arrested-in-louisville-accused-of-murdering-woman-by-shooting-her-in-the-face/39428897
 2253867,"March 13, 2022",Florida,Tallahassee,2833 S Adams St,0,2,https://www.wctv.tv/2022/03/14/2-men-injured-s-adams-st-shooting/
 2253858,"March 13, 2022",New York,Buffalo,300 block of Bird Ave,1,0,https://www.wivb.com/news/crime/19-year-old-dead-after-bird-avenue-shooting-in-buffalo/
 2253052,"March 13, 2022",Arkansas,North Little Rock,800 block of W 38th St,1,0,https://www.thv11.com/article/news/local/north-little-rock/one-dead-in-north-little-rock-shooting-w-38th-street/91-9d284c3f-ab74-4f7b-8e05-f6ff4582999f
@@ -162,7 +163,6 @@ id,date,state,county,addr,death,injured,link
 2253839,"March 13, 2022",Louisiana,New Orleans,Magic St and N Tonti St,0,1,"https://nopdnews.com/getattachment/636f3a2d-8162-419b-910f-8b8b9d12e4ba/March-13-through-March-14,-2022/"
 2252856,"March 13, 2022",California,Fairfield,200 block of E Tabor Ave,1,2,https://www.kron4.com/news/bay-area/fairfield-homicide-suspect-turns-himself-into-police/
 2253810,"March 13, 2022",Tennessee,Memphis,S Main St and Doctor MLK Jr Ave,0,1,https://wreg.com/news/local/concerns-grow-after-second-weekend-shooting-in-downtown-memphis/
-2253002,"March 13, 2022",Louisiana,Baton Rouge,Skysail Avenue,0,1,https://www.wbrz.com/news/3-year-old-child-shot-in-gardere-area-sunday
 2253786,"March 13, 2022",Arizona,Glendale,N 59th Ave and W Northern Ave,1,0,https://www.azcentral.com/story/news/local/glendale/2022/03/14/glendale-man-fatally-shoots-another-during-domestic-dispute/7043854001/
 2253496,"March 13, 2022",Virginia,Lynchburg,Vernon St,0,1,https://www.wfxrtv.com/news/local-news/lynchburg-central-virginia-news/man-injured-in-shooting-near-university-of-lynchburg/
 2253762,"March 13, 2022",Virginia,Newport News,160 Mytilene Dr,0,1,https://www.wavy.com/news/local-news/hampton/person-found-with-gunshot-wound-in-hampton/
@@ -174,7 +174,6 @@ id,date,state,county,addr,death,injured,link
 2253547,"March 12, 2022",Virginia,Virginia Beach,1100 block of Craftsman Dr,0,1,https://www.wavy.com/news/local-news/virginia-beach/woman-shot-on-indian-river-road-in-vb/
 2253654,"March 12, 2022",Alabama,Autaugaville,200 block of N Pickett St,1,3,https://www.facebook.com/autaugasheriff/posts/338536764967376
 2253676,"March 12, 2022",Florida,Gulf Breeze,N/A,0,1,https://weartv.com/news/local/66-year-old-woman-charged-for-weekend-gulf-breeze-shooting
-2252056,"March 12, 2022",Florida,Cantonment,2700 block of Pine Forest Rd,1,0,https://weartv.com/news/local/sheriff-56-year-old-cantonment-man-was-shot-killed-on-his-back-patio
 2253665,"March 12, 2022",Florida,Pensacola,700 block of W Johnson Ave,1,0,https://weartv.com/news/local/47-year-old-man-shot-and-killed-while-riding-bike-in-escambia-county
 2252422,"March 12, 2022",Louisiana,Baton Rouge,6100 block of Siegen Ln,1,0,https://wgno.com/news/walker-man-accidentally-shoots-pregnant-teen-while-playing-with-gun/
 2252390,"March 12, 2022",Louisiana,Baton Rouge,7801 Scenic Hwy,1,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_d97a33f6-a21e-11ec-a05a-afd5e9c88986.html
@@ -199,6 +198,7 @@ id,date,state,county,addr,death,injured,link
 2252708,"March 12, 2022",Georgia,Macon,3867 Log Cabin Dr,0,1,https://wgxa.tv/news/local/report-macon-7-year-old-shot-while-watching-tv-with-sibling
 2252207,"March 12, 2022",Tennessee,Memphis,2231 Falling Oak Way,1,0,https://wreg.com/news/local/man-dead-after-shooting-in-ne-memphis/
 2252815,"March 12, 2022",Florida,Miami,11300 block of SW 225th St,0,2,https://miami.cbslocal.com/2022/03/13/miami-dade-pd-gives-update-on-shooting-that-left-2-juveniles-injured/
+2252812,"March 12, 2022",North Carolina,Stanley,700 block of N Buckoak St,1,0,https://www.wcnc.com/article/news/crime/stanley-nc-homicide-investigation-union-county/275-51a800f9-d9be-4fd0-a39e-acdc3b04d61a
 2252812,"March 12, 2022",North Carolina,Stanley,700 block of N Buckoak St,1,0,https://www.wcnc.com/article/news/crime/stanley-nc-homicide-investigation-union-county/275-51a800f9-d9be-4fd0-a39e-acdc3b04d61a
 2252810,"March 12, 2022",North Carolina,Roan Mountain,Old US-19,1,0,https://wlos.com/news/local/roan-mountain-shooting-leaves-one-dead-investigation-ongoing
 2252242,"March 12, 2022",New York,New York (Manhattan),54 King St,0,1,https://www.amny.com/new-york/soho-shooting-sleeping-homeless-man-injured/
@@ -249,7 +249,6 @@ id,date,state,county,addr,death,injured,link
 2252466,"March 12, 2022",Arizona,Phoenix,75th Ave and Buckeye Rd,1,0,https://www.12news.com/article/news/crime/man-dead-after-jumping-police-car-being-shot-officer-west-phoenix/75-b273c1ce-2267-42a1-824e-b96cf23b7a4d
 2252589,"March 12, 2022",Michigan,Detroit,Meyers Rd and Schoolcraft Rd,1,0,https://www.fox2detroit.com/news/police-say-one-driver-is-dead-after-an-argument-lead-to-a-shooting-shooter-in-custody
 2252371,"March 12, 2022",Arkansas,Little Rock,5001 W 65th St,1,1,https://arktimes.com/arkansas-blog/2022/03/14/one-dead-one-wounded-and-to-be-charged-in-swlr-shooting
-2253256,"March 12, 2022",New Mexico,Anthony,300 block of Los Traques St,1,0,https://www.lcsun-news.com/story/news/crime/2022/03/14/anthony-homicide-suspect-alejandro-salas-lam-accused-killing-exs-new-boyfriend/7038087001/
 2252580,"March 12, 2022",California,Bakersfield,5000 block of Belle Terrace,0,2,https://www.bakersfield.com/news/breaking/bpd-officials-report-2-in-critical-condition-after-shooting/article_5a9eab2c-a271-11ec-b607-a756a97393e9.html
 2253247,"March 12, 2022",Ohio,Toledo,3300 block of Lagrange St,1,0,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
 2252552,"March 12, 2022",Florida,Jacksonville,6505 Collins Rd,1,0,https://www.actionnewsjax.com/news/local/man-found-dead-car-with-gunshot-wounds-kensley-apartments-jacksonville/FTCTN7U6O5DFFNYIDBCDXEAWSY/
@@ -272,11 +271,3 @@ id,date,state,county,addr,death,injured,link
 2252515,"March 12, 2022",Illinois,Chicago,5100 block of N California Ave,0,1,https://home.chicagopolice.org/media_incident/5100-block-of-n-california-ave-on-march-12-2022-at-approx-1040-p-m-20th-district/
 2252838,"March 12, 2022",Missouri,Saint Louis,1905 Union Blvd,0,3,https://www.stltoday.com/news/local/crime-and-courts/multiple-victims-in-shooting-saturday-near-st-louis-funeral-home/article_4f6d58c5-8a1e-5692-92a5-8f6fd75681e9.html#tracking-source=home-top-story
 2252509,"March 12, 2022",Illinois,Chicago,2000 block of N Lorel Ave,0,1,https://chicago.suntimes.com/crime/2022/3/13/22975211/weekend-roundup-chicago-shootings-homicide
-2252498,"March 12, 2022",Washington,Seattle (Seatac),WA-518 and International Blvd,0,1,https://komonews.com/news/local/king-county-sheriffs-office-looking-for-suspect-in-seatac-shooting
-2253111,"March 12, 2022",Texas,San Antonio,NW Loop 410 and Ingram Rd,1,0,https://www.kens5.com/article/news/crime/deadly-shooting-one-man-shoots-kills-another-in-a-northwest-side-parking-lot-police-say/273-1e5a8cfe-9a0a-4828-b5eb-29b00fd9f51e
-2253075,"March 12, 2022",Texas,San Antonio,972 SW 36th St,1,0,https://www.kens5.com/article/news/crime/man-shot-and-killed-leaving-west-side-restaurant-with-his-wife-sapd-says/273-1ff0ceea-ad86-4aad-b636-841316058380
-2253095,"March 12, 2022",Texas,San Antonio,5000 block of Misty Glen,0,1,https://www.kens5.com/article/news/crime/two-suspects-arrested-after-a-man-was-shot-at-a-baby-shower-bcso-says/273-47baf1ca-0e9e-4b1a-9f12-c5ac5605cfa1
-2253088,"March 12, 2022",Texas,San Antonio,933 Lamar St,1,0,https://foxsanantonio.com/newsletter-daily/police-find-dead-man-in-his-home-after-receiving-call-of-shots-fireds-fired-local-san-antonio-texas-gun-violence-crime
-2252137,"March 12, 2022",California,Los Angeles,Genesee Ave and Saturn St,1,0,https://losangeles.cbslocal.com/2022/03/12/man-walking-his-dog-in-mid-city-shot-and-killed/
-2253073,"March 12, 2022",Connecticut,New Haven,N/A,0,1,https://www.nbcconnecticut.com/news/local/man-injured-in-new-haven-shooting-6/2739450/
-2253068,"March 12, 2022",Texas,Fort Worth (Watauga),5400 block of Caribou Ridge Dr,2,0,https://dfwscanner.net/2022/03/13/two-teens-found-shot-dead-in-watauga-neighborhood/?fbclid=IwAR3guEmaxCEQn0a2WjSz3enbZjg9QdA4xo-nNNAiKDtvvJDn1snVAzO1BWY
