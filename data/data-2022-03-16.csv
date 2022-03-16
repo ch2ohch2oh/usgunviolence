@@ -249,10 +249,1003 @@ id,date,state,county,addr,death,injured,link
 2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
 2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
 2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
-2253131,"March 13, 2022",Washington,Tacoma,3800 block of E Howe St,1,1,https://www.q13fox.com/news/1-dead-1-injured-in-deadly-tacoma-shooting
-2253128,"March 13, 2022",North Dakota,Minot,N/A,0,1,https://www.kfyrtv.com/2022/03/13/shooting-minot-injures-one-woman-19-year-old-suspect-arrested/
-2253120,"March 13, 2022",Texas,Dallas,1200 block of Diceman Ave,1,0,https://dpdbeat.com/2022/03/13/homicide-on-diceman-avenue/
-2253080,"March 13, 2022",Texas,San Antonio,5950 block of Wurzbach Rd,1,0,https://www.expressnews.com/news/local/article/Overnight-shootings-in-San-Antonio-leave-two-men-16998358.php
-2252633,"March 13, 2022",Louisiana,Baton Rouge,515 Gardere Ln,1,0,https://www.wafb.com/2022/03/14/two-suspects-arrested-connection-fatal-shooting-gardere/
-2253002,"March 13, 2022",Louisiana,Baton Rouge,8100 block of Skysail Avenue,0,1,https://www.wafb.com/2022/03/14/child-shot-baton-rouge-sunday/
-2253063,"March 13, 2022",Texas,Houston,3800 Tidwell Rd,0,2,https://www.click2houston.com/news/local/2022/03/13/two-people-injured-in-shooting-in-northeast-houston-hpd-says/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
+2252596,"March 13, 2022",West Virginia,Charleston,1800 block of Bigley Ave,1,0,https://wchstv.com/news/local/two-arrested-for-murder-after-man-found-shot-to-death-inside-home-in-charleston
+2253263,"March 13, 2022",California,Palmdale,6900 block of Jack Rabbit Way,1,0,https://mynewsla.com/crime/2022/03/13/man-shot-to-death-by-deputy-in-palmdale-2/
+2252609,"March 13, 2022",Arizona,Glendale,59th Ave and Camelback Rd,0,2,https://www.azfamily.com/2022/03/13/glendale-pd-man-doing-drugs-shoots-mother-during-argument-apartment/
+2253254,"March 13, 2022",Ohio,Toledo,Nebraska Ave and City Park,0,1,https://www.toledoblade.com/local/police-fire/2022/03/14/two-shot-in-toledo-over-the-weekend/stories/20220314093
+2253786,"March 13, 2022",Arizona,Glendale,8219 N 59th Ave,1,0,https://ktar.com/story/4949134/glendale-police-identify-suspect-victim-in-fatal-shooting-over-the-weekend/
+2252574,"March 13, 2022",Virginia,Portsmouth,900 block of Vermont Ave,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-injured-during-shooting-on-vermont-ave-in-portsmouth/
+2252780,"March 13, 2022",California,Mission Hills,15400 block of Chatsworth St,1,0,https://mynewsla.com/crime/2022/03/14/san-fernando-man-found-dead-outside-mission-hills-bar/
+2254066,"March 13, 2022",Maryland,Halethorpe (Arbutus),1000 block of Howland Square,0,1,https://www.baltimorecountymd.gov/departments/police/news/2022/03/15/circumstances-behind-shooting-remain-under-investigation?fbclid=IwAR012bxXBzgox9lLXCNopKx5v5-_VpW2-KI-_y-erhFDJDiGVvdhTG3xz7A
+2252550,"March 13, 2022",Florida,Jacksonville,7100 block of Beekman Lakes Dr,1,0,https://www.firstcoastnews.com/article/news/crime/shootings-mount-in-violent-weekend-around-jacksonville/77-864613f1-47bf-4cee-b793-0ae2825dbbfa
+2252542,"March 13, 2022",Alabama,Huntsville,3820 University Dr NW,0,1,https://www.waff.com/2022/03/13/one-person-shot-huntsville-popeyes/
+2253463,"March 13, 2022",Pennsylvania,Pittsburgh,7000 block of Kedron St,1,0,https://triblive.com/local/1-dead-2-injured-in-overnight-shootings-in-pittsburgh/
+2252571,"March 13, 2022",Arizona,Phoenix,27th Ave and Maryland Ave,0,1,https://www.12news.com/article/news/crime/officer-shot-west-phoenix-but-has-non-life-threatening-injuries/75-9b72547f-d659-4157-a766-3d1a4fa6bcb4
+2253213,"March 13, 2022",Pennsylvania,Coatesville,100 block of E Chestnut St,0,1,https://www.mychesco.com/a/news/social-issues/crime/coatesville-police-investigating-self-inflicted-gunshot-wound/
+2252655,"March 13, 2022",Pennsylvania,Mc Kees Rocks (Mckees Rocks),300 block of Derby Alley,1,0,https://www.wpxi.com/news/top-stories/woman-arrested-murder-man-whose-body-was-left-mckees-rocks-alley/GR7DBIPA6JGAXLPEPRNUQ6KO3M/
+2253994,"March 13, 2022",Indiana,Elkhart,2200 block of Cassopolis St,0,1,https://www.953mnc.com/2022/03/14/elkhart-pd-investigating-shooting-incident/
+2253988,"March 13, 2022",Pennsylvania,Philadelphia,200 block of N Gross St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2253981,"March 13, 2022",Mississippi,Clarksdale,8th St,0,1,https://www.pressregister.com/index.php/local-content-communities-crime-top-stories/police-investigate-child-shot-8th-street#sthash.mFasbmDt.dpbs
+2253019,"March 13, 2022",Illinois,Chicago,6800 block of S Throop St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-s-throop-on-march-13-2022-at-approx-200-p-m-7th-district/
+2253191,"March 13, 2022",Illinois,Chicago,1700 block of S Wentworth,0,1,https://home.chicagopolice.org/media_incident/1700-block-of-s-wentworth-on-march-13-2022-at-approx-900-p-m-9th-district/
+2252505,"March 13, 2022",Illinois,Chicago,800 block of E 83rd St,1,1,https://chicago.suntimes.com/crime/2022/3/15/22978859/man-fatal-double-shooting-that-killed-18-year-old-woman-west-chatham
+2252520,"March 13, 2022",Illinois,Chicago,700 block of S Kedzie Ave,0,1,https://home.chicagopolice.org/media_incident/700-block-of-s-kedzie-ave-on-march-13-2022-at-approx-156-a-m-11th-district/
+2252518,"March 13, 2022",Illinois,Chicago,4000 block of W Belmont Ave,0,1,https://home.chicagopolice.org/media_incident/4000-block-of-w-belmont-ave-on-march-13-2022-at-approx-328-a-m-17th-district/
+2252512,"March 13, 2022",Illinois,Chicago,I-290 and S California Ave,0,1,https://www.cbsnews.com/chicago/news/isp-1-person-injured-shooting-interstate-290/
+2253141,"March 13, 2022",Illinois,Chicago,6600 block of S Paulina St,1,0,https://chicago.suntimes.com/crime/2022/3/13/22975849/man-killed-in-west-englewood-shooting
+2253136,"March 13, 2022",Washington,Renton,1200 block of Bronson Way N,0,1,https://www.kiro7.com/news/local/1-injured-shooting-renton/PPTATSNZSVAK3F6ONEE7LAEECM/
