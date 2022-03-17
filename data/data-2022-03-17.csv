@@ -19,7 +19,6 @@ id,date,state,county,addr,death,injured,link
 2255254,"March 16, 2022",District of Columbia,Washington,3400 block of 13th Pl SE,0,1,https://twitter.com/AllisonPapson/status/1504264452132294661
 2255042,"March 16, 2022",California,Tracy,3775 N Tracy Blvd,0,1,https://www.ttownmedia.com/tracy_press/news/stockton-man-killed-two-arrested-in-connection-with-shooting-at-north-tracy-gas-statio/article_66d83a54-a54e-11ec-913b-9b830adb46ec.html
 2255275,"March 16, 2022",Washington,Tacoma,4502 S Steele St,1,0,https://www.facebook.com/SouthSoundNews/posts/1326608611152282
-2255266,"March 16, 2022",Oregon,Hillsboro,2055 SE 44th Ave,1,0,https://flashalert.net/id/HPD/153074?fbclid=IwAR1hLYINseR6riPqj7Q2e0BmZ4hsfG6wNHFGy_sTUFyuPjB_bD1TIaYMEIg
 2255183,"March 16, 2022",Maryland,Glen Burnie,301 Hospital Dr,2,0,https://twitter.com/RSprouseNews/status/1504242903534735365
 2255249,"March 16, 2022",New Jersey,Newark,Lyons Ave and Bergen St,0,1,https://www.rlsmedia.com/article/male-shot-newarks-south-ward-2
 2255230,"March 16, 2022",Texas,Bryan,1100 block of W 17th St,0,1,https://www.kbtx.com/2022/03/16/bryan-police-responding-shooting-west-17th-street/
@@ -41,6 +40,7 @@ id,date,state,county,addr,death,injured,link
 2254776,"March 16, 2022",Illinois,Chicago,11000 block of S Halsted St,0,1,https://home.chicagopolice.org/media_incident/11000-block-of-s-halsted-on-march-16-2022-approximately-1022-a-m-5th-district/
 2254762,"March 16, 2022",Illinois,Chicago,W Belmont Ave and N Long Ave,0,1,https://twitter.com/CPD1617Scanner/status/1503968576121671680
 2254760,"March 16, 2022",Illinois,Chicago,11917 S Lafayette Ave,1,0,https://twitter.com/SPOTNEWSonIG/status/1504007720025956355
+2255266,"March 16, 2022",Oregon,Hillsboro,2055 SE 44th Ave,1,0,https://www.kptv.com/2022/03/16/hillsboro-pd-active-standoff-hostages-freed/
 2255512,"March 16, 2022",Kentucky,Louisville,W Evelyn Ave,0,1,https://www.wave3.com/2022/03/16/shooting-near-cardinal-stadium-under-investigation/
 2254718,"March 16, 2022",Michigan,Detroit,1300 block of W Warren Ave,0,1,https://www.facebook.com/TheDetroitScanner/posts/5365928670097811
 2255492,"March 16, 2022",North Carolina,Goldsboro,3201 Central Heights Rd,1,0,https://www.wral.com/family-goldsboro-teen-killed-in-early-morning-shooting-loved-to-play-basketball-adored-by-classmates/20190473/
@@ -49,9 +49,9 @@ id,date,state,county,addr,death,injured,link
 2255453,"March 16, 2022",Kentucky,Essie,12975 US-421,0,0,https://www.wtvq.com/student-brings-gun-to-school-in-leslie-county/
 2255423,"March 16, 2022",Michigan,Benton Harbor,1700 block of Crystal Ct,1,0,https://abc57.com/news/police-conducting-investigation-at-berrien-homes
 2255410,"March 16, 2022",Michigan,Benton Harbor,Highland Ave and Plum Ct,1,1,https://www.abc57.com/news/one-dead-one-injured-in-shooting-near-blossom-acres
+2255410,"March 16, 2022",Michigan,Benton Harbor,Highland Ave and Plum Ct,1,1,https://www.abc57.com/news/one-dead-one-injured-in-shooting-near-blossom-acres
 2255263,"March 15, 2022",Tennessee,Clarksville,300 block of Forest Hills Dr,1,0,https://clarksvillenow.com/local/man-found-shot-to-death-in-car-in-clarksville/
 2254409,"March 15, 2022",South Carolina,Salem,Landing Rd,1,0,https://www.foxcarolina.com/2022/03/15/coroner-scene-after-shooting-between-boat-wave-runner-upstate-lake/
-2255270,"March 15, 2022",Tennessee,Kingsport,1900 block of Lincoln St,0,1,https://kingsportpdblog.com/2022/03/16/kpd-e-news-release-kingsport-police-officer-shot-during-struggle-with-juvenile-suspect/
 2254620,"March 15, 2022",District of Columbia,Washington,1300 block of Morris Rd SE,0,1,https://twitter.com/alanhenney/status/1503929090482520064?t=eoBHxlWFi5YWmQBNgIIXFw&s=19
 2254612,"March 15, 2022",Tennessee,Nashville,648 Claiborne St,0,1,https://www.wsmv.com/2022/03/16/one-man-injured-tuesday-evening-shooting/
 2255378,"March 15, 2022",Arkansas,Pine Bluff,Martha Mitchell Expy and Blake St,0,1,https://katv.com/news/local/police-pine-bluff-police-investigating-a-drive-by-shooting-martha-mitchell-black-street-female-victim
@@ -139,6 +139,9 @@ id,date,state,county,addr,death,injured,link
 2254756,"March 15, 2022",Pennsylvania,Philadelphia,N 30th St and Page St,0,3,https://www.inquirer.com/news/philly-homicide-man-shot-carrying-infant-20220315.html
 2254745,"March 15, 2022",Pennsylvania,Philadelphia,4900 block of Hawthorne St,1,0,https://www.inquirer.com/news/philly-homicide-man-shot-carrying-infant-20220315.html
 2254729,"March 15, 2022",Pennsylvania,Philadelphia,4800 block of Lawrence St,0,3,https://philadelphia.cbslocal.com/2022/03/16/rash-of-shootings-across-philadelphia-tuesday-night-as-activists-fear-increased-violence-with-warm-weather/
+2255527,"March 15, 2022",Oregon,Portland,3100 block of NE 102nd Ave,0,1,https://www.koin.com/news/crime/ppb-man-shot-while-driving-in-ne-portland/
+2255270,"March 15, 2022",Tennessee,Kingsport,1900 block of Lincoln St,0,1,https://kingsportpdblog.com/2022/03/16/kpd-e-news-release-kingsport-police-officer-shot-during-struggle-with-juvenile-suspect/
+2255517,"March 15, 2022",Kentucky,Louisville,1701 River Rd,1,0,https://www.wave3.com/2022/03/16/man-found-dead-park-along-river-road-had-been-shot-police-say/
 2254197,"March 15, 2022",Louisiana,New Orleans,1700 block of N Derbigny St,1,1,https://www.nola.com/news/crime_police/article_4a67dbb6-a483-11ec-9603-f3ab71c9208e.html
 2254525,"March 15, 2022",North Carolina,Durham,100 block of Big Leaf Way,1,0,https://www.cbs17.com/news/man-suffers-serious-injuries-in-durham-shooting-police-say-2/
 2254700,"March 15, 2022",Louisiana,Metairie,7000 block of Schouest Dr,1,0,https://www.nola.com/news/crime_police/article_46ceedba-a4d2-11ec-9722-8f51dc7fbc3b.html
@@ -236,8 +239,3 @@ id,date,state,county,addr,death,injured,link
 2253746,"March 14, 2022",Illinois,Chicago,6548 S Marshfield Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1503536957619687431
 2253750,"March 14, 2022",Illinois,Chicago,2408 S Trumbull Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1503533392314650625
 2253855,"March 14, 2022",Maryland,Pasadena,Whitaker Rd and Liberty Cir,1,1,https://www.facebook.com/aacopd/posts/330159059148919
-2253134,"March 14, 2022",Washington,Tacoma,4300 block of E Portland Ave,1,0,https://www.king5.com/article/news/local/tacoma-police-shooting-deadly/281-0c406f6d-a42b-46e7-a8a7-20e45ec9288d
-2253920,"March 14, 2022",Washington,Seattle,7000 block of Rainier Ave S,0,1,https://www.kiro7.com/news/local/police-investigating-after-man-injured-south-seattle-shooting/C4FYRWEMB5FMVJ6K6TQ6ZKASYM/
-2253123,"March 14, 2022",Texas,Houston,900 block of S Wayside Dr,0,1,https://twitter.com/houstonpolice/status/1503267924794089472?cxt=HHwWgIC5udCN19wpAAAA
-2253439,"March 14, 2022",Wisconsin,Milwaukee,5312 N 36th St,0,1,https://mke-police.herokuapp.com/call/220730783
-2253887,"March 14, 2022",Michigan,Detroit,300 block of Newport St,0,2,https://www.facebook.com/TheDetroitScanner/posts/5362697240420954
