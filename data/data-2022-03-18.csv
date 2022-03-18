@@ -1,4 +1,5 @@
 id,date,state,county,addr,death,injured,link
+2256375,"March 18, 2022",Texas,San Antonio,S Callaghan Rd and Old Hwy 90 W,0,1,https://news4sanantonio.com/news/local/man-shot-in-arm-pit-during-possible-road-rage-shooting-on-west-side-investigation-sanantonio-texas-police-victim-driver-vehicle-handgun
 2256275,"March 18, 2022",New Jersey,Newark,S Munn Ave and S Orange Ave,0,1,https://www.rlsmedia.com/article/woman-shot-newarks-west-ward
 2256221,"March 17, 2022",Virginia,Richmond,200 block of W Brookland Park Blvd,1,0,https://www.wtvr.com/news/local-news/west-brookland-park-shooting
 2256230,"March 17, 2022",Illinois,Chicago,4400 block of S Western Ave,0,1,https://home.chicagopolice.org/media_incident/4400-block-of-s-western-on-march-17-2022-at-approx-820-p-m-9th-district/
@@ -54,17 +55,16 @@ id,date,state,county,addr,death,injured,link
 2255559,"March 17, 2022",Illinois,Chicago,6500 block of S Laflin St,0,1,https://www.fox32chicago.com/news/chicago-crime-man-shot-in-stomach-in-englewood
 2255557,"March 17, 2022",Illinois,Chicago,2200 block of W Lake St,0,1,https://www.fox32chicago.com/news/bullet-grazes-man-in-chicagos-west-town
 2255538,"March 17, 2022",Illinois,Chicago,50 block of W Division St,0,1,https://chicago.suntimes.com/crime/2022/3/17/22982679/a-carjacking-a-shooting-and-a-beating-reported-in-downtown-chicago-over-four-hours-overnight
-2256313,"March 17, 2022",Louisiana,New Orleans,8500 block of I-10 Service Rd,0,1,https://www.nola.com/news/crime_police/article_b3d90ca2-a64d-11ec-b596-bff7bb417026.html
+2256377,"March 17, 2022",Texas,Austin,6500 block of Porter St,1,0,https://www.kxan.com/news/local/austin/man-dead-after-shooting-in-southeast-austin/
+2256366,"March 17, 2022",Kentucky,Bowling Green,938 Morgantown Rd,0,1,https://www.wbko.com/2022/03/18/bgpd-respond-suspected-shooting-lampkin-park/
 2255858,"March 17, 2022",Kentucky,Louisville,1400 block of Clara Ave,0,1,https://www.wlky.com/article/police-shooting-louisville-taylor-berry-neighborhood/39466935
 2256301,"March 17, 2022",Arkansas,Hot Springs National Park (Hot Springs),1306 Albert Pike Rd,1,0,https://12ft.io/proxy?ref=&q=http://www.arkansasonline.com/news/2022/mar/17/police-1-dead-in-shooting-at-hot-springs-gas-station/?latest
 2256282,"March 17, 2022",Tennessee,Memphis,2300 block of Park Ave,0,3,https://wreg.com/news/local/shooting-on-park-ave-sends-three-to-hospital/
 2256245,"March 16, 2022",Virginia,Norfolk,6600 block of Granby St,0,3,https://www.13newsnow.com/article/news/crime/norfolk-three-shot-granby-street-sngh/291-d862605f-0d59-4737-82bc-935a76e23443
-2255399,"March 16, 2022",South Carolina,Starr,Glenn Cove Rd,1,0,https://www.foxcarolina.com/2022/03/17/woman-found-dead-inside-home-anderson-county-investigation-underway/
 2255385,"March 16, 2022",Virginia,Norfolk,200 block of 31st St,0,1,https://www.13newsnow.com/article/news/crime/norfolk-west-31st-street-shooting-investigation/291-155df57b-6848-4505-a889-7f054e95df07
 2255450,"March 16, 2022",Alabama,Birmingham,6648 Division Ave,1,0,https://police.birminghamal.gov/media-release-56-homicide-investigation-division-avenue/
 2256209,"March 16, 2022",California,Bakersfield,711 Union Ave,0,1,https://bakersfieldnow.com/news/local/shooting-at-motel-on-union-avenue-bpd-investigating
 2255383,"March 16, 2022",Wisconsin,Milwaukee,N 41st St and W Locust St,0,1,https://www.fox6now.com/news/milwaukee-shootings-wednesday-boy-injured
-2255375,"March 16, 2022",North Carolina,Laurel Hill,Crawford Lake Rd,0,1,https://wpde.com/news/local/woman-charged-after-man-found-head-gunshot-wound-inside-home-laurel-hill-scotland-county-wendy-benton-march-16-2022
 2256194,"March 16, 2022",California,Redding,13012 Fernie Way,1,0,https://www.actionnewsnow.com/news/crime/deputies-identify-suspect-in-shasta-county-homicide-wednesday-night/article_68e452e4-a637-11ec-b70b-3b32db36137f.html
 2255373,"March 16, 2022",Wisconsin,Milwaukee,N 21st St and W Hadley St,0,1,https://www.fox6now.com/news/milwaukee-shootings-wednesday-boy-injured
 2255337,"March 16, 2022",Virginia,Richmond,1400 block of Minefee St,0,2,https://www.wtvr.com/news/local-news/bellemeade-richmond-shooting-minefee-street
@@ -152,6 +152,12 @@ id,date,state,county,addr,death,injured,link
 2255532,"March 16, 2022",Washington,Tacoma,70th St and East B St,1,0,https://www.q13fox.com/news/man-suffers-life-threatening-injuries-in-tacoma-shooting-police-investigating
 2255530,"March 16, 2022",Washington,Kennewick,Cleveland St and Canal Dr,0,1,https://www.tri-cityherald.com/news/local/crime/article259485429.html
 2255266,"March 16, 2022",Oregon,Hillsboro,2055 SE 44th Ave,1,0,https://www.kptv.com/2022/03/16/hillsboro-pd-active-standoff-hostages-freed/
+2256373,"March 16, 2022",South Carolina,Santee,49 Peter Collinson Rd,1,0,https://thetandd.com/news/local/crime-and-courts/updated-person-killed-in-santee-man-shot-inside-gated-community/article_39aab1c9-3392-58dd-bf6f-d0145a134bed.html
+2255399,"March 16, 2022",South Carolina,Starr,Glenn Cove Rd,1,0,https://www.foxcarolina.com/2022/03/17/woman-found-dead-inside-home-anderson-county-investigation-underway/
+2255375,"March 16, 2022",North Carolina,Laurel Hill,Crawford Lake Rd,1,0,https://wpde.com/news/local/wife-charged-husband-shot-killed-inside-scotland-county-home-crawford-lake-road-march
+2256353,"March 16, 2022",Alabama,Butler,221 E Pushmataha St,0,3,https://www.wtok.com/2022/03/17/more-than-60-shots-fired-butler-shootout-3-injured/
+2256313,"March 16, 2022",Louisiana,New Orleans,8500 block of I-10 Service Rd,0,1,https://www.nola.com/news/crime_police/article_b3d90ca2-a64d-11ec-b596-bff7bb417026.html
+2256325,"March 16, 2022",Louisiana,Baton Rouge,W Wendover Dr,0,1,https://www.theadvocate.com/baton_rouge/news/crime_police/article_b0b7ddcc-a5ef-11ec-80fa-4ff9792207f0.html
 2255512,"March 16, 2022",Kentucky,Louisville,W Evelyn Ave,0,1,https://www.wave3.com/2022/03/16/shooting-near-cardinal-stadium-under-investigation/
 2255492,"March 16, 2022",North Carolina,Goldsboro,3201 Central Heights Rd,1,0,https://www.wral.com/family-goldsboro-teen-killed-in-early-morning-shooting-loved-to-play-basketball-adored-by-classmates/20190473/
 2256295,"March 16, 2022",Connecticut,Bridgeport,405 Newfield Ave,0,1,https://www.ctpost.com/news/article/Bridgeport-man-charged-with-leading-police-on-17009740.php
@@ -198,7 +204,6 @@ id,date,state,county,addr,death,injured,link
 2254242,"March 15, 2022",Hawaii,Waianae,86-900 block of Pokaikuahiwi Place,1,3,https://www.khon2.com/hawaii-crime/hpd-are-investigating-possible-shooting-in-waianae/
 2254189,"March 15, 2022",Mississippi,Jackson,600 block of Lindsey Dr,1,0,https://www.wapt.com/article/jackson-police-investigate-7-homicides-in-week-and-a-half/39455093
 2254345,"March 15, 2022",Washington,Spanaway,19011 Pacific Ave S,2,1,https://komonews.com/news/local/large-officer-presence-after-two-deputies-shot-near-spanaway
-2255217,"March 15, 2022",Mississippi,Edwards,Withers St,0,1,https://www.wapt.com/article/teenage-shooting-victim-to-face-charges-when-hes-released-from-hospital/39455453
 2254389,"March 15, 2022",Tennessee,Memphis,3465 Lamar Ave,1,0,https://wreg.com/news/man-injured-in-gas-station-shooting-near-airport/
 2254387,"March 15, 2022",South Carolina,Hopkins,2615 Lower Richland Blvd,0,0,https://www.wistv.com/2022/03/15/lower-richland-high-school-student-charged-with-bringing-gun-school/
 2254318,"March 15, 2022",Texas,Alamo,500 block of Rancho Blanco Rd,0,1,https://myrgv.com/local-news/2022/03/15/homeowner-shoots-stranger-under-his-vehicle/
@@ -261,6 +266,3 @@ id,date,state,county,addr,death,injured,link
 2255581,"March 15, 2022",Texas,Fort Worth,South Fwy and Altamesa Blvd,0,1,https://www.star-telegram.com/news/local/crime/article259444289.html
 2255579,"March 15, 2022",Michigan,Kalamazoo,S Rose St and W Walnut St,0,1,https://www.mlive.com/news/kalamazoo/2022/03/shooting-victim-arrested-on-firearms-charge.html
 2255574,"March 15, 2022",New York,Rochester,Backus St and Phelps Ave,0,1,https://twitter.com/RPLCinfosharing/status/1504060537520459776
-2255527,"March 15, 2022",Oregon,Portland,3100 block of NE 102nd Ave,0,1,https://www.koin.com/news/crime/ppb-man-shot-while-driving-in-ne-portland/
-2255270,"March 15, 2022",Tennessee,Kingsport,1900 block of Lincoln St,0,1,https://kingsportpdblog.com/2022/03/16/kpd-e-news-release-kingsport-police-officer-shot-during-struggle-with-juvenile-suspect/
-2255517,"March 15, 2022",Kentucky,Louisville,1701 River Rd,1,0,https://www.wave3.com/2022/03/16/man-found-dead-park-along-river-road-had-been-shot-police-say/
