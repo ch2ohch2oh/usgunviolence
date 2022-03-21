@@ -60,6 +60,10 @@ id,date,state,county,addr,death,injured,link
 2258164,"March 20, 2022",Illinois,Chicago,2500 block of S Kedzie Ave,0,1,https://www.fox32chicago.com/news/man-shot-by-group-yelling-gang-slogans-on-chicagos-west-side
 2258162,"March 20, 2022",Illinois,Chicago,5400 block of W Washington Blvd,0,1,https://chicago.suntimes.com/crime/2022/3/20/22987301/man-shot-after-argument-over-traffic-crash-in-south-austin
 2258156,"March 20, 2022",Texas,Austin,E 6th St and Neches St,0,4,https://nypost.com/2022/03/20/south-by-southwest-festival-shooting-leaves-4-injured/
+2258930,"March 20, 2022",Iowa,Davenport,3700 block of Welcome Way,1,0,https://www.kcrg.com/2022/03/20/standoff-by-northpark-mall-ends-after-an-hour-no-community-threat/
+2258928,"March 20, 2022",Connecticut,Meriden,E Main St,1,0,https://www.wfsb.com/2022/03/21/1-dead-meriden-shooting/
+2258923,"March 20, 2022",Connecticut,Milford,Housatonic Dr,0,1,https://www.ctpost.com/news/article/Suspect-in-custody-in-Milford-shooting-police-say-17015081.php?src=rdctpdensecp
+2258920,"March 20, 2022",Louisiana,Morgan City,Egle St,0,1,https://www.klfy.com/crime/armed-robbery-morgan-city-hospital-gunshot/
 2258918,"March 20, 2022",Alabama,Montgomery,2100 block of E South Blvd,0,1,https://www.alabamanews.net/2022/03/20/life-threatening-shooting-in-montgomery/
 2258909,"March 20, 2022",Alabama,Mobile,1035 N Cody Rd,0,1,https://www.wkrg.com/mobile-county/1-shot-2-injured-during-shooting-at-mobile-fairgrounds/
 2258904,"March 20, 2022",Louisiana,Jennings,300 block of West St,0,1,https://www.klfy.com/local/jeff-davis-parish/man-hit-in-chin-by-bullet-fragment-in-jennings/
@@ -169,7 +173,10 @@ id,date,state,county,addr,death,injured,link
 2258203,"March 19, 2022",Illinois,Chicago,6800 S Wood St,0,2,https://www.fox32chicago.com/news/2-men-shot-in-on-chicagos-south-side-while-sitting-in-car
 2258128,"March 19, 2022",Washington,Tacoma (Parkland),1809 105th Street Ct,1,1,https://komonews.com/news/local/double-shooting-at-apartment-complex-in-parkland-area-leaves-1-dead-1-hurt
 2258126,"March 19, 2022",Washington,Tacoma,3202 Portland Ave E,1,0,https://komonews.com/news/local/at-least-one-killed-during-robbery-of-tacoma-marijuana-shop-police-say
+2258935,"March 19, 2022",Iowa,Mediapolis,411 North St,0,2,https://www.kwqc.com/2022/03/19/2-mediapolis-men-hospitalized-after-being-shot/
+2258932,"March 19, 2022",Iowa,Des Moines,2301 Ingersoll Ave,0,2,https://www.kcrg.com/2022/03/20/two-people-shot-outside-des-moines-bar-no-arrests/
 2258120,"March 19, 2022",Montana,Great Falls,1400 block of 7th Ave S,1,0,https://www.greatfallstribune.com/story/news/crime/2022/03/20/county-deputy-fatally-shoots-suspect-during-wanted-person-search/65345703007/
+2258926,"March 19, 2022",Connecticut,Ansonia,W Main St and Bridge St,0,1,https://www.nbcconnecticut.com/news/local/man-seriously-injured-after-ansonia-shooting/2744218/
 2257251,"March 19, 2022",California,Los Angeles,1211 W 36th St,0,1,https://twitter.com/DowntownLAScan/status/1505087151985205252
 2258112,"March 19, 2022",Maryland,Hyattsville,US-50 and MD-410,0,1,https://twitter.com/alanhenney/status/1505300620965818371
 2258110,"March 19, 2022",District of Columbia,Washington,2700 block of Robinson Pl SE,0,1,https://twitter.com/alanhenney/status/1505346201813725191
@@ -309,13 +316,3 @@ id,date,state,county,addr,death,injured,link
 2257289,"March 18, 2022",Illinois,Chicago,50 block of E Cullerton St,0,1,https://cwbchicago.com/2022/03/driver-shot-during-south-loop-carjacking-is-3rd-robbery-victim-shot-in-the-neighborhood-this-year.html
 2256395,"March 18, 2022",Texas,Austin,1300 Parker Ln,0,1,https://cbsaustin.com/news/local/man-shot-in-arm-in-southeast-austin
 2257285,"March 18, 2022",Oregon,Salem,Chemeketa St and High St,0,1,https://nbc16.com/newsletter-daily/police-search-for-shooting-suspect-near-salem-mall-center
-2258124,"March 18, 2022",Wyoming,Evansville,Curtis St and 5th St,1,0,https://www.wyomingnewsnow.tv/2022/03/19/multiple-agencies-respond-shots-fired-reports-evansville/
-2257257,"March 18, 2022",California,Los Angeles,982 S Albany St,0,2,https://twitter.com/DowntownLAScan/status/1505063868732608517
-2257254,"March 18, 2022",California,Los Angeles,97th St and Compton Ave,0,1,https://twitter.com/DowntownLAScan/status/1505071778057449473
-2256475,"March 18, 2022",Virginia,Sterling (Potomac Falls),46640 Drysdale Terr,1,0,https://www.fox5dc.com/news/virginia-woman-who-stabbed-15-year-old-shot-and-killed-by-loudoun-county-police
-2257111,"March 18, 2022",West Virginia,Uneeda,N/A,1,0,https://wchstv.com/news/local/state-police-man-sought-in-connection-with-boone-county-murder-on-friday
-2257118,"March 18, 2022",Virginia,Richmond,Claiborne St and S Allen Ave,0,1,https://www.wric.com/news/local-news/richmond/man-fighting-for-life-after-richmond-shooting-2/
-2256525,"March 18, 2022",Maryland,Baltimore,500 block of N Curley St,0,1,https://www.stardem.com/news/crime/man-shot-multiple-times-while-sitting-in-car/article_9edca09d-1e02-5412-ba3d-9a051ed1d1c2.html
-2257433,"March 18, 2022",Maryland,Annapolis,1307 Forest Dr,0,2,https://www.wbaltv.com/article/annapolis-investigating-double-shooting-friday/39481464
-2257171,"March 18, 2022",Virginia,Portsmouth,3300 block of Portsmouth Blvd,0,1,https://www.13newsnow.com/article/news/crime/portsmouth-police-person-shot-3300-portsmouth-boulevard/291-afc06c0a-eb37-4972-b94d-8aa170a5f847
-2257137,"March 18, 2022",Maryland,District Heights,3400 block of Walters Ln,1,0,https://www.wusa9.com/article/news/local/maryland/i-dont-believe-this-dmv-rapper-goonew-fatally-shot-in-prince-georges-county-markelle-morrow/65-23fb1b55-773a-4eac-bdae-5c0dfc07e544
