@@ -1,7 +1,8 @@
 id,date,state,county,addr,death,injured,link
+2266905,"March 31, 2022",Michigan,Detroit,Joy Rd and Faust Ave,0,1,https://www.facebook.com/TheDetroitScanner/posts/5405548476135830
+2266881,"March 31, 2022",Michigan,Detroit,11700 block of Sussex St,1,0,https://www.facebook.com/TheDetroitScanner/posts/5405729882784356
 2266808,"March 30, 2022",Michigan,Detroit,Marcus Ave and Mc Clellan Ave,0,2,https://www.facebook.com/TheDetroitScanner/posts/5405513566139321
 2266806,"March 30, 2022",North Carolina,Charlotte,5500 block of Northstream Dr,0,1,https://www.wsoctv.com/news/local/juvenile-shot-north-charlotte-taken-hospital-cmpd-says/SJJQ7WIERZA4XNSXYD5VG526RQ/
-2266409,"March 30, 2022",Michigan,Detroit,6309 Mack Ave,1,1,https://www.detroitnews.com/story/news/local/detroit-city/2022/03/30/1-dead-1-injured-shooting-health-facility-detroit/7224821001/
 2266628,"March 30, 2022",New York,Rochester,Superior St and Judson St,0,1,https://www.whec.com/rochester-new-york-news/man-shot-rochester-19th-ward-judson-superior-genesee/6433472/
 2266187,"March 30, 2022",Maryland,Baltimore,900 block of N Broadway,0,3,https://www.facebook.com/BaltimoreCityPolice/posts/339287801560140
 2266721,"March 30, 2022",Maryland,Baltimore,1900 block of Christian St,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/339287801560140
@@ -49,6 +50,19 @@ id,date,state,county,addr,death,injured,link
 2266231,"March 30, 2022",Illinois,Chicago,7700 block of S Kingston Ave,0,1,https://www.fox32chicago.com/news/man-critically-shot-on-chicagos-south-side-while-sitting-in-his-car
 2266153,"March 30, 2022",Delaware,Wilmington,1050 S Market St,0,0,https://dsp.delaware.gov/2022/03/30/troopers-conducting-shooting-investigation-outside-of-a-nightclub/
 2266149,"March 30, 2022",Maryland,Laurel,8900 block of Ascot Ln,0,1,https://twitter.com/RealTimeNews10/status/1509025302667747328
+2266948,"March 30, 2022",Oregon,Portland,NE 100th Ave and Halsey St,0,2,https://katu.com/news/local/five-people-wounded-in-three-overnight-shootings-across-portland
+2266945,"March 30, 2022",Oregon,Portland,SE Powell Blvd and I-205,0,2,https://katu.com/news/local/five-people-wounded-in-three-overnight-shootings-across-portland
+2266940,"March 30, 2022",Oregon,Portland,SE Hult St and 98th Ave,0,2,https://katu.com/news/local/teen-seriously-wounded-in-southeast-portland-shooting
+2266938,"March 30, 2022",Oregon,Portland,600 block of Northeast Summer St,0,1,https://katu.com/news/local/man-critically-wounded-in-northeast-portland-shooting
+2266935,"March 30, 2022",Oklahoma,Muskogee,Callahan St and N Cherokee St,0,1,https://ktul.com/news/local/muskogee-police-say-man-was-found-with-gunshot-wound
+2266908,"March 30, 2022",Wisconsin,Racine,Ohio St and Byrd Ave,0,1,https://journaltimes.com/news/local/crime-and-courts/one-man-shot-during-daylight-shootout-wednesday-afternoon-in-racine/article_fd4f74c0-b08e-11ec-85c0-b7e7b1b85002.html
+2266896,"March 30, 2022",Michigan,Detroit,Anglin St,1,0,https://www.clickondetroit.com/news/local/2022/03/31/police-murder-suspect-taken-into-custody-on-detroits-west-side/
+2266409,"March 30, 2022",Michigan,Detroit,6309 Mack Ave,1,1,https://www.fox2detroit.com/news/mental-heath-center-guard-shot-and-killed-remembered-as-a-father-good-guy
+2266878,"March 30, 2022",Michigan,River Rouge,Forest St,1,0,https://www.fox2detroit.com/news/19-year-old-river-rouge-man-accused-of-murdering-grandmother-he-lived-with
+2266872,"March 30, 2022",Pennsylvania,Pittsburgh,800 block of N Homewood Ave,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1709
+2266855,"March 30, 2022",Minnesota,Minneapolis,N 29th Ave and N Bryant Ave,0,1,https://twitter.com/CrimeWatchMpls/status/1509377742365552642
+2266860,"March 30, 2022",Minnesota,Minneapolis,W 29th St and Colfax Ave S,0,1,https://twitter.com/CrimeWatchMpls/status/1509386584763686913
+2266858,"March 30, 2022",Pennsylvania,Pittsburgh,Kingsboro St and Pasadena St,1,0,https://pittsburghpa.gov/publicsafety/blotterview/1708
 2266850,"March 30, 2022",Ohio,Columbus,1300 block of E 26th Ave,2,0,https://www.10tv.com/article/news/local/2-found-dead-inside-south-linden-home/530-820b88b7-9947-4ccc-af90-2f06695b8a22
 2266845,"March 30, 2022",Louisiana,Prairieville,John Broussard Rd,1,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_941c9f2a-b064-11ec-a4a8-a7e92a71dc3f.html
 2266830,"March 30, 2022",Missouri,Saint Louis,10600 block of Duke Dr,0,1,https://www.kmov.com/2022/03/30/1-wounded-overnight-shooting-north-county/
@@ -84,7 +98,6 @@ id,date,state,county,addr,death,injured,link
 2266483,"March 29, 2022",Georgia,Stone Mountain,5295 Stone Mountain Fwy,0,1,https://www.ajc.com/news/crime/suspect-in-custody-after-shooting-outside-gwinnett-la-fitness-injures-1/HBRGAUYOTRGELCLOJQBABYV2AU/
 2265756,"March 29, 2022",Nebraska,Omaha,Pinkney St and N 44th Ave,0,1,https://www.wowt.com/2022/03/29/one-injured-tuesday-morning-omaha-shooting/
 2265750,"March 29, 2022",New York,Brooklyn,210 Newport St,0,1,https://twitter.com/NYC_Alerts911/status/1508895321681715213
-2266475,"March 29, 2022",Pennsylvania,Pittsburgh,1100 block of Chelton Ave,1,0,/incident/2266475
 2265745,"March 29, 2022",Michigan,Coopersville,198 East St,0,0,https://www.mlive.com/news/grand-rapids/2022/03/police-diffuse-situation-with-individual-threatening-self-harm-with-gun-at-west-michigan-high-school.html
 2266466,"March 29, 2022",Pennsylvania,Mckeesport,Sumac St,0,1,https://pittsburgh.cbslocal.com/2022/03/30/man-shot-in-the-head-in-mckeesport-police-investigating/
 2266458,"March 29, 2022",Georgia,Albany,1400 block of South Carolina Ave,0,1,https://www.walb.com/2022/03/30/1-injured-tuesday-night-albany-shooting/
@@ -134,11 +147,13 @@ id,date,state,county,addr,death,injured,link
 2266173,"March 29, 2022",Maryland,Baltimore,1800 block of Clifton Ave,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-tuesday-crime-20220330-ppjqzapgvngvrg7x5kwdzosqla-story.html
 2266171,"March 29, 2022",Maryland,Baltimore,1800 block of Clifton Ave,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-tuesday-crime-20220330-ppjqzapgvngvrg7x5kwdzosqla-story.html
 2266132,"March 29, 2022",Ohio,Toledo,1200 block of Halstead St,0,1,https://www.toledoblade.com/local/police-fire/2022/03/30/chad-oswald-shot-in-his-home-in-east-toledo/stories/20220330117
+2266943,"March 29, 2022",Oregon,Portland,SE Woodstock Blvd and SE 72nd Ave,0,1,https://katu.com/news/local/five-people-wounded-in-three-overnight-shootings-across-portland
 2266117,"March 29, 2022",Louisiana,Baton Rouge,Dutton Ave and Denham St,0,1,https://www.wbrz.com/news/one-person-hurt-in-shooting-near-corner-of-dutton-avenue-and-denham-street-on-tuesday-night/
 2266103,"March 29, 2022",Louisiana,New Orleans,S Derbigny St and Josephine St,1,1,"https://nopdnews.com/getattachment/0f411194-045e-4381-a84a-90a0398ca8d9/March-28-through-March-29,-2022/"
 2266099,"March 29, 2022",Alabama,Birmingham,51st St N,0,1,https://www.cbs42.com/news/1-injured-in-woodlawn-shooting/
 2266097,"March 29, 2022",Alabama,Birmingham,N/A,0,1,https://www.wbrc.com/2022/03/29/shooting-victim-shows-up-birmigham-fire-station/
 2266059,"March 29, 2022",Mississippi,Moss Point,6522 Old Hwy 63,0,0,https://www.wlbt.com/2022/03/29/police-moss-point-canine-officer-shot-during-pursuit-suspect/
+2266475,"March 29, 2022",Pennsylvania,Pittsburgh,1100 block of Chelton Ave,1,0,https://pittsburghpa.gov/publicsafety/blotterview/1706
 2266010,"March 29, 2022",Virginia,Roanoke,1220 5th St NW,0,0,https://www.wfxrtv.com/news/local-news/roanoke-valley-news/gun-fired-in-bathroom-at-lucy-addison-ms-in-roanoke/
 2265393,"March 29, 2022",Ohio,Akron,700 block of Johnston St,0,1,https://www.record-courier.com/story/news/2022/03/29/suspected-burglar-shot-homeowner-inside-akron-home-tuesday-morning-johnston-street/7201849001/
 2266113,"March 29, 2022",Louisiana,New Orleans,700 block of St Mary St,0,1,"https://nopdnews.com/getattachment/9f7ef89b-f350-4731-ad2c-88ad262345ea/March-29-through-March-30,-2022/"
@@ -199,7 +214,6 @@ id,date,state,county,addr,death,injured,link
 2265709,"March 28, 2022",California,Hanford,Garden Dr and 2nd Place,0,1,https://abc30.com/shooting-hanford-home-garden-man-shot/11689771/
 2265707,"March 28, 2022",California,Merced,11th St and E St,0,1,https://abc30.com/shooting-merced-police-man-shot/11689781/
 2265701,"March 28, 2022",Missouri,Saint Louis (Creve Coeur),615 S New Ballas Rd,1,0,https://www.stltoday.com/news/local/crime-and-courts/police-man-dies-of-self-inflicted-gunshot-in-hospital-parking-lot-in-creve-coeur/article_acc8b026-5795-52b5-a8a6-e4fbc7afdd76.html
-2265693,"March 28, 2022",Missouri,Eunice,Pine Flat Dr,1,0,https://www.ky3.com/2022/03/29/texas-county-sheriffs-office-investigates-womans-shooting-death-ask-residents-take-precautiosn/
 2266436,"March 28, 2022",Indiana,Fort Wayne,1300 block of Zollars Ave,0,1,https://www.wowo.com/police-investigating-monday-night-shooting-in-fort-wayne/
 2265684,"March 28, 2022",Georgia,Atlanta,4900 Circle 75 Pkwy,0,1,https://www.11alive.com/article/news/crime/cobb-county-windy-hill-road-circle-75-shooting-hotel/85-f436a69a-0806-49b3-8ff4-216262443971
 2265682,"March 28, 2022",Missouri,Saint Louis,N Broadway and Harlan Ave,0,1,https://www.kmov.com/2022/03/29/man-shot-arm-north-city/
@@ -232,10 +246,3 @@ id,date,state,county,addr,death,injured,link
 2265400,"March 28, 2022",Ohio,Toledo,800 block of Earl St,0,1,https://www.toledoblade.com/local/police-fire/2022/03/29/two-shot-in-separate-e-toledo-incidents/stories/20220329098
 2265398,"March 28, 2022",Ohio,Toledo,Elgin Ave and N Ravine Pkwy,0,1,https://www.toledoblade.com/local/police-fire/2022/03/29/two-shot-in-separate-e-toledo-incidents/stories/20220329098
 2265060,"March 28, 2022",Ohio,Cincinnati,731 Elberon Ave,1,0,https://www.wcpo.com/news/local-news/neighborhood-news/east-price-hill/police-1-dead-after-shooting-in-east-price-hill
-2266124,"March 28, 2022",Louisiana,Rayne,N. Bradford St,0,1,https://www.klfy.com/local/acadia-parish/suspect-turns-self-in-for-rayne-shooting-that-injured-17-year-old/
-2266122,"March 28, 2022",Louisiana,Lafayette,1900 block of Carmel Dr,1,0,https://www.klfy.com/local/lafayette-parish/lafayette-parish-homicide-under-investigation/
-2265343,"March 28, 2022",New York,Syracuse,800 block of Bellevue Ave,0,1,https://www.syracuse.com/crime/2022/03/15-year-old-syracuse-boy-shot-while-driving-stolen-car-with-13-year-old-inside-police-say.html
-2264566,"March 28, 2022",Alabama,Montgomery,7000 block of Buckram Oak Dr,0,1,https://www.wsfa.com/2022/03/27/man-shot-overnight-montgomery/
-2265284,"March 28, 2022",Alabama,Tuscaloosa,3000 block of 27th St,1,1,https://www.cbs42.com/news/local/family-of-tuscaloosa-double-shooting-victims-speaking-out/
-2265930,"March 28, 2022",Tennessee,Memphis,2626 N Watkins St,1,0,https://wreg.com/news/local/woman-dies-in-frayser-gas-station-shooting/
-2265024,"March 28, 2022",Arkansas,Pine Bluff,28th Ave and Elm St,1,0,https://www.kark.com/crime/two-arrested-facing-murder-charges-in-deadly-pine-bluff-shooting-that-killed-teen/
