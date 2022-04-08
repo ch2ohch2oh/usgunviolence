@@ -41,6 +41,13 @@ id,date,state,county,addr,death,injured,link
 2272859,"April 7, 2022",Massachusetts,Lynn,Cedar St,0,2,https://boston.cbslocal.com/2022/04/07/lynn-shooting-cedar-street-massachusetts/
 2272847,"April 7, 2022",Indiana,South Bend,2400 block of Oakbrook Dr,0,3,https://www.southbendtribune.com/story/news/local/2022/04/07/south-bend-shooting-three-juveniles-hospital-oakbrook-drive-boland-park-indiana/9494639002/
 2272823,"April 7, 2022",Indiana,Indianapolis,500 block of Hudson St,0,1,https://fox59.com/news/indycrime/impd-man-shot-downtown-in-suspected-drug-deal/
+2273424,"April 7, 2022",South Carolina,Cheraw,335 Chesterfield Hwy,0,1,https://wpde.com/news/local/cheraw-store-shooting-schools-on-lockdown-chesterfield-highway-south-carolina
+2273422,"April 7, 2022",South Carolina,Adams Run,SC-174 and Waring Rd,0,1,https://www.live5news.com/2022/04/07/man-injured-after-being-shot-yard-deputies-say/
+2273415,"April 7, 2022",North Carolina,Sanford,Olivia Rd,0,2,https://www.wral.com/man-in-custody-2-deputies-injured-after-standoff-in-sanford/20225896/
+2273409,"April 7, 2022",North Carolina,Durham,330 Avon Lake Dr,1,1,https://www.wral.com/suspect-in-custody-after-fatal-shooting-hours-long-standoff-in-durham/20225343/
+2273407,"April 7, 2022",Alabama,Birmingham,12 Perimeter Park S,1,0,https://www.al.com/news/2022/04/shooting-suspect-takes-own-life-as-us-marshals-try-to-arrest-him-at-birmingham-motel.html
+2273403,"April 7, 2022",Alabama,Albertville,3939 Highpoint Rd,1,0,https://whnt.com/news/northeast-alabama/1-killed-in-albertville-shooting/
+2273400,"April 7, 2022",Arkansas,Pine Bluff,3100 block of Eva Dr,1,0,https://www.thv11.com/article/news/crime/police-investigate-homicide-pine-bluff/91-274d3e26-00f4-4c80-9ffd-41f798127864
 2272965,"April 7, 2022",Virginia,Bridgewater,6660 block of Spring Creek Rd,1,0,https://augustafreepress.com/one-dead-in-officer-involved-shooting-in-rockingham-county/
 2273380,"April 7, 2022",Pennsylvania,Philadelphia,1800 block of East Venango St,0,2,https://www.inquirer.com/news/shooting-philly-5-year-old-harrowgate-20220407.html
 2273197,"April 7, 2022",Florida,West Palm Beach,Douglass Ave and Fourth St,0,2,https://cbs12.com/news/local/two-people-found-shot-in-vehicle-transported-to-hospital
@@ -53,7 +60,6 @@ id,date,state,county,addr,death,injured,link
 2272814,"April 6, 2022",Nevada,North Las Vegas,3200 W Alexander Rd,0,0,https://www.reviewjournal.com/crime/teenager-arrested-after-loaded-gun-found-at-high-school-2557794/
 2272434,"April 6, 2022",West Virginia,Evans,205 School House Rd,0,0,https://www.wsaz.com/2022/04/06/student-custody-after-bringing-gun-school-bus/
 2272355,"April 6, 2022",California,Creston,9000 block of Goldie Ln,1,0,https://www.sanluisobispo.com/news/local/crime/article260182795.html
-2272423,"April 6, 2022",Alabama,Birmingham,900 block of 52nd Pl N,1,0,https://www.al.com/news/birmingham/2022/04/man-found-shot-to-death-in-east-birmingham-apartment.html
 2273283,"April 6, 2022",Kentucky,Owensboro,2600 block of W 9th St,0,1,https://www.owensborotimes.com/news/2022/04/opd-1-person-injured-in-wednesday-night-shooting/
 2272499,"April 6, 2022",Tennessee,Roan Mountain,Shell Creek Rd,0,1,https://www.wjhl.com/news/crime/attempted-murder-suspect-sought-after-roan-mountain-shooting/
 2271885,"April 6, 2022",Texas,Burkburnett,600 block of Glendale St,1,0,https://www.texomashomepage.com/news/local-news/details-emerge-in-burkburnetts-second-accidental-shooting-death-in-4-months/
@@ -137,6 +143,7 @@ id,date,state,county,addr,death,injured,link
 2272676,"April 6, 2022",Idaho,Twin Falls,Harmon Park Ave and Locust St,0,1,https://www.kmvt.com/2022/04/07/one-hospitalized-following-twin-falls-shooting/
 2272667,"April 6, 2022",Oklahoma,Yale,Hwy 51 and N 3540 Rd,0,1,https://okcfox.com/news/local/yale-oklahoma-hostage-swat-situation-dairy-hut-chicago-lockdown-public-schools-bus-routes-stillwater-police
 2272632,"April 6, 2022",Missouri,Saint Louis,4200 block of Race Course Ave,1,1,https://www.kmov.com/2022/04/06/man-dead-woman-injured-after-shooting-forest-park-southeast-home/
+2272423,"April 6, 2022",Alabama,Birmingham,933 52nd Pl N,1,0,https://police.birminghamal.gov/homicide-investigation/
 2272626,"April 6, 2022",Mississippi,Jackson,I-220 and US-80,1,0,https://www.wapt.com/article/at-least-one-killed-in-shooting-on-highway-80/39655549
 2272451,"April 6, 2022",West Virginia,Hamlin,81 Lincoln Panther Way,0,0,https://www.wowktv.com/news/local/teenager-in-custody-after-gun-found-on-school-bus-in-jackson-county-wv/
 2272617,"April 6, 2022",Michigan,Highland Park,19400 block of Troy Pl,0,1,https://www.facebook.com/TheDetroitScanner/posts/5424157240941620
@@ -146,6 +153,7 @@ id,date,state,county,addr,death,injured,link
 2272590,"April 6, 2022",Louisiana,Baton Rouge,2300 block of Willow St,1,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_940a6de6-b5e6-11ec-9b3e-e37bc837f333.html
 2272465,"April 6, 2022",Virginia,Richmond,300 block of Engleside Dr,0,1,https://www.wric.com/news/juvenile-shot-in-henrico-investigation-underway/
 2272327,"April 6, 2022",Tennessee,Memphis,3700 block of E Shelby Dr,0,1,https://wreg.com/news/local/man-critical-after-airport-area-shooting/
+2273397,"April 6, 2022",Louisiana,Schriever,Livas Ln,1,0,https://www.dailycomet.com/story/news/2022/04/07/woman-killed-johnson-ridge-shooting/9497793002/
 2272334,"April 6, 2022",Tennessee,Memphis,1523 Shady Birch Rd,1,0,https://wreg.com/news/local/man-dead-after-shooting-in-whitehaven-2/
 2272579,"April 6, 2022",Louisiana,New Orleans,1800 block of Music St,1,0,https://www.nola.com/news/crime_police/article_3d79ed58-b618-11ec-9add-d7110d8cc762.html
 2272337,"April 6, 2022",Tennessee,Memphis,Edsel Ave and Swift St,1,0,https://wreg.com/news/local/one-shot-in-riverside-area/
@@ -227,9 +235,3 @@ id,date,state,county,addr,death,injured,link
 2271777,"April 5, 2022",Pennsylvania,Pittsburgh (Wilkinsburg),N/A,0,2,https://www.wpxi.com/news/top-stories/2-people-show-up-police-station-help-after-apparent-shooting/VN7NGKWIJFCD3BCY4JCNUHXIOU/
 2271185,"April 5, 2022",Pennsylvania,Chester,916 Kerlin St,1,0,https://dailyvoice.com/pennsylvania/lancaster/police-fire/2-year-old-boy-discharged-gun-that-killed-4-year-old-girl-at-delco-gas-station-police/829443/
 2272680,"April 5, 2022",Washington,Kennewick,N/A,0,1,https://www.tri-cityherald.com/news/local/crime/article260136695.html
-2272645,"April 5, 2022",Missouri,West Plains,3675 US Hwy 63,1,0,https://www.koamnewsnow.com/police-identify-victim-in-homicide-along-highway-63/
-2272657,"April 5, 2022",Missouri,Saint Louis,5000 block of Minerva Ave,1,1,https://www.kmov.com/2022/04/06/man-dies-after-double-shooting-south-city/
-2271774,"April 5, 2022",Kansas,Junction City,2007 Northwind Dr,0,1,https://salinapost.com/posts/b80bfdfe-bb49-482c-ba20-fb4b8a3c4fcb
-2271920,"April 5, 2022",Connecticut,Ansonia,6th St and Hubbell Ave,1,0,https://www.ctpost.com/news/article/Police-Stratford-man-shot-killed-in-Ansonia-17060030.php
-2271536,"April 5, 2022",Virginia,Richmond,2900 block of Hanes Ave,1,0,https://www.wtvr.com/news/local-news/kenneth-cooper-jr-obit-hanes-avenue-homicide
-2271762,"April 5, 2022",Washington,Lynnwood,190th St SW,1,0,https://www.seattletimes.com/seattle-news/law-justice/man-found-dead-after-apparent-shooting-in-lynnwood-park/
