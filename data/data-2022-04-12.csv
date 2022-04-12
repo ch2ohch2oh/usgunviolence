@@ -43,7 +43,6 @@ id,date,state,county,addr,death,injured,link
 2275565,"April 11, 2022",Indiana,Indianapolis,N Lesley Ave and E 30th St,0,1,https://www.wthr.com/article/news/local/east-side-indianapolis-shooting-impd-investigates-30th-street-lesley-avenue/531-d32b7d1e-0fb4-44c5-96d4-a5ba6d048fc0
 2275562,"April 11, 2022",Illinois,Chicago,4500 block of W Wilcox St,0,1,https://home.chicagopolice.org/media_incident/4500-block-of-w-wilcox-on-april-11-2022-approx-244-a-m-11th-district/
 2275490,"April 11, 2022",Minnesota,Minneapolis,925 30th Ave S,0,1,https://twitter.com/CrimeWatchMpls/status/1513418107922100224
-2276284,"April 11, 2022",Virginia,Norfolk,711 E Virginia Beach Blvd,0,2,https://www.13newsnow.com/article/news/crime/two-men-shot-norfolk-shop-n-go-e-virginia-beach-boulevard/291-2b52f6b2-f655-4778-a832-a5301d777361
 2276327,"April 11, 2022",West Virginia,Wheeling,2100 block of National Rd,0,1,https://www.wtrf.com/email-alerts/breaking-news-email-alerts/wheeling-man-accidentally-discharges-firearm-shooting-himself/
 2276324,"April 11, 2022",Tennessee,Memphis,5700 block of Fox Burrow Cir,0,2,https://wreg.com/news/local/two-injured-after-shooting-in-fox-meadows/
 2276136,"April 11, 2022",Virginia,Hampton,1900 block of Seward Dr,1,0,https://www.wavy.com/news/local-news/hampton/man-seriously-injured-in-hampton-shooting-2/
@@ -169,8 +168,10 @@ id,date,state,county,addr,death,injured,link
 2275459,"April 10, 2022",Connecticut,Hartford,898 Park St,0,1,https://www.wtnh.com/news/connecticut/hartford/hartford-police-investigate-park-street-shooting/
 2275453,"April 10, 2022",Minnesota,Minneapolis (Blaine),10601 Naples St NE,0,1,https://twitter.com/CrimeWatchMpls/status/1513302079279927301
 2275440,"April 10, 2022",Minnesota,Pelican Rapids,N/A,0,1,https://bringmethenews.com/minnesota-news/armed-and-dangerous-pelican-rapids-shooting-suspect-on-the-run
+2276284,"April 10, 2022",Virginia,Norfolk,711 E Virginia Beach Blvd,0,2,https://www.13newsnow.com/article/news/crime/two-men-shot-norfolk-shop-n-go-e-virginia-beach-boulevard/291-2b52f6b2-f655-4778-a832-a5301d777361
 2275412,"April 10, 2022",Texas,Dallas,9823 Grove Oaks Blvd,1,0,https://dpdbeat.com/2022/04/10/homicide-on-grove-oaks-blvd/
 2275437,"April 10, 2022",Texas,Dallas,3525 S Polk St,1,0,https://dpdbeat.com/2022/04/10/homicide-at-3525-s-polk-street/
+2276332,"April 10, 2022",Kentucky,Lexington,Gerald Dr and Winburn Dr,0,1,https://www.wtvq.com/1-woman-shot-in-lexington-sunday-evening/
 2275435,"April 10, 2022",Michigan,Detroit,Joy Rd and Southfield Rd,0,1,https://www.facebook.com/TheDetroitScanner/posts/5434611189896225
 2275433,"April 10, 2022",Michigan,Detroit,2100 block of Schaefer Rd,0,1,https://www.facebook.com/TheDetroitScanner/posts/5434854616538549
 2275425,"April 10, 2022",Alabama,Clanton,1200 block of 1st Ave N,0,1,https://www.wbrc.com/2022/04/11/person-seriously-injured-shooting-clanton/
@@ -206,7 +207,6 @@ id,date,state,county,addr,death,injured,link
 2274608,"April 9, 2022",Michigan,Detroit,I-94 and Moross Rd,1,0,https://www.newsbreak.com/news/2567928975242/shooting-victim-dead-on-arrival-to-hospital-after-being-found-near-i-94-dpd
 2274681,"April 9, 2022",Louisiana,New Orleans,1st St and S Claiborne Ave,1,1,https://www.nola.com/news/crime_police/article_546936e4-b993-11ec-a3ea-6fdef3c9a230.html
 2275080,"April 9, 2022",Kentucky,Kenvir,100 block of Post Office Drive,0,1,https://www.harlanenterprise.net/2022/04/11/ksp-investigates-shooting/?fbclid=IwAR1ka32hEOu7H-igzZSG4m53KqH5E2ux1Jmy4zNSdxBgg2S7XmBXL97WPF8https://www.harlanenterprise.net/2022/04/11/ksp-investigates-shooting/?fbclid=IwAR1ka32hEOu7H-igzZSG4m53KqH5E2ux1Jmy
-2274606,"April 9, 2022",Kentucky,Owensboro,700 block of Plum St,0,1,https://www.14news.com/2022/04/10/owensboro-police-investigating-shooting-plum-st/
 2274671,"April 9, 2022",Louisiana,New Orleans,S Prieur St and Martin Luther King Jr. Blvd,0,2,https://www.nola.com/news/crime_police/article_546936e4-b993-11ec-a3ea-6fdef3c9a230.html
 2274678,"April 9, 2022",Louisiana,New Orleans,8100 block of Palmetto St,0,2,https://www.nola.com/news/crime_police/article_546936e4-b993-11ec-a3ea-6fdef3c9a230.html
 2274569,"April 9, 2022",Tennessee,Memphis,3023 Hunters Way,0,1,https://wreg.com/news/local/child-shot-by-juvenile-in-hickory-hill/
@@ -290,11 +290,3 @@ id,date,state,county,addr,death,injured,link
 2274841,"April 9, 2022",Illinois,Chicago,3900 block of W 49th St,0,1,https://chicago.suntimes.com/crime/2022/4/9/23018520/boy-16-shot-in-archer-heights-drive-by
 2274345,"April 9, 2022",Illinois,Chicago,N/A,0,1,https://home.chicagopolice.org/media_incident/2700-block-of-w-15th-st-mt-sinai-on-april-9-2022-approx-140-a-m-10th-dist/
 2274812,"April 9, 2022",Washington,Bellevue,114th Ave SE and SE 6th St,0,1,https://www.q13fox.com/news/1-injured-in-bellevue-shooting-detectives-searching-for-suspects
-2275526,"April 9, 2022",Montana,Billings,500 block of S 33rd St,1,0,https://billingsgazette.com/news/local/shooting-death-of-15-year-old-billings-boy-saturday-accidental-say-police/article_15c2d557-5f86-5b32-a799-23189c59c85b.html#tracking-source=home-top-story
-2275520,"April 9, 2022",Texas,San Antonio,800 block of Allende Dr,0,1,https://foxsanantonio.com/newsletter-daily/man-found-in-critical-condition-from-gunshot-wound-san-antonio-texas-gun-weapon-shooting-sapd
-2275511,"April 9, 2022",Texas,Port Lavaca,89 Holloman Rd,1,0,https://www.victoriaadvocate.com/counties/1-dead-1-jailed-following-calhoun-county-shooting/article_62e3ccde-b84e-11ec-b15d-472d6a6a6d80.html
-2275480,"April 9, 2022",Texas,Katy,19900 block of Kieth Harrow Blvd,1,0,https://abc13.com/possible-road-rage-teen-killed-deadly-crash-keith-harrow/11733151/
-2275083,"April 9, 2022",Michigan,Saginaw,1726 Prospect St,1,1,https://www.wnem.com/2022/04/10/man-allegedly-shoots-kills-wife-buena-vista-homicide/
-2274562,"April 9, 2022",Maine,Randolph,Belmont Ave,0,1,https://fox23maine.com/news/local/two-men-charged-after-a-shooting-in-randolph
-2274246,"April 9, 2022",Texas,Texas City,1900 block of 13th Ave N,0,2,https://www.click2houston.com/news/local/2022/04/09/mother-toddler-found-shot-at-texas-city-apartment-complex-police-say/
-2275455,"April 9, 2022",Connecticut,Hartford,Blue Hills Ave and Holcomb St,0,1,https://www.nbcconnecticut.com/news/local/woman-shot-in-hartford-wasnt-the-intended-target-police/2758337/
