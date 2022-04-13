@@ -1,13 +1,12 @@
 id,date,state,county,addr,death,injured,link
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
 2277161,"April 13, 2022",Missouri,Saint Louis,S Leonor K Sullivan Blvd,1,2,https://www.facebook.com/VoiceofThePeopleStl/posts/320498590184617
+2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
 2277121,"April 13, 2022",North Carolina,Raleigh,1830 New Bern Ave,0,1,https://abc11.com/teen-shot-raleigh-shooting-convenience-store-new-bern-road/11742981/
 2277116,"April 13, 2022",Illinois,South Holland,951 E 162nd St,1,0,https://www.cbsnews.com/chicago/news/one-person-dead-in-shooting-at-south-holland-gas-station/
 2277071,"April 13, 2022",Louisiana,New Orleans,3700 block of Washington Ave,0,1,https://www.fox8live.com/2022/04/12/man-shot-near-uno-dies-6-others-wounded-shootings-around-city-nopd-said/
 2277067,"April 13, 2022",Louisiana,New Orleans,Independence St,0,1,https://wgno.com/news/local/central-city-pastor-reacts-to-seven-shootings-in-greater-new-orleans-overnight/
 2277055,"April 12, 2022",Missouri,Saint Louis,Keokuk St and Missouri Ave,1,2,https://www.stltoday.com/news/local/crime-and-courts/three-men-shot-one-fatally-in-south-st-louis/article_1c23228a-d7a8-5fba-8d47-16aa6a6ff491.html
 2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2277046,"April 12, 2022",Texas,Dallas,1500 block of S Denley Dr,1,0,https://dpdbeat.com/2022/04/12/homicide-on-s-denley-drive-2/
 2277027,"April 12, 2022",California,Victorville,14400 Bear Valley Rd,0,1,https://www.vvng.com/breaking-at-least-one-person-shot-inside-the-mall-of-victor-valley-in-victorville/
 2277037,"April 12, 2022",California,Redding,900 block of De Moll Dr,2,0,https://www.actionnewsnow.com/news/local/2-found-dead-in-a-home-on-de-moll-drive-in-redding/article_1fcecd92-ba8b-11ec-8180-1bff46b728d6.html
 2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
@@ -24,6 +23,7 @@ id,date,state,county,addr,death,injured,link
 2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
 2276785,"April 12, 2022",Tennessee,Hermitage,3501 Andrew Jackson Way,0,1,https://www.wkrn.com/news/local-news/nashville/father-shoots-home-invasion-suspect-multiple-times-in-hermitage/
 2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
+2276910,"April 12, 2022",Missouri,Kansas City,Hardesty Ave and E 12th St,1,0,https://fox4kc.com/news/kansas-city-police-investigate-homicide-at-12th-and-hardesty/
 2276902,"April 12, 2022",Illinois,Peoria,West Hedgehill Ln,0,2,https://www.centralillinoisproud.com/news/local-news/peoria-police-respond-to-shooting-on-west-hedgehill-lane/
 2276885,"April 12, 2022",South Carolina,Gray Court,Chicago Dr,0,1,https://www.wspa.com/news/local-news/1-shot-in-laurens-co-deputies-looking-for-person-of-interest/
 2276881,"April 12, 2022",Virginia,Petersburg,1500 block of E Washington St,1,2,https://www.nbc12.com/2022/04/13/deadly-triple-shooting-investigation-underway-petersburg/
@@ -49,17 +49,21 @@ id,date,state,county,addr,death,injured,link
 2276508,"April 12, 2022",Mississippi,Jackson,Fairmont Dr and W 32nd St,0,1,https://www.kark.com/crime/police-homeless-little-rock-man-hospitalized-after-shooting-on-fairmont-drive/
 2276462,"April 12, 2022",Florida,Jacksonville,8220 Dix Ellis Trail,0,1,https://www.firstcoastnews.com/article/news/crime/jacksonville-police-investigate-shooting-southside/77-d3d0b151-5c55-449e-8c2f-b4158a1c94f1
 2276350,"April 12, 2022",Washington,Tacoma,8800 block of S Hosmer St,1,0,https://www.q13fox.com/news/homicide-investigation-underway-in-south-tacoma
-2276350,"April 12, 2022",Washington,Tacoma,8800 block of S Hosmer St,1,0,https://www.q13fox.com/news/homicide-investigation-underway-in-south-tacoma
 2276421,"April 12, 2022",Washington,Seattle,2100 block of N Northlake Way,0,1,https://www.q13fox.com/news/police-respond-to-drive-by-shooting-near-gas-works-park
 2276359,"April 12, 2022",Oregon,Eugene,W 19th Ave and Monroe St,1,0,https://nbc16.com/news/local/breaking-news-eugene-police-on-scene-of-fatal-shooting-04-12-2022
 2276356,"April 12, 2022",Washington,Spokane,Augusta Ave and Wall St,1,0,https://www.kxly.com/1-dead-in-west-central-shooting/
+2277221,"April 12, 2022",Texas,San Antonio,8400 block of Hidden Bow Dr,0,1,https://www.ksat.com/news/local/2022/04/12/police-searching-for-shooter-who-fired-into-southwest-side-home-wounding-woman/
+2277205,"April 12, 2022",Texas,Fort Worth,1100 block of Foch St,0,1,https://www.star-telegram.com/news/local/crime/article260336695.html
+2277203,"April 12, 2022",Louisiana,Baton Rouge,800 E McKinley St,0,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_cb5ab3d2-ba78-11ec-9136-cb2baaa98e97.html
+2277200,"April 12, 2022",Texas,Fort Worth,1000 block of Landwood Ct,0,1,https://www.star-telegram.com/news/local/crime/article260357865.html
+2277077,"April 12, 2022",Louisiana,New Orleans,9000 block of Edinburgh St,0,2,"https://nopdnews.com/getattachment/10f0f788-e293-45c8-9abe-85fe90279450/April-11-through-April-12,-2022/"
+2277046,"April 12, 2022",Texas,Dallas,1500 block of S Denley Dr,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-shot-several-times-killed-in-east-oak-cliff-slaying-police-say
 2277154,"April 12, 2022",Kentucky,Lexington,1501 Russell Cave Rd,0,0,https://www.wkyt.com/2022/04/13/coroner-scene-shooting-lexington/
 2277144,"April 12, 2022",New Jersey,Edison,40 block of Judson St,1,0,https://www.rlsmedia.com/article/breaking-suspect-killed-police-involved-shooting-edison
 2276663,"April 12, 2022",Minnesota,Minneapolis,630 22nd Ave S,0,1,https://twitter.com/CrimeWatchMpls/status/1514094441505693701
 2277133,"April 12, 2022",North Carolina,Raleigh,4300 block of New Hope Townes Dr,0,1,https://abc11.com/raleigh-shooting-teen-shot-new-hope-townes-drive-bern-avenue/11742942/
 2277111,"April 12, 2022",Maryland,Edgewood,100 block of Reider Court,0,1,https://patch.com/maryland/belair/shooting-edgewood-reported
 2277094,"April 12, 2022",Massachusetts,Boston,12 Crowley Rogers Way,0,2,https://www.bostonglobe.com/2022/04/12/metro/two-wounded-south-boston-shooting-early-tuesday-police-say/?p1=BGSearch_Advanced_Results
-2277077,"April 12, 2022",Louisiana,New Orleans,9000 block of Edinburgh St,0,2,https://www.fox8live.com/2022/04/12/man-shot-near-uno-dies-6-others-wounded-shootings-around-city-nopd-said/
 2277065,"April 12, 2022",Louisiana,New Orleans,South Rocheblave St,0,1,https://wgno.com/news/local/central-city-pastor-reacts-to-seven-shootings-in-greater-new-orleans-overnight/
 2277060,"April 12, 2022",Arkansas,Little Rock,17 Fairmont Dr,0,1,https://katv.com/newsletter-daily/little-rock-man-shot-by-unknown-person-police-find-evidence-of-robbery-in-neighborhood-ryan-washington-fairpark-drive-arkansas-news
 2275575,"April 11, 2022",Texas,Corpus Christi,3700 block of S Port Ave,1,0,https://www.kiiitv.com/article/news/local/monday-morning-shooting-in-corpus-christi/503-fa229af3-c6b8-47fc-b839-df2b496669f9
@@ -147,6 +151,9 @@ id,date,state,county,addr,death,injured,link
 2276361,"April 11, 2022",Oregon,Salem,1700 block of Center St NE,1,0,https://nbc16.com/news/local/car-theft-suspect-shot-killed-by-officer-in-salem-police-ay
 2275562,"April 11, 2022",Illinois,Chicago,4500 block of W Wilcox St,0,1,https://home.chicagopolice.org/media_incident/4500-block-of-w-wilcox-on-april-11-2022-approx-244-a-m-11th-district/
 2275490,"April 11, 2022",Minnesota,Minneapolis,925 30th Ave S,0,1,https://twitter.com/CrimeWatchMpls/status/1513418107922100224
+2277211,"April 11, 2022",Louisiana,Eunice,Bradley St,1,0,https://www.katc.com/news/st-landry-parish/victim-in-eunice-area-shooting-dies-st-landry-deputies-investigating
+2277191,"April 11, 2022",Texas,El Paso,N Clark Dr and Cleveland Ave,0,2,https://www.ktsm.com/local/el-paso-news/eppd-identifies-victims-in-south-central-shooting/
+2277075,"April 11, 2022",Louisiana,New Orleans,2000 block Canal St,0,1,"https://nopdnews.com/getattachment/10f0f788-e293-45c8-9abe-85fe90279450/April-11-through-April-12,-2022/"
 2276327,"April 11, 2022",West Virginia,Wheeling,2100 block of National Rd,0,1,https://www.wtrf.com/email-alerts/breaking-news-email-alerts/wheeling-man-accidentally-discharges-firearm-shooting-himself/
 2275959,"April 11, 2022",Alabama,Mobile,100 block of Hemley Ave,0,1,https://www.fox10tv.com/2022/04/13/she-still-cant-believe-that-her-brother-wanted-kill-her-daddy-mobile-man-recovering-after-being-shot-his-own-home/
 2276324,"April 11, 2022",Tennessee,Memphis,5700 block of Fox Burrow Cir,0,2,https://wreg.com/news/local/two-injured-after-shooting-in-fox-meadows/
@@ -158,7 +165,6 @@ id,date,state,county,addr,death,injured,link
 2276290,"April 11, 2022",New Jersey,East Orange,453 Springdale Ave,1,0,https://www.rlsmedia.com/article/breaking-violent-shooting-kills-store-worker-east-orange
 2276272,"April 11, 2022",Louisiana,New Orleans,2800 block of South Rocheblave St,0,1,https://wgno.com/news/crime/nopd-3-shootings-within-30-minutes-mar-monday-evening-across-the-city/
 2276266,"April 11, 2022",Kentucky,Louisville,Southside Dr and New Cut Rd,0,1,https://www.wlky.com/article/woman-shot-in-south-louisville-intersection-lmpd-domestic-violence-unit-investigating/39690754
-2277075,"April 11, 2022",Louisiana,New Orleans,N/A,0,1,https://www.fox8live.com/2022/04/12/man-shot-near-uno-dies-6-others-wounded-shootings-around-city-nopd-said/
 2276278,"April 11, 2022",Louisiana,New Orleans,2300 block of North Derbigny St,0,1,https://wgno.com/news/crime/nopd-3-shootings-within-30-minutes-mar-monday-evening-across-the-city/
 2276280,"April 11, 2022",Louisiana,New Orleans,5000 block of Leroy Johnson Dr,1,0,https://www.fox8live.com/2022/04/12/man-shot-near-uno-dies-6-others-wounded-shootings-around-city-nopd-said/
 2276222,"April 10, 2022",California,Los Angeles,4001 Nicolet Ave,0,1,https://twitter.com/DowntownLAScan/status/1513327767152070665
@@ -282,14 +288,3 @@ id,date,state,county,addr,death,injured,link
 2275543,"April 10, 2022",Ohio,Toledo,1400 block of Beecham St,1,0,https://www.wtol.com/article/news/local/1-dead-after-drive-by-shooting-in-south-toledo/512-8a355cb3-ddec-4ce8-818c-58fefcaef5f5
 2275538,"April 10, 2022",Ohio,Canal Winchester,7400 block of Canal Highlands Blvd,0,1,https://www.10tv.com/article/news/local/17-year-old-girl-shot-canal-winchester-sunday-night/530-8e3230be-20b2-4541-a1a9-909549ac204c
 2274816,"April 10, 2022",Ohio,Columbus,2000 block of Doren Ave,0,1,https://www.10tv.com/article/news/local/1-person-critical-following-shooting-in-west-columbus/530-71846dd1-5264-4d2c-8aa1-10f3ea50c1dd
-2275533,"April 10, 2022",Georgia,Columbus,4300 block of Hamilton Rd,0,1,https://www.wtvm.com/2022/04/11/3-dead-1-injured-after-three-separate-shootings-columbus/
-2275518,"April 10, 2022",Massachusetts,Lynn,50 Goodridge St,1,0,https://boston.cbslocal.com/2022/04/10/20-year-old-salem-man-dies-after-lynn-shooting/
-2275516,"April 10, 2022",Massachusetts,Boston,Monument St and O Reilly Way,0,1,https://www.universalhub.com/crime/20220410/teen-shot-playground-bunker-hill-development
-2275492,"April 10, 2022",Texas,Houston,7700 Oak Vista St,0,1,https://abc13.com/reveille-park-teen-shot-woman-oak-vista-street/11734646/
-2275459,"April 10, 2022",Connecticut,Hartford,898 Park St,0,1,https://www.wtnh.com/news/connecticut/hartford/hartford-police-investigate-park-street-shooting/
-2275453,"April 10, 2022",Minnesota,Minneapolis (Blaine),10601 Naples St NE,0,1,https://twitter.com/CrimeWatchMpls/status/1513302079279927301
-2276284,"April 10, 2022",Virginia,Norfolk,711 E Virginia Beach Blvd,0,2,https://www.13newsnow.com/article/news/crime/two-men-shot-norfolk-shop-n-go-e-virginia-beach-boulevard/291-2b52f6b2-f655-4778-a832-a5301d777361
-2275412,"April 10, 2022",Texas,Dallas,9823 Grove Oaks Blvd,1,0,https://dpdbeat.com/2022/04/10/homicide-on-grove-oaks-blvd/
-2275437,"April 10, 2022",Texas,Dallas,3525 S Polk St,1,0,https://dpdbeat.com/2022/04/10/homicide-at-3525-s-polk-street/
-2275435,"April 10, 2022",Michigan,Detroit,Joy Rd and Southfield Rd,0,1,https://www.facebook.com/TheDetroitScanner/posts/5434611189896225
-2275433,"April 10, 2022",Michigan,Detroit,2100 block of Schaefer Rd,0,1,https://www.facebook.com/TheDetroitScanner/posts/5434854616538549
