@@ -1,4 +1,5 @@
 id,date,state,county,addr,death,injured,link
+2279173,"April 15, 2022",South Carolina,Charleston,Radcliffe St,0,1,https://www.live5news.com/2022/04/15/police-one-injured-downtown-shooting/
 2278666,"April 14, 2022",Florida,Orlando,2801 E Colonial Dr,0,2,https://www.wftv.com/news/local/police-one-person-injured-shooting-along-colonial-drive/SF35T4XGPJAYVHLGFRCNYR3MW4/
 2279038,"April 14, 2022",California,San Francisco,N/A,0,1,https://www.kron4.com/news/bay-area/san-francisco-police-investigate-shootings-in-taraval-bayview/
 2279036,"April 14, 2022",Illinois,Chicago,2000 block of E 71st St,0,1,https://home.chicagopolice.org/media_incident/2000-block-of-e-71st-street-on-april-14-2022-at-approx-701-p-m-3rd-district/
@@ -47,7 +48,6 @@ id,date,state,county,addr,death,injured,link
 2278618,"April 14, 2022",South Carolina,Darlington,E McIver Rd and Old Florence Rd,1,0,https://wpde.com/news/local/deputies-on-mciver-road-old-florence-road-darlington-situation-unfolding-south-carolina-crime
 2278579,"April 14, 2022",Maryland,Baltimore,1800 block of Wilkens Ave,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-shooting-homicide-police-20220414-7wta5yfvd5aulm4sykywnehj4m-story.html
 2278573,"April 14, 2022",Maryland,Baltimore,6200 block of Pennington Ave,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-shooting-homicide-police-20220414-7wta5yfvd5aulm4sykywnehj4m-story.html
-2278562,"April 14, 2022",Alabama,Tuscumbia,N/A,0,0,https://spotonalabama.com/al-mountains/826499/police-probe-self-inflicted-shooting.html
 2278467,"April 14, 2022",Maryland,St Charles,3000 Gallery Place,0,1,https://www.nbcwashington.com/news/local/baby-shot-in-hand-at-charles-county-apartment-sheriff/3024721/
 2278520,"April 14, 2022",Indiana,Gary,1700 block of Delaware St,0,1,https://www.nwitimes.com/news/local/crime-and-courts/arson-sparked-fight-leading-to-pursuit-crash-into-moving-train-shooting-police-say/article_b723add6-3b99-55e4-9b82-7e08597e62ea.html
 2278513,"April 14, 2022",Virginia,Fredericksburg,Malvern Lake Cir,1,0,https://www.potomaclocal.com/2022/04/14/suicide-prompts-law-enforcement-presence-in-south-stafford/
@@ -63,6 +63,8 @@ id,date,state,county,addr,death,injured,link
 2278361,"April 14, 2022",Illinois,Chicago,N/A,0,1,https://www.fox32chicago.com/news/15-year-old-boy-shot-woodlawn
 2278344,"April 14, 2022",Indiana,Indianapolis,8100 block of Lafayette Rd,0,1,https://www.wthr.com/article/news/crime/1-critically-injured-shooting-on-indianapolis-northwest-side-impd/531-d421f427-093f-46a7-beba-38947492d896
 2278339,"April 14, 2022",Indiana,Indianapolis,2900 block of Sherman Dr,1,0,https://www.wibc.com/news/local-indiana/police-searching-for-suspect-in-fatal-shooting/
+2278562,"April 14, 2022",Alabama,Tuscumbia,N/A,0,1,https://spotonalabama.com/al-mountains/826499/police-probe-self-inflicted-shooting.html
+2279154,"April 14, 2022",North Carolina,Charlotte,10308 Albemarle Rd,1,0,https://www.wbtv.com/2022/04/14/medic-one-person-killed-shooting-east-charlotte-gas-station/
 2279132,"April 14, 2022",Kentucky,Louisville,6733 Strawberry Ln,2,0,https://www.wave3.com/2022/04/15/2-men-found-shot-dead-outside-louisville-sports-bar/
 2279004,"April 14, 2022",Virginia,Portsmouth,6200 block of Centenary Dr,0,1,https://www.wavy.com/news/local-news/portsmouth/man-hospitalized-after-shooting-in-portsmouth/
 2279061,"April 14, 2022",Virginia,Norfolk,2800 block of St Mihiel Ave,0,2,https://www.wavy.com/news/local-news/norfolk/2-injured-in-shooting-on-st-mihiel-avenue-in-norfolk/
@@ -104,7 +106,6 @@ id,date,state,county,addr,death,injured,link
 2278852,"April 13, 2022",Florida,Orlando,5900 block of Park Hamilton Blvd,0,1,https://www.wesh.com/article/woman-shot-orange-county-apartment-complex/39724108
 2277823,"April 13, 2022",New York,Brooklyn,Flatbush Ave and Atlantic Ave,0,1,https://nypost.com/2022/04/13/teen-shot-outside-atlantic-terminal-mall-in-brooklyn-during-rush-hour/
 2278848,"April 13, 2022",Texas,Houston,1300 block of Redford St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-1300-redford-street/
-2277807,"April 13, 2022",North Carolina,Winston Salem (Winston-salem),3500 Block of S Main St,1,1,https://myfox8.com/news/north-carolina/winston-salem/1-killed-1-with-life-threatening-injuries-after-shooting-at-fish-hut-arcade-in-winston-salem/
 2277239,"April 13, 2022",New York,Rochester,500 block of Thurston Rd,0,1,https://www.whec.com/rochester-new-york-news/man-shot-on-thurston-avenue/6445283/?cat=12713
 2277799,"April 13, 2022",North Carolina,Fayetteville,1500 block of Alvin Dr,1,1,https://www.fayobserver.com/story/news/crime/2022/04/13/one-killed-shootout-fayetteville-nc-mobile-home-park/7302228001/
 2278219,"April 13, 2022",Wisconsin,Milwaukee,2000 block of S 5th Pl,0,1,https://atlasone.app/a/alerts/79c9b6dc-677a-4b46-bf63-382786f56743
@@ -172,6 +173,8 @@ id,date,state,county,addr,death,injured,link
 2278353,"April 13, 2022",Illinois,Chicago,7300 block of S Dante Ave,0,2,https://www.fox32chicago.com/news/man-woman-shot-argument-chicago-grand-crossing
 2278342,"April 13, 2022",Washington,Toppenish,700 block of Nation St,0,1,https://www.nbcrightnow.com/news/15-year-old-yakama-nation-teenager-shot-in-toppenish/article_3f0de1c0-bb99-11ec-98ae-8f0a458591b8.html
 2278336,"April 13, 2022",Washington,Renton,200 Block of S 7th St,0,1,https://www.king5.com/article/news/local/injured-officer-involved-shooting-renton/281-c39b3f13-6a02-468c-81b4-2ff6bcd033c2
+2277807,"April 13, 2022",North Carolina,Winston Salem (Winston-salem),3500 Block of S Main St,1,1,https://myfox8.com/news/north-carolina/winston-salem/1-killed-1-with-life-threatening-injuries-after-shooting-at-fish-hut-arcade-in-winston-salem/
+2279163,"April 13, 2022",North Carolina,Greensboro,Chapman Ct and Oakland Ave,0,2,https://greensboro.com/news/crime/two-injured-in-shooting-near-greensboro-nightspot/article_3793feda-bbe8-11ec-b706-57206a6243a2.html
 2278323,"April 13, 2022",Montana,Deer Lodge,N/A,0,1,https://www.kpvi.com/news/national_news/shooting-in-deer-lodge-leads-to-hospitalization-arrest/article_f9a4c9f0-8715-54a5-a76c-f461d2b27e90.html
 2278316,"April 13, 2022",Alabama,Birmingham,32 Westchester Ct,0,1,https://www.al.com/news/birmingham/2022/04/woman-injured-in-gunfire-at-birmingham-apartment-complex-that-was-scene-of-double-shooting-3-days-ago.html
 2278311,"April 13, 2022",Arkansas,Jonesboro,2118 Valley View Dr,0,0,https://www.kait8.com/2022/04/13/2-students-suspended-after-bringing-loaded-gun-campus/
@@ -290,11 +293,3 @@ id,date,state,county,addr,death,injured,link
 2277011,"April 12, 2022",New York,Bronx,2825 Olinville Ave,1,3,https://www.amny.com/new-york/bronx/eight-shot-in-three-separate-bronx-shootings/
 2276842,"April 12, 2022",New York,Bronx,Sheridan Ave and McClellan St,1,0,https://www.amny.com/new-york/bronx/eight-shot-in-three-separate-bronx-shootings/
 2276847,"April 12, 2022",New York,Bronx,E 180th St and Mohegan Ave,1,2,https://www.amny.com/new-york/bronx/eight-shot-in-three-separate-bronx-shootings/
-2278327,"April 12, 2022",Nebraska,Omaha,2420 Lake St,0,1,https://www.wowt.com/2022/04/13/omaha-police-investigate-elks-lodge-shooting/
-2278318,"April 12, 2022",Kansas,Topeka,2200 block of SW Morningside Rd,0,1,https://www.wibw.com/2022/04/13/topeka-police-responding-incident-sw-topeka/
-2277221,"April 12, 2022",Texas,San Antonio,8400 block of Hidden Bow Dr,0,1,https://www.ksat.com/news/local/2022/04/12/police-searching-for-shooter-who-fired-into-southwest-side-home-wounding-woman/
-2277205,"April 12, 2022",Texas,Fort Worth,1100 block of Foch St,0,1,https://www.star-telegram.com/news/local/crime/article260336695.html
-2277203,"April 12, 2022",Louisiana,Baton Rouge,800 E McKinley St,0,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_cb5ab3d2-ba78-11ec-9136-cb2baaa98e97.html
-2277200,"April 12, 2022",Texas,Fort Worth,1000 block of Landwood Ct,0,1,https://www.star-telegram.com/news/local/crime/article260357865.html
-2277077,"April 12, 2022",Louisiana,New Orleans,9000 block of Edinburgh St,0,2,"https://nopdnews.com/getattachment/10f0f788-e293-45c8-9abe-85fe90279450/April-11-through-April-12,-2022/"
-2277046,"April 12, 2022",Texas,Dallas,1500 block of S Denley Dr,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-shot-several-times-killed-in-east-oak-cliff-slaying-police-say
