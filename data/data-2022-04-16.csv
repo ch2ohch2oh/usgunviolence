@@ -1,12 +1,26 @@
 id,date,state,county,addr,death,injured,link
+2279794,"April 15, 2022",Maryland,Lanham (Seabrook),9400 block of Annapolis Rd,1,0,https://twitter.com/PGPDNews/status/1515159365770268672
+2279830,"April 15, 2022",New York,Corona (Queens),65th Pl and Woodside Ave,0,1,https://nypost.com/2022/04/15/nyc-teen-shot-2-more-hurt-in-possible-car-break-ins-cops/
+2279760,"April 15, 2022",Virginia,Bassett,Boxwood Ln,0,1,https://www.wdbj7.com/2022/04/16/henry-co-malicious-wounding/
+2279807,"April 15, 2022",Maryland,Baltimore,800 block of W Cross St,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-double-shooting-gretna-court-20220415-l4dikbzmdjfh5j62h37z7mnpyu-story.html
+2279788,"April 15, 2022",Virginia,Woodbridge,14000 Smoketown Rd,0,1,https://www.wusa9.com/article/news/crime/police-investigate-shooting-at-carnival-at-gar-field-high-in-woodbridge/65-43093039-1cb4-44a5-9b51-08f0bda84289
+2279796,"April 15, 2022",Delaware,Wilmington,800 block of E 22nd St,0,1,https://nixle.us/DJYJQ
+2279423,"April 15, 2022",New York,Rochester,Phelps Ave and Lake Ave,1,1,https://www.newsbreak.com/news/2573963927447/two-people-shot-one-dead-on-lake-avenue
+2279651,"April 15, 2022",New York,Brooklyn,1405 Atlantic Ave,1,0,https://pix11.com/news/local-news/brooklyn/man-fatally-shot-at-bedford-stuyvesant-playground-nypd/
+2279722,"April 15, 2022",Minnesota,Minneapolis,320 Cedar Ave South,0,2,https://www.facebook.com/groups/MinneapolisScanner/posts/2065655793615802/
+2279780,"April 15, 2022",Michigan,Detroit,Hubbell Ave and W Grand River Ave,1,0,https://www.facebook.com/TheDetroitScanner/posts/5447728755251135
+2279777,"April 15, 2022",Michigan,Detroit,12300 block of Dickerson Ave,1,1,https://www.facebook.com/TheDetroitScanner/posts/5447836135240397
+2279775,"April 15, 2022",Iowa,Sioux City,2201 Gibson St,0,1,https://www.ktiv.com/2022/04/15/woman-injured-sioux-city-shooting-police-still-searching-suspect/
+2279457,"April 15, 2022",Kansas,Walnut,US 77 and 122nd St,1,3,https://www.foxnews.com/us/kansas-deputies-shot-suspect-dead-following-shooting
+2279768,"April 15, 2022",Illinois,Chicago,4100 block of W 47th St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-west-47th-on-15-april-2022-at-approx-545pm-008th-district/
+2279765,"April 15, 2022",Ohio,Columbus,4700 block of N High St,0,1,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
+2279763,"April 15, 2022",Illinois,Chicago,6800 block of S Halsted St,0,1,https://home.chicagopolice.org/media_incident/6800-block-of-south-halsted-on-15-april-2022-at-approx-515pm-007th-district/
 2279732,"April 15, 2022",Michigan,Warren,4925 E 8 Mile Rd,0,1,https://www.mlive.com/news/2022/04/carjacking-at-warren-gas-station-leaves-woman-in-critical-condition.html
-2279722,"April 15, 2022",Minnesota,Minneapolis,S 4th St and Cedar Ave,0,2,https://www.fox9.com/news/minneapolis-police-shooting-leaves-2-men-critically-injured
+2279756,"April 15, 2022",Ohio,Mansfield,720 King St,1,0,https://www.richlandsource.com/news/15-year-old-killed-in-mansfield-shooting-friday-afternoon/article_43e3edc2-bd0e-11ec-95cf-af16d9502414.html
 2279693,"April 15, 2022",Wisconsin,Milwaukee,W Mitchell St and Miller Park Way,0,1,https://www.wisn.com/article/shooting-in-miller-park-way-traffic-leads-to-police-chase-arrests/39739357
 2279668,"April 15, 2022",North Carolina,Durham,1400 E Cornwallis Rd,1,1,https://www.newsobserver.com/news/local/crime/article260454142.html
 2279665,"April 15, 2022",Texas,Corpus Christi,10600 block of Veda Dr,0,1,https://www.kristv.com/news/local-news/annaville-shooting-sends-one-person-to-hospital-police-still-looking-for-shooter
-2279457,"April 15, 2022",Kansas,Walnut,US 77 and 122nd St,1,3,https://www.foxnews.com/us/kansas-deputies-shot-suspect-dead-following-shooting
 2279659,"April 15, 2022",Texas,Houston,8300 block of Carolwood Dr,1,0,https://www.click2houston.com/news/local/2022/04/15/man-found-shot-to-death-inside-northeast-houston-home-by-neighbor/
-2279651,"April 15, 2022",New York,Brooklyn,Kingston Ave and Atlantic Ave,0,1,https://twitter.com/NYC_Alerts911/status/1515099648133898249
 2279643,"April 15, 2022",North Carolina,Greensboro,3600 block of Mosby Dr,0,1,https://myfox8.com/news/north-carolina/greensboro/person-shot-in-greensboro-police-say-3/
 2279555,"April 15, 2022",Indiana,Indianapolis,50 N Alabama St,0,0,https://www.wishtv.com/news/i-team-8/200-firearms-stolen-from-indianapolis-area-warehouses/
 2279637,"April 15, 2022",New Jersey,Maple Shade,Laurel Dr,1,1,https://www.nj.com/burlington/2022/04/double-shooting-at-nj-apartment-complex-leaves-man-killed-roommate-critically-injured.html
@@ -14,7 +28,6 @@ id,date,state,county,addr,death,injured,link
 2279612,"April 15, 2022",Pennsylvania,Philadelphia,1100 block of Hunting Park Ave,0,1,https://6abc.com/gun-violence-philly-shooting-philadelphia-police-today/11748375/
 2279610,"April 15, 2022",Pennsylvania,Philadelphia,3900 City Ave,0,1,https://6abc.com/gun-violence-philly-shooting-philadelphia-police-today/11748375/
 2279601,"April 15, 2022",New Jersey,Pleasantville,200 block of Hendricks St,0,1,https://breakingac.com/2022/04/teen-shot-in-pleasantville/
-2279543,"April 15, 2022",Connecticut,Hartford,238 Sigourney St,1,1,https://www.nbcconnecticut.com/news/local/police-investigating-homicide-on-sigourney-street-in-hartford/2762396/
 2279532,"April 15, 2022",Texas,San Antonio,4032 E Southcross,0,1,https://news4sanantonio.com/news/local/man-shot-in-the-arm-after-argument-at-southeast-side-apartment-complex-investigation-sanantonio-police-handgun-shooting-violence-gun
 2279486,"April 15, 2022",Indiana,Indianapolis,5340 Holly Springs Drive W,3,0,https://www.wrtv.com/news/local-news/crime/three-people-found-shot-at-home-on-indianapolis-northwest-side
 2279271,"April 15, 2022",Texas,Houston,16350 Ella Blvd,1,0,https://abc13.com/man-shot-and-killed-cambria-cove-apartments-ella-boulevard-shooting-shots-fired-north-harris-county/11751631/
@@ -24,8 +37,8 @@ id,date,state,county,addr,death,injured,link
 2279483,"April 15, 2022",Georgia,Savannah,W Waldburg St and Martin Luther King Jr Blvd,0,2,https://www.wtoc.com/2022/04/15/police-investigating-after-2-shot-waldburg-street-mlk-blvd/
 2279467,"April 15, 2022",Illinois,Chicago,5000 block of W Madison St,0,1,https://home.chicagopolice.org/media_incident/5000-block-of-w-madison-on-15-apr-22-approx-1130-a-m-15th-district/
 2279440,"April 15, 2022",Georgia,Atlanta,1218 Joseph E Boone Blvd NW,0,1,https://www.atlantapd.org/Home/Components/News/News/2494/71
+2279414,"April 15, 2022",Georgia,Atlanta,617 Joseph E Boone Blvd NW,0,1,https://www.atlantapd.org/Home/Components/News/News/2496/71
 2279430,"April 15, 2022",New York,Buffalo,20 Pleasant Pl,1,0,https://www.wivb.com/news/local-news/buffalo/buffalo-man-fatally-shot-in-doorway-on-pleasant-place/
-2279423,"April 15, 2022",New York,Rochester,Phelps Ave and Lake Ave,1,1,https://twitter.com/RPLCinfosharing/status/1515048419185811457
 2279410,"April 15, 2022",Georgia,Atlanta,1250 Donnelly Ave SW,1,0,https://www.11alive.com/article/news/local/1-killed-southwest-atlanta-shooting/85-b4eea51a-8219-4d9e-a4b6-3bb477331fe3
 2279412,"April 15, 2022",New York,Brooklyn,183 S Portland Ave,0,1,https://twitter.com/NYC_Alerts911/status/1515032376757432322
 2279315,"April 15, 2022",Maryland,Baltimore,4500 block of Birchwood Dr,0,1,https://baltimore.cbslocal.com/2022/04/15/baltimore-man-33-hospitalized-after-being-shot-in-his-yard-police-say/
@@ -37,8 +50,22 @@ id,date,state,county,addr,death,injured,link
 2279231,"April 15, 2022",Illinois,Chicago,300 block of W 114th St,0,1,https://home.chicagopolice.org/media_incident/300-block-of-w-114th-st-on-april-15-2022-approx-232-a-m-5th-district/
 2279191,"April 15, 2022",Illinois,Chicago,300 block of S California Ave,0,1,https://www.fox32chicago.com/news/man-shot-riding-bike-chicago-near-west-side
 2279195,"April 15, 2022",Illinois,Chicago,10700 block of S Wentworth Ave,0,1,https://www.fox32chicago.com/news/drive-by-shooting-wounds-man-in-roseland
-2279184,"April 15, 2022",Washington,Lynnwood,12909 Mukilteo Speedway,1,1,https://komonews.com/news/local/double-shooting-at-lynnwood-apartment-complex-kills-1-sends-other-to-hospital
 2279173,"April 15, 2022",South Carolina,Charleston,Radcliffe St,0,1,https://www.live5news.com/2022/04/15/police-one-injured-downtown-shooting/
+2279913,"April 15, 2022",South Carolina,Summerville,184 W Boundary St,0,1,https://www.live5news.com/2022/04/16/summerville-police-investigating-after-teenager-shot-gahagan-park/
+2279905,"April 15, 2022",Ohio,Masury,500 block of Syme St,2,0,https://www.wkbn.com/news/local-news/police-investigating-shooting-in-masury/
+2279900,"April 15, 2022",Ohio,Lucasville,Blue Run Rd,0,1,https://www.wsaz.com/2022/04/15/shooting-victim-flown-hospital/
+2279897,"April 15, 2022",Tennessee,Memphis,6300 block of Creek Mist Cove,0,1,https://wreg.com/news/local/one-injured-in-shooting-in-hickory-hill/
+2279889,"April 15, 2022",Tennessee,Hermitage,6001 Old Hickory Blvd,0,1,https://www.wkrn.com/news/local-news/nashville/1-injured-in-shooting-at-hermitage-apartment-complex/
+2279543,"April 15, 2022",Connecticut,Hartford,238 Sigourney St,1,1,https://www.nbcconnecticut.com/news/local/police-investigating-homicide-on-sigourney-street-in-hartford/2762396/
+2279752,"April 15, 2022",Virginia,Lynchburg,89 Belle Terre Dr,0,3,https://www.wfxrtv.com/news/local-news/lynchburg-central-virginia-news/lynchburg-police-investigate-triple-shooting/
+2279184,"April 15, 2022",Washington,Lynnwood,12909 Mukilteo Speedway,1,1,https://www.heraldnet.com/news/police-1-dead-1-wounded-in-attempted-murder-suicide-near-mukilteo/
+2279855,"April 15, 2022",Virginia,Portsmouth,4100 block of George Washington Hwy,0,1,https://www.13newsnow.com/article/news/crime/man-shot-portsmouth-george-washington-highway/291-64e16e69-2b76-4679-be97-e9201224365e
+2279850,"April 15, 2022",Texas,Odessa,1000 N Dixie Blvd,1,0,https://www.newswest9.com/article/news/local/opd-investigates-shots-fired-call-at-10th-dixie/513-13653b9d-e406-4d3e-a706-78d28505ba27
+2279843,"April 15, 2022",Texas,Lumberton,400 block of N Main St,1,0,https://www.12newsnow.com/article/news/crime/homicide-investigation-underway-after-1-shot-killed-on-main-street-lumberton/502-16ef3b88-1cd0-4c11-b548-6f820a70ce1c
+2279838,"April 15, 2022",Virginia,Norfolk,700 Park Ave,0,1,https://www.wtkr.com/news/norfolk-state-student-injured-after-bullet-ricochets-off-ground-in-campus-parking-lot
+2279417,"April 14, 2022",New York,Brooklyn,522 Ocean Ave,0,1,https://nypost.com/2022/04/15/nyc-teen-shot-2-more-hurt-in-possible-car-break-ins-cops/
+2279008,"April 14, 2022",California,San Diego,3737 Sports Arena Blvd,0,1,https://www.sandiegouniontribune.com/news/public-safety/story/2022-04-15/man-27-shot-and-wounded-in-midway-district
+2279812,"April 14, 2022",Maryland,Dundalk,1400 block of Merritt Blvd,0,1,https://foxbaltimore.com/news/local/man-shot-multiple-times-outside-shopping-center-in-dundalk
 2278666,"April 14, 2022",Florida,Orlando,2801 E Colonial Dr,0,2,https://www.wftv.com/news/local/police-one-person-injured-shooting-along-colonial-drive/SF35T4XGPJAYVHLGFRCNYR3MW4/
 2279038,"April 14, 2022",California,San Francisco,N/A,0,1,https://www.kron4.com/news/bay-area/san-francisco-police-investigate-shootings-in-taraval-bayview/
 2279036,"April 14, 2022",Illinois,Chicago,2000 block of E 71st St,0,1,https://home.chicagopolice.org/media_incident/2000-block-of-e-71st-street-on-april-14-2022-at-approx-701-p-m-3rd-district/
@@ -49,22 +76,21 @@ id,date,state,county,addr,death,injured,link
 2279018,"April 14, 2022",Illinois,Chicago,7400 block of S Colfax Ave,0,1,https://home.chicagopolice.org/media_incident/7400-block-of-s-colfax-on-april-14-2022-between-4-a-m-430-a-m-3rd-district/
 2279001,"April 14, 2022",Louisiana,Lafayette,250 Couret St,0,2,https://www.theadvocate.com/acadiana/news/crime_police/article_f0bfa44c-bc5e-11ec-aaae-c7be51b84f22.html
 2278481,"April 14, 2022",Tennessee,Bristol,200 block of Elm Ln,1,0,https://heraldcourier.com/news/updated-tbi-identifies-man-fatally-shot-by-a-police-officer/article_a30c2040-bc0e-11ec-aa55-e71aa828824a.html
-2278481,"April 14, 2022",Tennessee,Bristol,200 block of Elm Ln,1,0,https://heraldcourier.com/news/updated-tbi-identifies-man-fatally-shot-by-a-police-officer/article_a30c2040-bc0e-11ec-aa55-e71aa828824a.html
 2278903,"April 14, 2022",Virginia,Richmond,Fairfax Ave and E 18th St,0,2,https://www.wric.com/news/local-news/richmond/two-men-shot-on-richmonds-southside/
+2279782,"April 14, 2022",Michigan,Detroit,Dover Ave and American St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5445252395498771
 2278949,"April 14, 2022",Illinois,Joliet,200 block of Illinois St,0,1,https://www.wjol.com/teenager-shot-on-joliets-near-west-side/
 2278943,"April 14, 2022",Missouri,Independence,13900 E 35th St S,1,0,https://www.kctv5.com/2022/04/14/police-investigating-homicide-victim-found-cargo-largo-independence/
 2278920,"April 14, 2022",Florida,Pompano Beach,400 block of SW 2nd Ct,0,2,https://www.local10.com/news/local/2022/04/14/deputies-investigating-2-juveniles-injured-in-pompano-beach-drive-by-shooting/
 2278923,"April 14, 2022",Minnesota,Saint Paul,700 block of Victoria St,0,1,https://twitter.com/MN_CRIME/status/1514775165304934401
+2278866,"April 14, 2022",Michigan,Lansing,2000 block of Beal Ave,1,0,https://www.lansingstatejournal.com/story/news/2022/04/15/lansing-police-id-man-27-fatally-shot-thursday-near-beal-avenue/7330754001/
 2278911,"April 14, 2022",Minnesota,Minneapolis,2100 block of Glenwood Ave,0,1,https://www.facebook.com/groups/MinneapolisScanner/posts/2064877313693650
 2278906,"April 14, 2022",California,Rosemont,3900 block of Avante Way,1,0,https://www.kcra.com/article/suspect-detained-shooting-family-member-inside-rosemont-home-sheriffs-office-says/39728061
-2278844,"April 14, 2022",Virginia,Rocky Mount,N Main St and Circle Dr,1,1,https://www.wdbj7.com/2022/04/15/man-faces-murder-charge-rocky-mount-shooting/
 2279742,"April 14, 2022",Tennessee,Lancing,N/A,1,0,https://www.wate.com/news/local-news/report-morgan-co-father-fatally-shot-by-son-defending-caretaker/
 2278889,"April 14, 2022",West Virginia,Huntington,4th Ave,0,1,https://www.wowktv.com/news/local/police-man-claims-he-was-shot-in-huntington/
 2278869,"April 14, 2022",California,Los Angeles,3000 block of Atwater Ave,1,0,https://ktla.com/news/local-news/pursuit-ends-with-officer-shooting-man-in-atwater-village-police/
 2278871,"April 14, 2022",Michigan,Riverview,11000 block of Longsdorf St,0,1,https://www.thenewsherald.com/2022/04/14/assault-in-riverview-prompts-school-lockdowns-suspect-arrested/
 2279626,"April 14, 2022",North Carolina,Albemarle,2000 Block of Monza Dr,1,0,https://www.wsoctv.com/news/local/man-killed-albemarle-suspect-arrested-police-say/HKHWJI6EVRBPPEF6F4KWAQRKNA/
 2279154,"April 14, 2022",North Carolina,Charlotte,10308 Albemarle Rd,1,0,https://www.wsoctv.com/news/local/1-dead-east-charlotte-shooting-officials-say/UDSJQX3NYRBFNL7WWBQP7OEVC4/
-2278866,"April 14, 2022",Michigan,Lansing,2000 block of Beal Ave,1,0,https://www.lansingstatejournal.com/story/news/2022/04/14/lansing-police-investigate-homicide-27-year-old-man/7315908001/
 2279714,"April 14, 2022",Wisconsin,Milwaukee,W Fond Du Lac Ave and W Locust St,1,0,https://www.tmj4.com/news/local-news/24-year-old-shot-and-killed-on-fond-du-lac-avenue-police
 2278836,"April 14, 2022",California,Sacramento,65th St Expy and Jansen Dr,0,1,https://www.kcra.com/article/3-cars-struck-gunshots-1-man-hospitalized-overnight-sacramento-shooting/39724837
 2278742,"April 14, 2022",California,Los Angeles,I-405 and Skirball Center Dr,0,1,https://abc7.com/405-freeway-police-shooting-sepulveda-pass-chp/11747211/
@@ -72,8 +98,9 @@ id,date,state,county,addr,death,injured,link
 2279672,"April 14, 2022",Texas,Azle,600 block of Boling Ranch Rd,0,1,https://www.star-telegram.com/news/local/crime/article260466017.html
 2278744,"April 14, 2022",New York,Rochester,600 block of Jefferson Ave,0,1,https://13wham.com/news/local/man-shot-while-grilling-in-rochester-three-kids-unhurt-when-home-hit-by-bullets
 2278780,"April 14, 2022",California,Los Angeles,Florence Ave and Figueroa St,0,2,https://mynewsla.com/crime/2022/04/14/two-wounded-in-south-los-angeles-drive-by/
-2279647,"April 14, 2022",New York,Johnson City,215 Baldwin St,0,1,https://www.wbng.com/2022/04/15/johnson-city-police-arrest-suspect-baldwin-street-shooting/
 2278713,"April 14, 2022",New Jersey,Camden,2553 S 8th St,0,1,https://www.rlsmedia.com/article/male-injured-shooting-camden-apartment-complex
+2278713,"April 14, 2022",New Jersey,Camden,2553 S 8th St,0,1,https://www.rlsmedia.com/article/male-injured-shooting-camden-apartment-complex
+2279273,"April 14, 2022",Pennsylvania,Philadelphia,2200 block of W Westmoreland St,0,1,https://6abc.com/gun-violence-philly-shooting-philadelphia-police-today/11748375/
 2279599,"April 14, 2022",Pennsylvania,Philadelphia,Waterloo St,0,1,https://6abc.com/gun-violence-philly-shooting-philadelphia-police-today/11748375/
 2279259,"April 14, 2022",Pennsylvania,Philadelphia,1200 block of S Millick St,0,1,https://6abc.com/gun-violence-philly-shooting-philadelphia-police-today/11748375/
 2279596,"April 14, 2022",California,Oakland,1500 block of 23rd Ave,1,0,https://www.eastbaytimes.com/2022/04/15/woman-found-fatally-shot-inside-oakland-home/
@@ -88,8 +115,6 @@ id,date,state,county,addr,death,injured,link
 2278618,"April 14, 2022",South Carolina,Darlington,E McIver Rd and Old Florence Rd,1,0,https://wpde.com/news/local/man-killed-darlington-county-officer-involved-shooting-identified-by-coroner-mciver-road-old-florence-road-darlington-south-carolina-crime
 2278694,"April 14, 2022",Georgia,Thomasville,Bartow St and Wright St,0,1,https://www.wtxl.com/news/local-news/thomasville-police-officer-shot-at-with-rifle-manhunt-underway-for-suspect
 2279560,"April 14, 2022",Connecticut,Ansonia,Avon St and Day St,0,2,https://www.nhregister.com/news/article/Police-Two-seriously-wounded-in-Ansonia-shooting-17082885.php
-2279095,"April 14, 2022",Connecticut,Guilford,Fitch Hill Rd,1,0,https://www.nhregister.com/news/article/Police-identify-person-dead-after-armed-Guilford-17083264.php
-2279008,"April 14, 2022",California,San Diego,3737 Sports Arena Blvd,0,1,https://fox5sandiego.com/news/local-news/1-wounded-in-midway-district-shooting/
 2279556,"April 14, 2022",South Carolina,Camden,Roberts Ave,0,1,https://www.wltx.com/article/news/crime/shooting-suspect-sought-in-camden-incident-kershaw-county-south-carolina/101-cc913918-bfe2-466e-9a43-d38baa87dc5b
 2279540,"April 14, 2022",California,Los Angeles,Brynhurst Ave and W 60th St,0,2,https://mynewsla.com/crime/2022/04/15/police-say-south-los-angeles-shooting-is-gang-related/
 2279266,"April 14, 2022",Texas,San Antonio,5600 block of Stonybrook Dr,1,0,https://www.ksat.com/news/local/2022/04/15/17-year-old-shot-killed-on-southwest-side-street-police-say/
@@ -109,7 +134,6 @@ id,date,state,county,addr,death,injured,link
 2279432,"April 14, 2022",Georgia,Forest Park,Ash St and Longleaf Dr,1,1,https://www.fox5atlanta.com/news/ash-street-longleaf-drive-forest-park-double-shooting
 2279428,"April 14, 2022",Georgia,Homer,US-441 and Shady Grove Rd,0,1,https://www.fox5atlanta.com/news/gbi-investigating-deputy-involved-shooting-in-banks-county
 2279419,"April 14, 2022",New York,Brooklyn,2926 W 25th St,0,1,https://twitter.com/NYC_Alerts911/status/1514782871814213634
-2279417,"April 14, 2022",New York,Brooklyn,522 Ocean Ave,0,1,https://twitter.com/NYC_Alerts911/status/1514803653835575301
 2278579,"April 14, 2022",Maryland,Baltimore,1800 block of Wilkens Ave,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-shooting-homicide-police-20220414-7wta5yfvd5aulm4sykywnehj4m-story.html
 2278573,"April 14, 2022",Maryland,Baltimore,6200 block of Pennington Ave,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-shooting-homicide-police-20220414-7wta5yfvd5aulm4sykywnehj4m-story.html
 2279212,"April 14, 2022",Texas,Fort Worth,1701 S Riverside Dr,0,3,https://www.wfaa.com/article/news/crime/fort-worth-convenience-store-clerk-and-teen-shot-police-say/287-e2ddb74d-039d-4444-93a1-aa22331ce27d
@@ -124,9 +148,7 @@ id,date,state,county,addr,death,injured,link
 2278449,"April 14, 2022",Texas,San Antonio,518 Briggs Ave,0,1,https://www.ksat.com/news/local/2022/04/14/sapd-16-year-old-boy-wounded-in-exchange-of-gunfire-outside-sw-side-apartment-complex/
 2278467,"April 14, 2022",Maryland,St Charles,3000 Gallery Place,0,1,https://smnewsnet.com/archives/504047/police-searching-for-two-suspects-after-8-month-old-is-shot-during-home-invasion-in-waldorf/
 2278444,"April 14, 2022",Texas,San Antonio,100 block of Emerald Ash,0,1,https://www.ksat.com/news/local/2022/04/14/teen-shot-in-chest-during-altercation-at-south-side-apartment-police-say/
-2278444,"April 14, 2022",Texas,San Antonio,100 block of Emerald Ash,0,1,https://www.ksat.com/news/local/2022/04/14/teen-shot-in-chest-during-altercation-at-south-side-apartment-police-say/
 2278803,"April 14, 2022",Oklahoma,Stillwater,1203 S Main St,1,0,https://www.kjrh.com/news/local-news/one-person-dead-after-shooting-in-stillwater
-2278437,"April 14, 2022",Texas,San Antonio,13500 block of Dutch Myrtle,0,1,https://www.ksat.com/news/local/2022/04/14/man-shot-at-grazed-by-bullet-during-argument-woman-detained-police-say/
 2279325,"April 14, 2022",Maryland,Baltimore,700 block of Newtowne Dr,0,1,https://baltimore.cbslocal.com/2022/04/15/56-year-old-man-arrested-in-annapolis-shooting-police-say/
 2279321,"April 14, 2022",Colorado,Denver,300 block of S Eliot St,0,1,https://twitter.com/DenverPolice/status/1514776225109094415
 2279312,"April 14, 2022",Colorado,Aurora,17090 E Quincy Ave,1,0,https://www.auroragov.org/blog/One.aspx?portalId=2869361&postId=18485781&portletAction=viewpost
@@ -152,17 +174,28 @@ id,date,state,county,addr,death,injured,link
 2278690,"April 14, 2022",Illinois,Chicago,600 block of S Lawndale Ave,1,0,https://home.chicagopolice.org/media_incident/3600-block-of-w-flournoy-on-april-14-2022-at-approx-204-p-m-11th-district/
 2279203,"April 14, 2022",Illinois,Chicago,2200 block of N Kilpatrick Ave,1,0,https://www.fox32chicago.com/news/man-33-shot-dead-in-hermosa
 2279188,"April 14, 2022",Ohio,Columbus,145 S Central Ave,0,0,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
+2279188,"April 14, 2022",Ohio,Columbus,145 S Central Ave,0,0,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
 2278344,"April 14, 2022",Indiana,Indianapolis,8100 block of Lafayette Rd,0,1,https://www.wthr.com/article/news/crime/1-critically-injured-shooting-on-indianapolis-northwest-side-impd/531-d421f427-093f-46a7-beba-38947492d896
 2278339,"April 14, 2022",Indiana,Indianapolis,2900 block of Sherman Dr,1,0,https://www.wibc.com/news/local-indiana/police-searching-for-suspect-in-fatal-shooting/
 2278562,"April 14, 2022",Alabama,Tuscumbia,N/A,0,1,https://spotonalabama.com/al-mountains/826499/police-probe-self-inflicted-shooting.html
-2279132,"April 14, 2022",Kentucky,Louisville,6733 Strawberry Ln,2,0,https://www.wave3.com/2022/04/15/2-men-found-shot-dead-outside-louisville-sports-bar/
+2279918,"April 14, 2022",Missouri,Fredericktown,Morley St,0,1,https://www.kfvs12.com/2022/04/14/1-injured-1-custody-after-fredericktown-shooting/
+2279908,"April 14, 2022",Ohio,Youngstown,800 block of Cameron Ave,0,1,https://www.wkbn.com/news/local-news/victim-critical-following-youngstown-shooting/
 2279004,"April 14, 2022",Virginia,Portsmouth,6200 block of Centenary Dr,0,1,https://www.wavy.com/news/local-news/portsmouth/man-hospitalized-after-shooting-in-portsmouth/
 2279061,"April 14, 2022",Virginia,Norfolk,2800 block of St Mihiel Ave,0,2,https://www.wavy.com/news/local-news/norfolk/2-injured-in-shooting-on-st-mihiel-avenue-in-norfolk/
-2279073,"April 14, 2022",Tennessee,Memphis,3000 block of Knightway Rd,0,1,https://wreg.com/news/local/man-injured-in-parkway-village-shooting-woman-detained/
 2279115,"April 14, 2022",Louisiana,Monroe,200 block of Blackwood Dr,1,0,https://www.thenewsstar.com/story/news/2022/04/14/17-year-old-dies-thursday-shooting-monroe-opso-investigating/7328881001/
 2279080,"April 14, 2022",Tennessee,Nashville,885 Granada Ave,0,1,https://www.wkrn.com/news/local-news/nashville/1-injured-in-east-nashville-shooting-4/
-2279105,"April 14, 2022",Louisiana,Lafayette,Surrey St and 12th St,0,0,https://www.katc.com/news/lafayette-parish/two-shootings-thursday-night-injure-three-teenagers-in-lafayette
+2279132,"April 14, 2022",Kentucky,Louisville,6733 Strawberry Ln,2,0,https://www.courier-journal.com/story/news/crime/2022/04/15/fatal-shooting-thursday-night-louisville-sports-bar-parking-lot/7330045001/
+2279892,"April 14, 2022",Louisiana,Shreveport,500 block of Atkins Ave,2,0,https://www.ksla.com/2022/04/15/woman-injured-highland-shooting-police-remain-scene/
+2279105,"April 14, 2022",Louisiana,Lafayette,Surrey St and 12th St,0,1,https://www.katc.com/news/lafayette-parish/two-shootings-thursday-night-injure-three-teenagers-in-lafayette
+2278844,"April 14, 2022",Virginia,Rocky Mount,N Main St and Circle Dr,1,1,https://www.wdbj7.com/2022/04/15/man-faces-murder-charge-rocky-mount-shooting/
+2279095,"April 14, 2022",Connecticut,Guilford,Fitch Hill Rd,1,0,https://www.nhregister.com/news/article/Police-identify-person-dead-after-armed-Guilford-17083264.php
+2279871,"April 14, 2022",Maryland,Annapolis,700 block of Newtowne Dr,0,1,https://foxbaltimore.com/news/local/56-year-old-man-arrested-accused-of-shooting-another-person-in-annapolis
+2279073,"April 14, 2022",Tennessee,Memphis,3000 block of Knightway Rd,0,1,https://wreg.com/news/local/woman-arrested-after-argument-over-phone-leads-to-shooting-in-parkway-village/
 2279099,"April 14, 2022",Louisiana,New Orleans,3700 block of Mansfield Ave,1,0,https://www.wwltv.com/article/news/crime/man-wounded-algiers-shooting-thursday-night/289-edfb5eb6-91e1-467f-b72a-e6c69eca7bd2
+2279834,"April 14, 2022",Virginia,Petersburg,Atlantic St and Oakdale Ave,0,1,https://www.wric.com/news/local-news/the-tri-cities/man-shot-multiple-times-on-atlantic-street-survives-petersburg-police-looking-for-suspect/
+2279861,"April 14, 2022",Washington,Kent,902 W James St,0,1,https://www.king5.com/article/news/local/shootings-kent-investigation/281-ed1c35c8-ea94-4dc4-9ff4-5b92a25c3253
+2279857,"April 14, 2022",Washington,Kent,300 block of Central Ave S,0,1,https://www.king5.com/article/news/local/shootings-kent-investigation/281-ed1c35c8-ea94-4dc4-9ff4-5b92a25c3253
+2279647,"April 14, 2022",New York,Johnson City,215 Baldwin St,0,1,https://wnbf.com/johnson-city-man-arrested-in-village-shooting-investigation/
 2279082,"April 14, 2022",Arkansas,Pine Bluff,3500 block of S Virginia St,1,0,https://www.kark.com/crime/pine-bluff-shooting-thursday-night-leaves-1-dead/
 2278114,"April 13, 2022",Minnesota,Minneapolis,33rd St E and Chicago Ave S,0,1,https://minnesota.cbslocal.com/2022/04/13/minneapolis-bus-stop-shooting/
 2277904,"April 13, 2022",Wisconsin,Milwaukee,6000 block of W Fond du Lac,0,1,https://twitter.com/USFiR2015/status/1514356619261448195
@@ -174,6 +207,7 @@ id,date,state,county,addr,death,injured,link
 2278296,"April 13, 2022",Louisiana,Broussard,1505 Bonin Rd,1,0,https://www.theadvocate.com/acadiana/news/crime_police/article_9b0d8294-bc40-11ec-af56-f3a70971ab7e.html
 2278060,"April 13, 2022",Texas,Lubbock,4000 block of S Loop 289,0,1,https://www.everythinglubbock.com/news/local-news/gunshot-victim-told-lpd-his-friend-shot-him-inside-lubbock-hotel/
 2278043,"April 13, 2022",Georgia,Waco,162 Beaver Run Rd,2,0,https://www.11alive.com/article/news/crime/apparent-murder-suicide-investigation-haralson-county-sheriffs-office/85-e1248ed0-61c2-47f8-87a4-6afaddf0c41a
+2277820,"April 13, 2022",Tennessee,Mount Juliet,9120 Saundersville Rd,1,1,https://www.tennessean.com/story/news/2022/04/14/cedar-creek-marina-tennessee-shooting-man-killed-identified/7323164001/
 2277825,"April 13, 2022",Tennessee,Lebanon,Wilson Ave,1,0,https://www.wkrn.com/news/local-news/i-want-him-to-die-grandmother-wants-death-penalty-for-man-who-allegedly-shot-killed-20-year-old-grandson/
 2278983,"April 13, 2022",Florida,West Palm Beach,1300 block of 8th St,1,0,https://www.palmbeachpost.com/story/news/crime/2022/04/13/man-dies-shooting-west-palm-beach-police-search-gunman/7310071001/
 2278283,"April 13, 2022",Louisiana,New Orleans,I-10 Service Rd and Mayo Blvd,1,0,https://www.nola.com/news/crime_police/article_0cce5c6a-bbe6-11ec-8072-53d1a44c8b6c.html
@@ -199,6 +233,7 @@ id,date,state,county,addr,death,injured,link
 2278805,"April 13, 2022",Connecticut,Hartford,70 Orange St,0,1,https://www.nbcconnecticut.com/news/local/male-shot-in-hartford-on-wednesday/2760965/
 2278159,"April 13, 2022",Oklahoma,Tulsa,S 73rd Ave E and E 4th Pl,1,1,https://www.newson6.com/story/62586af0f721d5072972c394/suspect-victim-identified-in-deadly-tulsa-hostage-situation
 2278504,"April 13, 2022",North Carolina,Troutman,135 Stillwater Rd,0,1,https://www.complex.com/music/trespasser-shot-at-dababy-north-carolina-home
+2278775,"April 13, 2022",Colorado,Aurora,1666 N Clinton St,0,1,https://twitter.com/AuroraPD/status/1514407654633861123
 2277649,"April 13, 2022",Pennsylvania,Washington,1400 block of Spencer Ave,0,1,https://pittsburgh.cbslocal.com/2022/04/13/washington-county-weirich-avenue-person-barricaded/
 2277807,"April 13, 2022",North Carolina,Winston Salem (Winston-salem),3500 Block of S Main St,1,1,https://www.wfmynews2.com/article/news/crime/two-charged-after-man-shot-to-death-at-fish-hut-arcade-in-winston-salem-reginald-anthony-williams-arthur-little/83-2b12ef79-247d-4b25-a780-5b82781fcfc1
 2277733,"April 13, 2022",New Jersey,Newark,Maybaum Ave and Tremont Ave,0,1,https://www.rlsmedia.com/article/male-found-shot-multiple-times-newarks-west-ward
@@ -214,7 +249,6 @@ id,date,state,county,addr,death,injured,link
 2278701,"April 13, 2022",Pennsylvania,Philadelphia,1500 block of W Erie Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
 2278699,"April 13, 2022",Pennsylvania,Philadelphia,1300 block of Ruscomb St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
 2277690,"April 13, 2022",Illinois,Chicago,E 84th St and S Oglesby Ave,0,1,https://twitter.com/SPOTNEWSonIG/status/1514329154220605446
-2278033,"April 13, 2022",Florida,Wesley Chapel,N/A,2,0,https://www.wtsp.com/article/news/local/pascocounty/pasco-murder-suicide-wesley-chapel/67-da797618-b1f0-4c8e-bf18-797aedac5f18
 2277659,"April 13, 2022",Illinois,Rockford,1203 7th St,0,1,https://www.mystateline.com/news/local-news/24-year-old-man-survives-7th-street-shooting/
 2278079,"April 13, 2022",Missouri,Kansas City,3800 block of Wabash Ave,1,2,https://www.kmbc.com/article/kansas-city-police-investigate-fatal-shooting-wed-am/39711591
 2278687,"April 13, 2022",Georgia,Atlanta,2952 Middleton Rd NW,0,1,https://www.atlantapd.org/Home/Components/News/News/2486/631
@@ -222,8 +256,6 @@ id,date,state,county,addr,death,injured,link
 2277609,"April 13, 2022",Illinois,Chicago,4700 block of S Western Ave,0,1,https://home.chicagopolice.org/media_incident/4700-block-of-s-western-on-april-13-2022-approx-312-a-m-9th-dist/
 2278104,"April 13, 2022",Nevada,Henderson,103 Sicily Hills Ct,1,0,https://www.reviewjournal.com/crime/homicides/coroner-rules-on-official-cause-of-10-year-old-boys-death-2561900/
 2277573,"April 13, 2022",Illinois,Chicago,7948 S Elizabeth St,1,0,https://wgntv.com/news/chicago-news/man-found-shot-to-death-inside-burning-building/
-2277267,"April 13, 2022",Pennsylvania,Duquesne,1000 block of Orchard Park Ave,1,1,https://www.post-gazette.com/local/east/2022/04/13/duquesne-police-homicide-fatal-shooting-investigation-allegheny-county/stories/202204130097
-2279464,"April 13, 2022",Ohio,Ashtabula,E 46th St,1,0,https://www.starbeacon.com/news/local_news/suicidal-man-killed-after-pointing-gun-at-police/article_4a89a1b0-bb35-11ec-9c99-67b54866b85c.html
 2277267,"April 13, 2022",Pennsylvania,Duquesne,1000 block of Orchard Park Ave,1,1,https://www.post-gazette.com/local/east/2022/04/13/duquesne-police-homicide-fatal-shooting-investigation-allegheny-county/stories/202204130097
 2279464,"April 13, 2022",Ohio,Ashtabula,E 46th St,1,0,https://www.starbeacon.com/news/local_news/suicidal-man-killed-after-pointing-gun-at-police/article_4a89a1b0-bb35-11ec-9c99-67b54866b85c.html
 2278671,"April 13, 2022",Illinois,Chicago,4300 block of S Archer Ave,0,1,https://home.chicagopolice.org/media_incident/4300-block-of-s-archer-on-april-13-2022-at-approximately-655-p-m-9th-district/
@@ -241,6 +273,7 @@ id,date,state,county,addr,death,injured,link
 2277161,"April 13, 2022",Missouri,Saint Louis,S Leonor K Sullivan Blvd and Poplar St,1,2,https://www.kmov.com/2022/04/13/woman-killed-double-shooting-along-st-louis-riverfront/
 2278516,"April 13, 2022",Arkansas,Rogers,400 block of E Asher Ct,1,0,https://www.kark.com/crime/rogers-police-investigating-after-17-year-old-girl-found-shot-in-head/
 2278023,"April 13, 2022",Virginia,Hampton,3750 Kecoughtan Rd,1,0,https://www.wavy.com/news/local-news/hampton/man-shot-seriously-injured-in-front-of-hampton-apartment/
+2278492,"April 13, 2022",Florida,Plant City,4010 E State Rd 60,1,1,https://www.wfla.com/news/hillsborough-county/search-grows-for-gunman-involved-in-deadly-plant-city-bar-shooting/
 2278492,"April 13, 2022",Florida,Plant City,4010 E State Rd 60,1,1,https://www.wfla.com/news/hillsborough-county/search-grows-for-gunman-involved-in-deadly-plant-city-bar-shooting/
 2277366,"April 13, 2022",California,Livermore,N M St and Chestnut St,0,1,https://www.eastbaytimes.com/2022/04/13/person-shot-in-livermore-suspect-arrested/
 2277352,"April 13, 2022",Florida,Fort Lauderdale (Davie),7800 Sheridan St,0,1,https://www.local10.com/news/local/2022/04/13/police-investigation-underway-in-davie/
@@ -275,726 +308,3 @@ id,date,state,county,addr,death,injured,link
 2278003,"April 13, 2022",Virginia,Richmond,N/A,0,1,https://www.wric.com/news/breaking-news/two-richmond-shootings-overnight-leaves-two-injured/
 2278014,"April 13, 2022",Virginia,Richmond,E 35th St and Lawson St,0,1,https://www.nbc12.com/2022/04/13/richmond-police-investigating-two-separate-shootings-overnight/
 2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
-2276915,"April 12, 2022",Illinois,Rockford,900 block of 12th Ave,1,0,https://www.wifr.com/2022/04/12/police-investigate-shooting-east-rockford/
-2278027,"April 13, 2022",Virginia,Portsmouth,1500 block of Leckie St,0,1,https://www.wavy.com/news/local-news/portsmouth/woman-found-shot-on-leckie-st-in-portsmouth/
-2277167,"April 13, 2022",Texas,Dallas,1023 S Hampton Rd,1,0,https://www.dallasnews.com/news/crime/2022/04/12/man-fatally-shot-outside-west-oak-cliff-convenience-store-police-say
-2279137,"April 13, 2022",Alabama,Trussville,I-59 and N Chalkville Rd,0,1,https://www.trussvilletribune.com/2022/04/13/updated-shooting-on-i-59-sb-in-trussville-leaves-one-injured/
-2277680,"April 13, 2022",Kentucky,Louisville,4300 block of Norbrook Dr,1,0,https://www.wlky.com/article/15-year-old-boy-identified-as-victim-in-fatal-shooting-at-apartment-complex-near-buechel/39730888
-2278176,"April 13, 2022",Kentucky,Louisville,2800 block of Triplett Woods Ct,0,1,https://www.wave3.com/2022/04/13/confrontation-with-juvenile-relative-led-man-being-wounded-prp-shooting/
-2278179,"April 13, 2022",Pennsylvania,Pittsburgh,7300 block of Idlewild St,0,1,https://pittsburghpa.gov/publicsafety/blotterview/1733
-2278163,"April 13, 2022",Tennessee,Springville,375 Pineview Dr,0,2,https://www.parispi.net/news/local_news/article_6ac5bd92-bb6c-11ec-9914-839ae3784c71.html
-2278156,"April 13, 2022",Tennessee,Kingsport,N/A,0,1,https://www.wjhl.com/news/local/kingsport-shooting-injures-1-man-police-investigating/
-2278878,"April 13, 2022",Tennessee,Pioneer,6691 TN-297,0,0,https://www.wymt.com/2022/04/14/student-brings-loaded-gun-campbell-co-elementary-school-ccso-says/
-2277393,"April 13, 2022",Ohio,Cleveland,E 65th St and Union Ave,1,0,https://www.cleveland.com/news/2022/04/cleveland-police-investigating-fatal-shooting-in-citys-north-broadway-neighborhood.html
-2277050,"April 12, 2022",Arkansas,North Little Rock,5400 block of US-165,1,0,https://katv.com/news/local/nlrpd-investigating-a-homicide-motivated-by-a-domestic-dispute-highway-165-north-little-rock-arkansas
-2279066,"April 12, 2022",California,San Bernardino,1200 block of N Lugo Ave,1,0,https://www.sbsun.com/2022/04/13/resident-killed-in-san-bernardino-shooting/
-2279057,"April 12, 2022",California,Colton,Walnut St and Maple St,0,1,https://www.sbsun.com/2022/04/13/colton-standoff-ends-with-shooting-suspect-found-dead-in-apartment/
-2278088,"April 12, 2022",Kansas,Kansas City,3700 block of Plaza Dr,1,0,https://www.kctv5.com/2022/04/13/kckpd-investigating-tuesday-night-homicide-that-left-woman-dead/
-2277029,"April 12, 2022",Texas,Hereford,13th St and Star St,1,0,https://www.newschannel10.com/2022/04/13/1-dead-2-arrested-after-shooting-hereford/
-2276987,"April 12, 2022",Indiana,Indianapolis,875 Massachusetts Ave,0,1,https://twitter.com/IMPDnews/status/1514066873201135618
-2277025,"April 12, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5439811492709528
-2276820,"April 12, 2022",Illinois,Chicago,3855 W Lawrence Ave,0,1,https://twitter.com/WindyCityWxMan/status/1513920673252614151
-2278012,"April 12, 2022",Louisiana,Baton Rouge,5100 block of Fairfields Ave,1,0,https://www.brla.gov/DocumentCenter/View/14139/04-13-22-Shooting-on-Fairfields-Ave
-2276965,"April 12, 2022",California,Stockton,E Hammer Lane and Maranatha Dr,1,0,https://sacramento.cbslocal.com/2022/04/12/manteca-big-league-dreams-parking-lot-suspect-suicide/
-2276941,"April 12, 2022",Indiana,Indianapolis,1800 block of Montcalm St,1,0,https://fox59.com/news/indycrime/1-killed-in-shooting-on-near-northwest-side/
-2277023,"April 12, 2022",Texas,Houston,8900 block of Braesmont Dr,1,0,http://www.houstontx.gov/police/nr/2022/apr/nr220413-3.htm
-2277958,"April 12, 2022",Indiana,Bloomington,1400 block of N Woodburn Ave,0,1,https://www.wrtv.com/news/local-news/crime/man-shot-flown-to-hospital-after-verbal-exchange-with-driver-bloomington-police
-2276934,"April 12, 2022",North Carolina,Raleigh,2501 S Saunders St,0,1,https://www.cbs17.com/news/local-news/wake-county-news/woman-shot-at-raleigh-super-8-motel-suspects-on-the-run-police/
