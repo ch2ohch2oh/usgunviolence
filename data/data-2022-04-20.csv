@@ -21,6 +21,9 @@ id,date,state,county,addr,death,injured,link
 2282379,"April 19, 2022",Illinois,Chicago,4700 block of S Loomis St,1,0,https://chicago.suntimes.com/crime/2022/4/19/23031848/back-yards-shooting-antonio-hernandez
 2282377,"April 19, 2022",Illinois,Chicago,3100 block of W Roosevelt Rd,0,1,https://www.cbsnews.com/chicago/news/driver-shot-before-crashing-car-into-bus-stop-in-lawndale/
 2282338,"April 19, 2022",Texas,Fort Worth,6300 block of Peggy Dr,0,1,https://www.star-telegram.com/news/local/crime/article260541082.html
+2283112,"April 19, 2022",Illinois,Rock Island,1316 25th St,0,1,https://qctimes.com/news/local/crime-and-courts/woman-wounded-in-rock-island-shooting/article_6869ad6a-809b-57f2-a3d2-a2800b9e3bd4.html
+2283106,"April 19, 2022",Louisiana,New Orleans,Allen St and N Rocheblave St,1,2,https://www.wdsu.com/article/1-dead-1-injured-in-7th-ward-shooting/39767103
+2283095,"April 19, 2022",Pennsylvania,Pittsburgh (Wilkinsburg),737 Midland St,2,1,https://pittsburgh.cbslocal.com/2022/04/19/wilkinsburg-shooting-2-dead-1-injured/
 2283091,"April 19, 2022",Texas,Houston,3800 block of Lockhart,0,1,https://twitter.com/houstonpolice/status/1516602231017066502
 2283087,"April 19, 2022",Texas,Waco,1708 S Valley Mills Dr,0,1,https://wacotrib.com/news/local/crime-and-courts/police-man-claims-self-defense-in-shooting-off-valley-mills-drive/article_a46ee96a-c053-11ec-9044-fb4e452e8f1b.html
 2283068,"April 19, 2022",Nevada,Spring Creek,700 block of Spring Creek Pkwy,2,0,https://elkodaily.com/news/local/crime-and-courts/two-dead-in-spring-creek-shooting/article_6b6b6a14-c04c-11ec-adbc-4ba912554b33.html#tracking-source=home-top-story
@@ -174,6 +177,8 @@ id,date,state,county,addr,death,injured,link
 2281444,"April 17, 2022",Louisiana,Shreveport,Alexander Ave and E Gregg St,1,0,https://www.ksla.com/2022/04/18/coroner-identifies-teenage-girl-who-died-after-being-shot-her-cheek/
 2281135,"April 17, 2022",Maryland,Baltimore,1600 block of Church St,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/350292647126322
 2281129,"April 17, 2022",Pennsylvania,Chester,W Carla Ln,1,1,https://philadelphia.cbslocal.com/2022/04/17/chester-shooting-gun-violence-delaware-county/
+2281108,"April 17, 2022",North Carolina,Greensboro,1819 Spring Garden St,0,2,https://www.wxii12.com/article/a-greensboro-shooting-blind-tiger-leaves-2-injured/39744335
+2282726,"April 17, 2022",Oklahoma,Sulphur,1701 W 1st St,0,1,https://www.kxii.com/2022/04/19/man-shot-flown-hospital-after-altercation-sulphur-flea-market/
 2281123,"April 17, 2022",Pennsylvania,Philadelphia,D St and Wyoming Ave,0,1,https://philadelphia.cbslocal.com/2022/04/17/philadelphia-gun-violence-shootings-kensington-feltonville-crime/
 2281121,"April 17, 2022",Missouri,Saint Louis,250 DeBaliviere Ave,1,0,https://www.kmov.com/2022/04/17/man-shot-killed-metrolink/
 2281117,"April 17, 2022",Pennsylvania,Philadelphia,300 block of E Somerset St,0,3,https://philadelphia.cbslocal.com/2022/04/17/philadelphia-gun-violence-shootings-kensington-feltonville-crime/
@@ -197,8 +202,6 @@ id,date,state,county,addr,death,injured,link
 2281316,"April 17, 2022",Pennsylvania,Reading,600 Greenwich St,1,0,https://www.wfmz.com/news/area/berks/police-id-man-shot-dead-outside-reading-shopping-center/article_413b5b60-bf1f-11ec-b57a-8f5d7f4eab09.html
 2281867,"April 17, 2022",California,Bakersfield,8600 block of Avila St,1,0,https://www.turnto23.com/news/crime/bpd-man-shot-killed-in-southwest-bakersfield
 2281278,"April 17, 2022",Minnesota,Saint Paul,620 block of Selby Ave,0,1,https://minnesota.cbslocal.com/2022/04/18/man-shot-selby-ave-st-paul-suspect-arrested/
-2281862,"April 17, 2022",California,Oakland,5000 block of International Blvd,0,2,https://www.eastbaytimes.com/2022/04/17/two-injured-in-east-oakland-weekend-shooting/
-2281830,"April 17, 2022",Maryland,Baltimore,1500 block of Pennsylvania Ave,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-easter-sunday-crime-20220417-fxcarti6qbg4xoeezo2h4573p4-story.html
 2281862,"April 17, 2022",California,Oakland,5000 block of International Blvd,0,2,https://www.eastbaytimes.com/2022/04/17/two-injured-in-east-oakland-weekend-shooting/
 2281830,"April 17, 2022",Maryland,Baltimore,1500 block of Pennsylvania Ave,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-easter-sunday-crime-20220417-fxcarti6qbg4xoeezo2h4573p4-story.html
 2280875,"April 17, 2022",South Carolina,Furman,72 Ashley Circle Rd,0,9,https://www.greenvilleonline.com/story/news/local/south-carolina/2022/04/17/south-carolina-hampton-county-club-shooting-9-injured/7350745001/
@@ -253,14 +256,3 @@ id,date,state,county,addr,death,injured,link
 2280711,"April 17, 2022",Pennsylvania,Pittsburgh,900B Madison Ave,2,8,https://www.10tv.com/article/news/nation-world/pittsburgh-party-shooting/507-8c090800-d40b-42d1-b67a-d74a2f8379cd
 2280813,"April 17, 2022",Illinois,Chicago,I-94 and 69th St,0,1,https://www.fox32chicago.com/news/person-shot-dan-ryan-expressway-79th-street
 2281620,"April 17, 2022",Ohio,Dayton,3818 W Third St,1,0,https://www.wtrf.com/ohio/1-dead-following-attempted-robbery-at-ohio-autozone/
-2281541,"April 17, 2022",Oregon,Portland,16150 SE Stark St,1,3,https://www.portlandoregon.gov/police/news/read.cfm?id=412271
-2280804,"April 17, 2022",Massachusetts,Boston,Beach St and Oxford St,0,2,https://www.boston.com/news/crime/2022/04/17/chinatown-double-shooting-boston/
-2281506,"April 17, 2022",Mississippi,Wiggins,N/A,1,0,https://www.wdam.com/2022/04/17/wiggins-woman-identified-victim-homicide-suspect-now-custody/
-2281504,"April 17, 2022",Connecticut,Waterbury,Bronson St and Pear St,0,1,https://www.nbcconnecticut.com/news/local/man-injured-in-waterbury-shooting/2763337/
-2281494,"April 17, 2022",Michigan,Detroit,12600 block of Broadstreet Ave,0,1,https://www.facebook.com/TheDetroitScanner/posts/5453270988030245
-2281496,"April 17, 2022",Michigan,Detroit,7800 block of Clayburn St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5453295858027758
-2282298,"April 17, 2022",Louisiana,New Iberia,S Hopkins St and Field St,0,1,https://www.katc.com/news/iberia-parish/suspect-wanted-in-new-iberia-shooting-armed-robbery-incidents
-2281967,"April 17, 2022",Colorado,Denver,1700 block of South Pecos St,0,1,https://denver.cbslocal.com/2022/04/18/denver-police-child-shot/
-2281447,"April 17, 2022",Texas,San Antonio,19314 US-281,0,1,https://www.ksat.com/news/local/2022/04/17/man-in-critical-condition-after-shooting-in-parking-lot-of-north-side-bar-police-say/
-2281440,"April 17, 2022",Texas,San Antonio,1200 Patricia,0,1,https://foxsanantonio.com/news/local/teenage-girl-injured-in-shooting-after-fight-breaks-out-in-large-pool-party-police-say
-2281435,"April 17, 2022",Louisiana,New Orleans,2600 block of Allen St,1,0,https://wgno.com/news/crime/man-shot-in-7th-ward-nopd-reports/
