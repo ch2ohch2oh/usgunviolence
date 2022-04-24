@@ -1,7 +1,9 @@
 id,date,state,county,addr,death,injured,link
+2286009,"April 24, 2022",Alabama,Birmingham,N/A,0,2,https://www.wbrc.com/2022/04/24/overnight-shooting-2-females-injured/
+2286007,"April 24, 2022",Wisconsin,Milwaukee,W North Ave and N Doctor MLK Jr Dr,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2286005,"April 24, 2022",Wisconsin,Milwaukee,S 23rd St and W Orchard St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
 2285890,"April 23, 2022",New York,Cohoes,Willow St,1,0,https://wnyt.com/albany-new-york-news/cohoes-shooting-willow-street/6453437/?cat=10114
 2285866,"April 23, 2022",New York,Fishkill,14 Schuyler Blvd,0,2,https://midhudsonnews.com/2022/04/23/two-people-shot-at-fishkill-hotel-melee-early-saturday-morning/
-2285849,"April 23, 2022",Missouri,Kansas City,4100 block of McGee St,1,0,https://www.kmbc.com/article/one-dead-after-shooting-on-mcgee-street/39804985
 2285847,"April 23, 2022",Illinois,Chicago,5300 block of S Damen Ave,0,1,https://home.chicagopolice.org/media_incident/5300-block-of-s-damen-on-april-23-2022-at-approx-816-p-m-9th-district/
 2285845,"April 23, 2022",Illinois,Chicago,2400 block of W 25th St,0,1,https://home.chicagopolice.org/media_incident/2400-block-of-w-25th-st-on-april-23-2022-at-apporox-726-pm-10th-district/
 2285838,"April 23, 2022",Illinois,Chicago,4400 block of W Adams,0,1,https://home.chicagopolice.org/media_incident/4400-block-of-w-adams-on-april-23-2022-at-approx-634-p-m-11th-district/
@@ -58,8 +60,20 @@ id,date,state,county,addr,death,injured,link
 2285428,"April 23, 2022",Illinois,Chicago,5700 block of S Artesian Ave,0,1,https://home.chicagopolice.org/media_incident/5700-block-of-s-artesian-on-april-23-2022-at-approx-1200-am-8th-district/
 2285417,"April 23, 2022",Illinois,Chicago,6400 block of S King Dr,0,1,https://www.fox32chicago.com/news/woman-shot-while-inside-vehicle-in-parkway-gardens
 2285398,"April 23, 2022",Oregon,Portland,SE 136th Ave and SE Powell Blvd,1,0,https://www.portlandoregon.gov/police/news/read.cfm?id=412283
+2286003,"April 23, 2022",Wisconsin,Milwaukee,4700 block of N 79th St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2286001,"April 23, 2022",Wisconsin,Milwaukee,W Keefe Ave and Vel R Phillips Ave,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2285999,"April 23, 2022",Wisconsin,Milwaukee,W Burleigh St and N 27th St,1,0,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2285996,"April 23, 2022",Wisconsin,Milwaukee,W Lisbon Ave and N 66th St,1,0,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2285993,"April 23, 2022",Pennsylvania,Pittsburgh,Wylie Ave,0,1,https://www.cbsnews.com/pittsburgh/news/1-man-in-critical-condition-after-being-shot-overnight/
+2285991,"April 23, 2022",Wisconsin,Milwaukee,W Luscher Ave and N 50th St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2285989,"April 23, 2022",Wisconsin,Milwaukee,N 29th St and W St Paul Ave,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2285985,"April 23, 2022",Hawaii,Waimanalo,41-1606 Kalanianaole Hwy,1,0,https://www.staradvertiser.com/2022/04/23/breaking-news/police-investigating-death-of-19-year-old-man-with-apparent-gunshot-wound-in-waimanalo/
+2285849,"April 23, 2022",Missouri,Kansas City,4100 block of McGee St,1,0,https://www.kmbc.com/article/one-dead-after-shooting-on-mcgee-street/39804985
 2285389,"April 23, 2022",Montana,Billings,4910 Southgate Dr,0,1,https://billingsgazette.com/news/photos-shooting-at-americas-wild-west/article_6dd0b45e-f2eb-5520-877b-a52a372aa34e.html#tracking-source=home-top-story
+2285981,"April 23, 2022",Oregon,Medford,1600 N Riverside Ave,0,1,https://nbc16.com/newsletter-daily/shots-fired-at-rogue-valley-mall-carnival
 2285384,"April 23, 2022",Indiana,Bloomington,6th St and Lincoln St,0,1,https://fox59.com/news/bloomington-police-investigating-shooting-at-kalao-night-club/
+2285979,"April 23, 2022",Washington,Seattle,1st Ave S and S Brandon St,0,1,https://komonews.com/news/local/man-shot-in-georgetown-police-searching-for-suspect
+2285967,"April 23, 2022",Arizona,Phoenix,S 51st Ave and W Baseline Rd,0,2,https://www.azfamily.com/2022/04/24/man-woman-shot-laveen-village/
 2285952,"April 23, 2022",Arkansas,Stamps,159 Chestnut St,1,0,http://www.magnoliareporter.com/news_and_business/lafayette_county/article_38afb636-bf55-11ec-9baf-e7e8de53a3da.html
 2285949,"April 23, 2022",Alabama,Mobile,651 Azalea Rd,0,1,https://mynbc15.com/news/local/possible-shooting-at-azalea-pointe-apartments
 2285860,"April 23, 2022",Georgia,Atlanta,135 Andrew Young International Blvd NW,0,5,https://www.wsbtv.com/news/local/atlanta/police-searching-shooters-near-centennial-park-downtown-atlanta/V4TIC3W7LNHDJPKXC3EQIWRTFU/
@@ -120,7 +134,6 @@ id,date,state,county,addr,death,injured,link
 2284826,"April 22, 2022",South Carolina,Moncks Corner,McCrystal Cir,0,1,https://fox28media.com/news/local/shooting-with-injuries-under-investigation-in-berkeley-county
 2285634,"April 22, 2022",California,Fresno,Saginaw Ave and Fruit Ave,0,1,https://abc30.com/central-fresno-shooting-boy-shot/11781948/
 2285632,"April 22, 2022",South Carolina,Irmo,1400 Old Tamah Rd,0,0,https://abcnews4.com/news/local/deputies-man-arrested-for-trespassing-on-school-grounds
-2285629,"April 22, 2022",California,Fresno,E St and Ventura St,0,2,https://abc30.com/downtown-fresno-shooting-double/11781929/
 2285626,"April 22, 2022",Connecticut,Waterbury,N Leonard St,0,2,https://www.nbcconnecticut.com/news/local/2-injured-in-north-leonard-street-shooting-in-waterbury/2768194/
 2285617,"April 22, 2022",California,Madera,Solano St,1,0,https://abc30.com/madera-shooting-teenager-killed-police-deadly/11783112/
 2285610,"April 22, 2022",Maryland,Germantown,Gunners Branch Rd,1,0,https://twitter.com/CordellTraffic/status/1517707393429352448
@@ -167,9 +180,14 @@ id,date,state,county,addr,death,injured,link
 2285242,"April 22, 2022",Ohio,Cincinnati,Kemper Ln and E McMillan St,0,4,https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/walnut-hills/cincinnati-police-4-hospitalized-after-shooting-in-walnut-hills
 2285396,"April 22, 2022",Oregon,Portland,SW Beaverton Hillsdale Hwy and SW Shattuck Rd,0,1,https://katu.com/news/local/man-hurt-after-shooting-in-southwest-portland-police-say
 2285391,"April 22, 2022",North Dakota,Minot,N/A,1,0,https://www.kxnet.com/news/top-stories/police-investigating-shooting-death-of-minot-man-friday-morning/
+2285629,"April 22, 2022",California,Fresno,E St and Ventura St,0,2,https://kmph.com/news/local/2-men-taken-to-the-hospital-following-shooting-in-southwest-fresno
 2285386,"April 22, 2022",Mississippi,Jackson,Woody Dr,1,0,https://www.wlbt.com/2022/04/22/jpd-15-year-old-dies-after-being-shot-face-friday-morning/
 2284819,"April 22, 2022",District of Columbia,Washington,2900 block of Van Ness St NW,1,4,https://www.nbcwashington.com/news/local/at-least-2-people-shot-in-northwest-dc-police/3032453/?_osource=SocialFlowFB_DCBrand&fbclid=IwAR3q9hoPJG3Df7KGDrN4BWy1-Zfy2G6N4t8LMntRgIJmdPNrXjP7-mKNoaI
 2285365,"April 22, 2022",Louisiana,Baton Rouge,Avis Ave,0,1,https://www.wafb.com/2022/04/22/juvenile-shot-off-staring-lane/
+2285977,"April 22, 2022",Washington,Everett,11700 block of 12th Pl W,0,1,https://www.heraldnet.com/news/man-shot-multiple-times-south-of-everett/
+2285975,"April 22, 2022",Washington,Arlington,15500 block of 67th Ave NE,0,1,https://www.heraldnet.com/news/woman-33-shot-in-leg-near-arlington/
+2285964,"April 22, 2022",Arizona,Phoenix,35th Ave and Thunderbird Rd,1,0,https://www.azcentral.com/story/news/local/phoenix-breaking/2022/04/23/police-arrest-man-in-connection-with-fatal-shooting-in-phoenix/7429508001/?itm_medium=recirc&itm_source=taboola&itm_campaign=internal&itm_content=SectionFrontFeed-FeedRedesign
+2285959,"April 22, 2022",Arizona,Phoenix,Cactus Rd and I-17,1,1,https://www.abc15.com/news/region-phoenix-metro/central-phoenix/woman-dead-man-hurt-after-shooting-near-i-17-and-cactus-road
 2285352,"April 22, 2022",Alabama,Slocomb,Audy Ln,0,1,https://www.wdhn.com/news/crime/suspected-burglar-shot-by-geneva-co-homeowner-sheriff-says/
 2285356,"April 22, 2022",Alabama,Tuskegee,2600 block of Martin L. King Hwy,1,0,https://www.wsfa.com/2022/04/22/montgomery-man-found-dead-after-shooting-tuskegee/
 2285350,"April 22, 2022",Texas,Houston,900 block of Ringold St,0,1,https://twitter.com/houstonpolice/status/1517724649664229378
@@ -281,9 +299,953 @@ id,date,state,county,addr,death,injured,link
 2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
 2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
 2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
-2285393,"April 21, 2022",North Dakota,Mott,205 Dakota Ave,1,0,https://www.kvrr.com/2022/04/22/criminal-investigation-underway-following-incident-at-mott-regent-public-school/
-2283987,"April 21, 2022",Mississippi,Waveland,300 block of Hargett St,1,1,https://www.sunherald.com/news/local/crime/article260667067.html
-2284585,"April 21, 2022",North Carolina,Greensboro,700 block of Jennifer St,0,1,https://greensboro.com/news/local/crime-and-courts/police-respond-to-shooting-early-thursday-in-greensboro-one-person-hospitalized/article_eaacca16-c16e-11ec-a35e-231d03589d57.html
-2284583,"April 21, 2022",North Carolina,Elizabeth City,405 Tatem Ln,0,1,https://www.witn.com/2022/04/22/juvenile-wounded-shooting-within-mile-sheriffs-office/
-2284581,"April 21, 2022",North Carolina,Durham,US 501-15 N and Cornwalis Rd,0,1,https://www.heraldsun.com/news/local/crime/article260647817.html
-2284566,"April 21, 2022",Alabama,Birmingham,800 block of Quebec St,0,1,https://www.al.com/news/birmingham/2022/04/afternoon-gunfire-in-jefferson-county-neighborhood-leaves-man-shot-multiple-times.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
+2284114,"April 21, 2022",Colorado,La Junta,900 block of W 4th St,0,1,https://www.koaa.com/news/covering-colorado/15-year-old-hospitalized-following-shooting-in-la-junta-suspect-in-custody
+2284072,"April 21, 2022",Missouri,Saint Louis,4500 block of Cleveland Ave,0,1,https://www.stltoday.com/news/local/crime-and-courts/man-shot-critically-injured-in-southwest-garden-neighborhood/article_fc492d62-d6a6-5b27-a18f-1a171e84b35e.html
+2284083,"April 21, 2022",Ohio,Cuyahoga Falls,2300 4th St,0,0,https://www.wkyc.com/article/news/crime/16-year-old-bringing-gun-cuyahoga-falls-high-school/95-518eafb7-d7bc-454c-b019-119594e544d6
+2284730,"April 21, 2022",California,Bakersfield,Sonora St,1,0,https://www.turnto23.com/news/crime/bakersfield-police-department-reports-man-shot-on-sonora-street
+2284725,"April 21, 2022",California,Oakland,1200 block of 26th St,0,1,https://www.eastbaytimes.com/2022/04/22/bicyclist-shot-in-west-oakland/
+2284720,"April 21, 2022",Kansas,Wichita,1455 N Terrace Dr,1,0,https://www.ksn.com/news/local/shots-fired-at-wichita-shooting-range-leaves-one-injured/
+2284119,"April 21, 2022",Massachusetts,Chelsea,80 block of Washington Ave,0,1,https://www.bostonherald.com/2022/04/21/chelsea-woman-68-shot-in-tragic-afternoon-crossfire/
+2284028,"April 21, 2022",Louisiana,Baton Rouge,2136 Lobdell Blvd,0,1,https://www.wafb.com/2022/04/21/mother-hospital-after-being-shot-by-5-year-old/
+2284685,"April 21, 2022",Florida,Saint Petersburg,4940 62nd St N,0,0,https://www.wfla.com/news/pinellas-county/st-pete-teen-charged-after-bringing-gun-to-high-school/
+2284680,"April 21, 2022",Missouri,Saint Louis,2713 Marcus Ave,0,2,https://www.kmov.com/2022/04/22/2-shot-injured-north-city/
+2285476,"April 21, 2022",Florida,Clearwater,1100 Block of Beckett St,0,1,https://www.fox13news.com/news/clearwater-police-searching-for-attempted-murder-suspect
+2284000,"April 21, 2022",Maryland,Baltimore,N/A,0,1,https://baltimore.cbslocal.com/2022/04/21/2-men-wounded-in-pair-of-baltimore-shootings-police-say/
+2284663,"April 21, 2022",Colorado,Aurora,14091 E Colfax Ave,0,1,https://twitter.com/AuroraPD/status/1517382212311691264
+2283994,"April 21, 2022",District of Columbia,Washington,14th St and Columbia Rd NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46573
+2284645,"April 21, 2022",Florida,Jacksonville,1300 W 33rd St,0,1,https://www.firstcoastnews.com/article/news/crime/watch-live-jacksonville-police-give-details-about-reported-shooting-in-moncrief-area/77-f23e4031-780d-466c-93e6-de6946ccfb9c
+2283973,"April 21, 2022",Utah,West Jordan,8200 S block of 1640 W,0,1,https://www.abc4.com/news/three-14-year-olds-arrested-in-west-jordan-drive-by-shooting/
+2284625,"April 21, 2022",Florida,Fort Myers,Fifth Ave and Cypress Dr,0,1,https://nbc-2.com/news/crime/2022/04/21/one-injured-in-pine-manor-shooting/
+2284437,"April 21, 2022",Indiana,Indianapolis,4300 block of Stouffer Ln,1,0,https://fox59.com/news/indycrime/family-remembers-lafayette-man-killed-in-northeast-side-shooting/
+2283949,"April 21, 2022",Illinois,Chicago,4100 block of W Cullerton St,0,1,https://home.chicagopolice.org/media_incident/4100-block-of-w-cullerton-on-april-21-2022-approx-250-a-m-10th-dist/
+2283945,"April 21, 2022",Illinois,Chicago,50 block of S Laramie Ave,0,1,https://home.chicagopolice.org/media_incident/0-100-block-of-s-laramie-on-april-21-2022-approx-216-a-m-15th-dist/
+2283921,"April 21, 2022",Pennsylvania,Pittsburgh,1700 block of Rhine St,0,1,https://patch.com/pennsylvania/pittsburgh/pittsburgh-violence-continues-another-shooting-occurs
+2284600,"April 21, 2022",Pennsylvania,Philadelphia,601 E Indiana Ave,1,0,https://philadelphia.cbslocal.com/2022/04/22/philadelphia-shooting-kensington-east-indiana-avenue-man-dead/
+2283911,"April 21, 2022",Pennsylvania,Philadelphia,500 block of Marwood Rd,1,0,https://6abc.com/philadelphia-fatal-shooting-olney-ambush-man-shot-after-opening-door-marwood-road/11775965/
+2283915,"April 21, 2022",Pennsylvania,Philadelphia,6054 Market St,0,2,https://philadelphia.cbslocal.com/2022/04/21/west-philadelphia-shooting-westside-tavern-market-street/
+2284594,"April 21, 2022",Washington,Kennewick,Arrowhead Ave,0,1,https://www.nbcrightnow.com/news/police-investigate-shooting-near-w-arrowhead-avenue/article_99c1e3ba-c1f1-11ec-a228-a304b4d43047.html
