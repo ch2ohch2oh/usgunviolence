@@ -74,7 +74,7 @@ id,date,state,county,addr,death,injured,link
 2286009,"April 24, 2022",Alabama,Birmingham,N/A,0,2,https://www.wbrc.com/2022/04/24/overnight-shooting-2-females-injured/
 2286007,"April 24, 2022",Wisconsin,Milwaukee,W North Ave and N Doctor MLK Jr Dr,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
 2286005,"April 24, 2022",Wisconsin,Milwaukee,S 23rd St and W Orchard St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
-2286005,"April 24, 2022",Wisconsin,Milwaukee,S 23rd St and W Orchard St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
+2286697,"April 24, 2022",Indiana,Indianapolis,1706 Countryside Dr,3,0,https://www.indystar.com/story/news/crime/2022/04/24/indianapolis-crime-police-find-three-people-dead-after-armed-standoff/7435327001/
 2286779,"April 24, 2022",Maine,Bangor,190 Harlow St,0,1,https://fox23maine.com/news/local/bangor-police-looking-for-suspect-in-early-morning-shooting
 2286774,"April 24, 2022",Connecticut,Hartford,18 Townley St,0,2,https://www.wtnh.com/news/connecticut/hartford/two-injured-in-townley-street-shooting-in-hartford/
 2285890,"April 23, 2022",New York,Cohoes,Willow St,1,0,https://wnyt.com/albany-new-york-news/cohoes-shooting-willow-street/6453437/?cat=10114
@@ -98,6 +98,7 @@ id,date,state,county,addr,death,injured,link
 2285785,"April 23, 2022",Michigan,Detroit,Rutherford St and Clarita Ave,0,1,https://www.facebook.com/TheDetroitScanner/posts/pfbid0cdJGHd4tgAoe48EzMiXu6D44qs6kGhoSg3xMQemzc2cEuoLRKW8nPxd4NXz7goqyl?__cft__[0]=AZUeOWq0bthhF93GURVnHADBzeV3OXW30SR4Gn6RbpaDAaRrJS0eZEls4dPzQvcL2QwAzEDA1JW76Cf_bdoEByjOBoWJ7Xy-ZMzAUo-JEnBeXwmmiecpNv_IMxt
 2285783,"April 23, 2022",Michigan,Battle Creek,300 N Washington Ave,0,1,https://www.woodtv.com/news/calhoun-county/teen-shot-in-battle-creek-park-taken-to-hospital/
 2285746,"April 23, 2022",New Jersey,Newark,Broadway and Grafton Ave,0,1,https://www.rlsmedia.com/article/developing-man-shot-grafton-avenue-newarks-north-ward
+2285759,"April 23, 2022",Pennsylvania,Philadelphia,1700 block of Saint Paul St,0,2,https://philadelphia.cbslocal.com/2022/04/23/philadelphia-shooting-nicetown-teenagers-injured-satin-paul-street/
 2285759,"April 23, 2022",Pennsylvania,Philadelphia,1700 block of Saint Paul St,0,2,https://philadelphia.cbslocal.com/2022/04/23/philadelphia-shooting-nicetown-teenagers-injured-satin-paul-street/
 2285754,"April 23, 2022",Pennsylvania,Philadelphia,Darrah St and Pratt St,1,0,https://philadelphia.cbslocal.com/2022/04/23/philadelphia-shooting-frankford-woman-killed-darrah-pratt-street/
 2285748,"April 23, 2022",Pennsylvania,Philadelphia,900 block of N Percy St,0,1,https://philadelphia.cbslocal.com/2022/04/23/north-philadelphia-shooting-teenage-boy-injured-percy-street/
@@ -194,10 +195,10 @@ id,date,state,county,addr,death,injured,link
 2285991,"April 23, 2022",Wisconsin,Milwaukee,W Luscher Ave and N 50th St,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
 2285989,"April 23, 2022",Wisconsin,Milwaukee,N 29th St and W St Paul Ave,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
 2285985,"April 23, 2022",Hawaii,Waimanalo,41-1606 Kalanianaole Hwy,1,0,https://www.staradvertiser.com/2022/04/23/breaking-news/police-investigating-death-of-19-year-old-man-with-apparent-gunshot-wound-in-waimanalo/
-2285389,"April 23, 2022",Montana,Billings,4910 Southgate Dr,0,1,https://billingsgazette.com/news/photos-shooting-at-americas-wild-west/article_6dd0b45e-f2eb-5520-877b-a52a372aa34e.html#tracking-source=home-top-story
 2285981,"April 23, 2022",Oregon,Medford,1600 N Riverside Ave,0,1,https://nbc16.com/newsletter-daily/shots-fired-at-rogue-valley-mall-carnival
 2285384,"April 23, 2022",Indiana,Bloomington,6th St and Lincoln St,0,1,https://fox59.com/news/bloomington-police-investigating-shooting-at-kalao-night-club/
 2285979,"April 23, 2022",Washington,Seattle,1st Ave S and S Brandon St,0,1,https://komonews.com/news/local/man-shot-in-georgetown-police-searching-for-suspect
+2285389,"April 23, 2022",Montana,Billings,4910 Southgate Dr,1,0,https://billingsgazette.com/news/local/billings-man-killed-in-shooting-in-bar-parking-lot/article_6c253da2-775d-5ea5-80e4-b5e1bdc329ec.html#tracking-source=home-top-story
 2285967,"April 23, 2022",Arizona,Phoenix,S 51st Ave and W Baseline Rd,0,2,https://www.azfamily.com/2022/04/24/man-woman-shot-laveen-village/
 2285952,"April 23, 2022",Arkansas,Stamps,159 Chestnut St,1,0,http://www.magnoliareporter.com/news_and_business/lafayette_county/article_38afb636-bf55-11ec-9baf-e7e8de53a3da.html
 2285949,"April 23, 2022",Alabama,Mobile,651 Azalea Rd,0,1,https://mynbc15.com/news/local/possible-shooting-at-azalea-pointe-apartments
@@ -307,16 +308,3 @@ id,date,state,county,addr,death,injured,link
 2285408,"April 22, 2022",Washington,Edmonds,22100 block of WA-99,1,0,https://www.q13fox.com/news/suspect-taken-to-hospital-after-officers-respond-to-domestic-violence-call-in-edmonds
 2285242,"April 22, 2022",Ohio,Cincinnati,Kemper Ln and E McMillan St,0,4,https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/walnut-hills/cincinnati-police-4-hospitalized-after-shooting-in-walnut-hills
 2285396,"April 22, 2022",Oregon,Portland,SW Beaverton Hillsdale Hwy and SW Shattuck Rd,0,1,https://katu.com/news/local/man-hurt-after-shooting-in-southwest-portland-police-say
-2285391,"April 22, 2022",North Dakota,Minot,N/A,1,0,https://www.kxnet.com/news/top-stories/police-investigating-shooting-death-of-minot-man-friday-morning/
-2285629,"April 22, 2022",California,Fresno,E St and Ventura St,0,2,https://kmph.com/news/local/2-men-taken-to-the-hospital-following-shooting-in-southwest-fresno
-2285386,"April 22, 2022",Mississippi,Jackson,Woody Dr,1,0,https://www.wlbt.com/2022/04/22/jpd-15-year-old-dies-after-being-shot-face-friday-morning/
-2284819,"April 22, 2022",District of Columbia,Washington,2900 block of Van Ness St NW,1,4,https://www.nbcwashington.com/news/local/at-least-2-people-shot-in-northwest-dc-police/3032453/?_osource=SocialFlowFB_DCBrand&fbclid=IwAR3q9hoPJG3Df7KGDrN4BWy1-Zfy2G6N4t8LMntRgIJmdPNrXjP7-mKNoaI
-2285365,"April 22, 2022",Louisiana,Baton Rouge,Avis Ave,0,1,https://www.wafb.com/2022/04/22/juvenile-shot-off-staring-lane/
-2285977,"April 22, 2022",Washington,Everett,11700 block of 12th Pl W,0,1,https://www.heraldnet.com/news/man-shot-multiple-times-south-of-everett/
-2285975,"April 22, 2022",Washington,Arlington,15500 block of 67th Ave NE,0,1,https://www.heraldnet.com/news/woman-33-shot-in-leg-near-arlington/
-2285959,"April 22, 2022",Arizona,Phoenix,Cactus Rd and I-17,1,1,https://www.abc15.com/news/region-phoenix-metro/central-phoenix/woman-dead-man-hurt-after-shooting-near-i-17-and-cactus-road
-2285352,"April 22, 2022",Alabama,Slocomb,Audy Ln,0,1,https://www.wdhn.com/news/crime/suspected-burglar-shot-by-geneva-co-homeowner-sheriff-says/
-2285356,"April 22, 2022",Alabama,Tuskegee,2600 block of Martin L. King Hwy,1,0,https://www.wsfa.com/2022/04/22/montgomery-man-found-dead-after-shooting-tuskegee/
-2285350,"April 22, 2022",Texas,Houston,900 block of Ringold St,0,1,https://twitter.com/houstonpolice/status/1517724649664229378
-2285346,"April 22, 2022",Texas,Houston,3400 block of Rosalie St,0,1,https://twitter.com/houstonpolice/status/1517655418666954754
-2285340,"April 22, 2022",Texas,Houston,300 block of Smith St,0,1,https://twitter.com/houstonpolice/status/1517589865604472835
