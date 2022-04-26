@@ -59,6 +59,7 @@ id,date,state,county,addr,death,injured,link
 2286859,"April 25, 2022",Illinois,Chicago,628 N McClurg Ct,0,1,https://home.chicagopolice.org/media_incident/628-n-mcclurg-court-on-april-25-2022-at-approx-100-am-14th-district/
 2286810,"April 25, 2022",Pennsylvania,Philadelphia,G St and E Allegheny Ave,0,1,https://philadelphia.cbslocal.com/2022/04/25/kensington-shooting-possibly-drug-related-g-street-allegheny-avenue/
 2286817,"April 25, 2022",Pennsylvania,Philadelphia,500 block of Rosalie St,0,2,https://philadelphia.cbslocal.com/2022/04/25/lawncrest-double-shooting-rosalie-street/
+2287899,"April 25, 2022",Oregon,Aurora,12334 Ehlen Rd NE,1,1,https://www.kgw.com/article/news/local/aurora-shooting-officer-injured-suspect-dead-flying-j/283-578e3dfe-bc60-4561-a9a9-3efe36959027
 2287793,"April 25, 2022",Kentucky,Louisville,3600 block of Kelly Way,2,0,https://www.wlky.com/article/2-men-found-dead-with-gunshot-wounds-in-bon-air-neighborhood-homicide-unit-investigating/39819609
 2287874,"April 25, 2022",Tennessee,Nashville,6211 Nolensville Pike,0,0,https://www.newschannel5.com/news/oliver-middle-school-student-arrested-after-bringing-a-weapon-on-campus
 2287876,"April 25, 2022",New Jersey,Camden,Olive St and S 8th St,0,1,https://www.rlsmedia.com/article/male-injured-camden-county-shooting
@@ -341,10 +342,3 @@ id,date,state,county,addr,death,injured,link
 2285560,"April 23, 2022",Illinois,Chicago,4700 block of S Cottage Grove Ave,1,0,https://chicago.suntimes.com/crime/2022/4/23/23038863/man-fatally-shot-after-fight-bronzeville
 2285772,"April 23, 2022",Illinois,Chicago,2000 block of W 51st St,2,2,https://www.cbsnews.com/chicago/news/4-in-critical-condition-following-back-of-the-yards-shooting/
 2285398,"April 23, 2022",Oregon,Portland,SE 136th Ave and SE Powell Blvd,1,0,https://katu.com/news/local/police-identify-man-shot-killed-in-se-portlands-powellhurst-gilbert-neighborhood
-2285989,"April 23, 2022",Wisconsin,Milwaukee,N 29th St and W St Paul Ave,0,1,https://www.fox6now.com/news/violent-weekend-in-milwaukee-2-killed-6-injured-in-shootings
-2285985,"April 23, 2022",Hawaii,Waimanalo,41-1606 Kalanianaole Hwy,1,0,https://www.staradvertiser.com/2022/04/23/breaking-news/police-investigating-death-of-19-year-old-man-with-apparent-gunshot-wound-in-waimanalo/
-2285981,"April 23, 2022",Oregon,Medford,1600 N Riverside Ave,0,1,https://nbc16.com/newsletter-daily/shots-fired-at-rogue-valley-mall-carnival
-2285384,"April 23, 2022",Indiana,Bloomington,6th St and Lincoln St,0,1,https://fox59.com/news/bloomington-police-investigating-shooting-at-kalao-night-club/
-2285979,"April 23, 2022",Washington,Seattle,1st Ave S and S Brandon St,0,1,https://komonews.com/news/local/man-shot-in-georgetown-police-searching-for-suspect
-2285389,"April 23, 2022",Montana,Billings,4910 Southgate Dr,1,0,https://billingsgazette.com/news/local/billings-man-killed-in-shooting-in-bar-parking-lot/article_6c253da2-775d-5ea5-80e4-b5e1bdc329ec.html#tracking-source=home-top-story
-2285967,"April 23, 2022",Arizona,Phoenix,S 51st Ave and W Baseline Rd,0,2,https://www.azfamily.com/2022/04/24/man-woman-shot-laveen-village/
