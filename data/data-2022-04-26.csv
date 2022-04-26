@@ -1,4 +1,11 @@
 id,date,state,county,addr,death,injured,link
+2288008,"April 26, 2022",Maryland,Baltimore,500 block of N Highland Ave,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-monday-april-26-homicide-20220426-kkdrszrsrbfepg2rw2xt4nyv3e-story.html
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2287995,"April 26, 2022",Maryland,Westover,US-13 and Perry Rd,1,0,https://www.wmdt.com/2022/04/one-dead-following-deputy-involved-shooting/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287951,"April 26, 2022",District of Columbia,Washington,4400 block of E St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
 2287784,"April 25, 2022",Virginia,Norfolk,500 block of Tidewater Dr,0,1,https://www.wavy.com/news/local-news/norfolk/shooting-on-tidewater-drive-in-norfolk/
 2287674,"April 25, 2022",Louisiana,New Orleans,1200 block of Casa Calvo St,0,1,https://wgno.com/news/local/nopd-investigates-shooting-in-algiers-monday-evening/
 2287758,"April 25, 2022",Ohio,Toledo,400 block of Havre St,1,0,https://www.wtol.com/article/news/crime/south-toledo-shooting-havre-street/512-3638dc25-0b74-4b93-8c59-6b622aa3d59b
@@ -17,7 +24,6 @@ id,date,state,county,addr,death,injured,link
 2287500,"April 25, 2022",Virginia,Norfolk,1700 block of Cypress Aves,0,2,https://www.13newsnow.com/article/news/crime/norfolk-police-investigate-shooting-cypress-street/291-b470646f-c4b3-434f-8e2e-c933e62d9719
 2287572,"April 25, 2022",California,San Jose,5200 block of Snow Dr,0,1,https://www.eastbaytimes.com/2022/04/25/san-jose-17-year-old-girl-injured-in-shooting/
 2287570,"April 25, 2022",Alabama,Birmingham,8300 block of 4th Ave S,0,1,https://www.al.com/news/birmingham/2022/04/gunshot-victim-wrecks-in-yard-of-east-birmingham-home.html
-2287559,"April 25, 2022",Michigan,Kalamazoo,306 Phelps Ave,1,0,https://wwmt.com/news/local/local-kalamazoo-rapper-killed-in-shooting-on-the-citys-eastside
 2287534,"April 25, 2022",New York,Corona (Queens),Archer Ave and Parsons Blvd,1,0,https://abc7ny.com/shooting-argument-violent-gun-violence/11789880/
 2287464,"April 25, 2022",Mississippi,Brandon,I-20,1,0,https://www.wapt.com/article/rankin-county-interstate-20-shots-fired/39813713
 2287258,"April 25, 2022",Indiana,Indianapolis,115 S High School Rd,0,1,https://www.wishtv.com/news/crime-watch-8/impd-looking-for-3-suspects-after-shooting-during-cellphone-sale/
@@ -33,7 +39,6 @@ id,date,state,county,addr,death,injured,link
 2287421,"April 25, 2022",Colorado,Colorado Springs,S Murray Blvd and Airport Rd,0,1,https://web2.coloradosprings.gov/policeblotter/
 2287408,"April 25, 2022",Colorado,Denver,700 block of Elbert St,1,0,https://denver.cbslocal.com/2022/04/25/adams-county-elbert-street-deadly-shooting/
 2287400,"April 25, 2022",Maryland,Baltimore,4200 block of Audrey Ave,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/355276299961290
-2287396,"April 25, 2022",Texas,Amarillo,1200 block of N Hill St,1,0,https://news4sanantonio.com/news/local/man-shot-and-killed-after-pulling-gun-on-officer-amarillo-police-say
 2287384,"April 25, 2022",Iowa,Cedar Rapids,12th Ave SW and Auburn Dr SW,1,0,https://www.thegazette.com/crime-courts/cedar-rapids-man-found-dead-after-shooting/
 2287382,"April 25, 2022",Texas,San Antonio,500 block of G St,0,1,https://www.ksat.com/news/local/2022/04/25/police-searching-for-clues-about-person-who-shot-into-east-side-home-wounding-man/
 2287380,"April 25, 2022",New Mexico,Albuquerque,N/A,1,0,https://www.kob.com/albuquerque-news/albuquerque-police-investigate-overnight-homicide/6454883/?cat=500
@@ -51,11 +56,34 @@ id,date,state,county,addr,death,injured,link
 2287220,"April 25, 2022",Texas,Corpus Christi,Airline Rd and Williams Dr,0,1,https://www.kristv.com/news/local-news/corpus-christi-police-investigating-after-15-year-old-is-shot
 2287171,"April 25, 2022",Pennsylvania,Philadelphia,2800 block of Mutter St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
 2287133,"April 25, 2022",Illinois,Chicago,4900 block of W Walton St,1,0,https://chicago.suntimes.com/crime/2022/4/25/23041434/man-killed-in-austin-drive-by-shooting
+2288046,"April 25, 2022",Oklahoma,Spencer,Spencer Rd and NE 36th St,0,1,https://okcfox.com/news/local/pedestrian-shot-in-spencer-police-investigating
+2287400,"April 25, 2022",Maryland,Baltimore,4200 block of Audrey Ave,0,1,https://foxbaltimore.com/news/local/one-dead-three-wounded-in-separate-shootings-across-baltimore-city-police-say
+2288026,"April 25, 2022",Texas,Denton,1100 block of East Sherman Dr,1,0,https://www.dallasnews.com/news/crime/2022/04/26/man-found-fatally-shot-inside-vehicle-in-denton-police-say/
+2288022,"April 25, 2022",Maryland,Baltimore,2900 block of Brighton St,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-monday-shooting-20220426-adeaxyyw25hx7mmytb3k44dmoy-story.html
+2288020,"April 25, 2022",Florida,Margate,3300 block of Banks Rd,0,1,https://www.local10.com/news/local/2022/04/26/police-1-person-hospitalized-after-shooting-in-margate/
+2288018,"April 25, 2022",Maryland,Baltimore,500 block of Brice St,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-monday-shooting-20220426-adeaxyyw25hx7mmytb3k44dmoy-story.html
+2287992,"April 25, 2022",Florida,Miami (North Miami),13226 W Dixie Hwy,0,1,https://www.local10.com/news/local/2022/04/26/man-airlifted-to-hospital-after-shooting-in-north-miami/
+2288012,"April 25, 2022",Missouri,Saint Louis,5800 block of Wells Ave,0,2,https://www.stltoday.com/news/local/crime-and-courts/16-year-old-boy-injured-in-double-shooting-in-hamilton-heights/article_fc4ec704-e5cd-562f-8736-deb5e92280c5.html
+2287999,"April 25, 2022",Kansas,Wichita,4500 block of S Meadowview Ave,0,1,https://www.kwch.com/2022/04/26/man-critically-injured-shooting-south-wichita/
 2287054,"April 25, 2022",South Carolina,Easley,Riley Rd,1,0,https://www.wyff4.com/article/anderson-county-homicide-riley-road/39813326
 2287051,"April 25, 2022",Pennsylvania,Philadelphia,N 5th St and Spencer St,1,0,https://philadelphia.cbslocal.com/2022/04/25/man-found-shot-dead-in-olney-5th-spencer-streets/
+2287983,"April 25, 2022",District of Columbia,Washington,5001 block of 10th St NE,0,1,https://twitter.com/RealTimeNews10/status/1518799598319460354
+2287396,"April 25, 2022",Texas,Amarillo,1200 block of N Hill St,1,0,https://ktxs.com/news/local/man-shot-and-killed-after-pulling-gun-on-officer-amarillo-police-say
+2287935,"April 25, 2022",District of Columbia,Washington,4900 block of S Dakota Ave NE,1,0,https://twitter.com/alanhenney/status/1518810724595912706
+2287974,"April 25, 2022",Florida,Lady Lake,US-441 and Water Oak Blvd,0,2,https://www.dailycommercial.com/story/news/crime/2022/04/25/lake-county-florida-deputy-shoots-and-injures-two-during-pursuit/7446879001/
+2287968,"April 25, 2022",Maryland,Hyattsville,7000 Adelphi Rd,0,0,https://twitter.com/HyattsvillePD/status/1518695708337094656
+2287944,"April 25, 2022",Pennsylvania,Springdale,1004 Pittsburgh St,2,0,https://www.wpxi.com/news/local/homicide-detectives-called-scene-springdale/6GRWTHJTKJHHZKFXOHIMLQZIAU/
+2287959,"April 25, 2022",Florida,Lake City,US-41 and Moore Rd,0,1,https://www.wcjb.com/2022/04/25/columbia-county-sheriffs-deputies-searching-drive-by-shooting-gunman-who-put-26-year-old-critical-condition/
+2287953,"April 25, 2022",Florida,Cross City,NE 220th Ave and NE 106th St,0,2,https://www.wcjb.com/2022/04/26/neighbors-are-reacting-drive-by-shooting-dixie-county-that-sent-two-people-hospital/
+2287941,"April 25, 2022",District of Columbia,Washington,2300 block of Mount View Pl,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2287927,"April 25, 2022",Pennsylvania,Philadelphia,5300 block of Newhall St,0,1,https://www.fox29.com/news/man-in-critical-condition-after-being-shot-in-germantown-police-say
 2286989,"April 25, 2022",Ohio,Toledo,2100 block of N Michigan Ave,1,0,https://www.toledoblade.com/local/police-fire/2022/04/25/toledo-man-jessus-lopez-killed-in-apparent-north-toledo-burglary/stories/20220425111
+2287929,"April 25, 2022",Pennsylvania,Philadelphia,2200 block of North Uber St,0,1,https://philadelphia.cbslocal.com/2022/04/25/suspect-17-girl-critical-shooting-north-philly-police/
+2287923,"April 25, 2022",Pennsylvania,Kennett Square,Federal Walk,3,0,https://philadelphia.cbslocal.com/2022/04/26/child-parents-double-murder-suicide-investigation/
 2286956,"April 25, 2022",Florida,Miami,12200 block of SW 219th St,1,0,https://www.local10.com/news/local/2022/04/25/shooting-victim-dies-after-arriving-to-hospital-miami-dade-police-say/
 2286909,"April 25, 2022",Ohio,Columbus,100 block of Whitethorn Ave,1,1,https://www.nbc4i.com/news/local-news/columbus/hilltop-shooting-leaves-1-person-dead-another-injured/
+2287914,"April 25, 2022",Ohio,Akron,1600 block of Hampton Ave,0,0,https://www.cleveland19.com/2022/04/26/akron-homeowner-catches-burglar-room-holds-gunpoint-until-police-arrive/
+2287912,"April 25, 2022",Ohio,Columbus,Fairwood Ave and E Livingston Ave,0,1,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
 2286859,"April 25, 2022",Illinois,Chicago,628 N McClurg Ct,0,1,https://home.chicagopolice.org/media_incident/628-n-mcclurg-court-on-april-25-2022-at-approx-100-am-14th-district/
 2286810,"April 25, 2022",Pennsylvania,Philadelphia,G St and E Allegheny Ave,0,1,https://philadelphia.cbslocal.com/2022/04/25/kensington-shooting-possibly-drug-related-g-street-allegheny-avenue/
 2286817,"April 25, 2022",Pennsylvania,Philadelphia,500 block of Rosalie St,0,2,https://philadelphia.cbslocal.com/2022/04/25/lawncrest-double-shooting-rosalie-street/
@@ -71,13 +99,6 @@ id,date,state,county,addr,death,injured,link
 2287744,"April 24, 2022",Louisiana,Bastrop,900 block Huey St,0,2,https://www.ksla.com/2022/04/25/double-shooting-bastrop-sends-2-hospital/
 2287729,"April 24, 2022",California,San Francisco,Ellis St and Hyde St,0,1,https://www.kron4.com/news/bay-area/multiple-shootings-over-the-weekend-in-sf/
 2287725,"April 24, 2022",California,San Francisco,600 block of Geary St,0,1,https://www.kron4.com/news/bay-area/multiple-shootings-over-the-weekend-in-sf/
-2287721,"April 24, 2022",Ohio,Columbus,Parsons Ave and Southwood Ave,0,1,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
-2287708,"April 24, 2022",California,Novato,7600 Redwood Blvd,0,1,https://www.kron4.com/news/bay-area/novato-police-searching-for-3-involved-in-shooting/
-2286755,"April 24, 2022",New York,Elmira,200 block of W Hudson St,0,1,https://www.weny.com/story/46354196/elmira-police-investigating-sunday-morning-shooting
-2286748,"April 24, 2022",Louisiana,Baton Rouge,2600 block of Stearns St,0,2,https://www.theadvocate.com/baton_rouge/news/article_3ef6f9c8-c40f-11ec-bf4d-4b51bae8adc1.html
-2286746,"April 24, 2022",New York,Syracuse,700 block of Bellevue Ave,0,1,https://www.syracuse.com/crime/2022/04/man-shot-in-buttocks-in-syracuses-skunk-city-police-say.html
-2286183,"April 24, 2022",Louisiana,Labadieville,LA-398,1,0,https://www.theadvocate.com/baton_rouge/news/article_b98192b2-c41d-11ec-8c6d-0bb6f35b44bb.html
-2287683,"April 24, 2022",California,Pittsburg,Kirker Pass Rd and Castlewood Dr,0,1,https://www.nbcbayarea.com/news/local/shooting-injures-man-on-major-roadway-in-pittsburg-police/2873082/
 2286614,"April 24, 2022",Michigan,Inkster,Hazelwood St and Middlebelt Rd,0,2,https://twitter.com/mspmetrodet/status/1518393038468534272
 2286739,"April 24, 2022",Michigan,Detroit,N/A,0,2,https://www.facebook.com/TheDetroitScanner/posts/5471718069518870
 2286733,"April 24, 2022",Louisiana,Baton Rouge,10600 block of Browning Dr,0,1,https://www.theadvocate.com/baton_rouge/news/article_737e83f8-c416-11ec-b8e7-577fd461c4a1.html
@@ -128,6 +149,12 @@ id,date,state,county,addr,death,injured,link
 2287296,"April 24, 2022",New York,Syracuse,E Adams St and Weiser Ct,0,1,https://www.syracuse.com/crime/2022/04/25-year-old-man-shot-in-leg-in-syracuse-police-say.html
 2287298,"April 24, 2022",Texas,Houston,7324 Southwest Fwy,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-7324-southwest-freeway/
 2287291,"April 24, 2022",Wisconsin,Milwaukee,5800 block of W Silver Spring Dr,0,1,https://atlasone.app/a/alerts/210738ae-7d14-447d-9c6f-9fca5deb922c
+2287313,"April 24, 2022",Wisconsin,Milwaukee,4700 block of W Center St,0,1,https://atlasone.app/a/alerts/828fc80d-481c-4ad2-ab62-91fa5ec0d942
+2287306,"April 24, 2022",Wisconsin,Milwaukee,3000 block of N 27th St,0,1,https://atlasone.app/a/alerts/c0782ef6-2a02-480d-955b-bedfe63cc276
+2286429,"April 24, 2022",Missouri,Florissant,15875 New Halls Ferry Rd,1,0,https://www.ksdk.com/article/news/crime/fatal-shooting-outside-hazelwood-central-high-school-florissant/63-f2c1a3ad-663e-4606-a350-7bd92553e48a
+2287296,"April 24, 2022",New York,Syracuse,E Adams St and Weiser Ct,0,1,https://www.syracuse.com/crime/2022/04/25-year-old-man-shot-in-leg-in-syracuse-police-say.html
+2287298,"April 24, 2022",Texas,Houston,7324 Southwest Fwy,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-7324-southwest-freeway/
+2287291,"April 24, 2022",Wisconsin,Milwaukee,5800 block of W Silver Spring Dr,0,1,https://atlasone.app/a/alerts/210738ae-7d14-447d-9c6f-9fca5deb922c
 2286413,"April 24, 2022",Texas,Waco,1400 La Salle Ave,0,2,https://www.kwtx.com/2022/04/24/two-injured-early-morning-shooting-local-food-truck/
 2286400,"April 24, 2022",Texas,Waco,4601 Hodde Dr,0,1,https://www.kwtx.com/2022/04/24/one-person-critical-condition-following-early-morning-shooting/
 2287272,"April 24, 2022",Texas,Harlingen,1000 block of E Pierce St,0,3,https://www.valleycentral.com/news/local-news/man-wanted-for-harlingen-shooting-that-left-two-hospitalized/
@@ -150,11 +177,13 @@ id,date,state,county,addr,death,injured,link
 2286257,"April 24, 2022",Nebraska,Omaha,N 25th St and Taylor St,0,2,https://www.wowt.com/2022/04/24/two-women-injured-overnight-omaha-shooting/
 2286012,"April 24, 2022",Texas,Houston,13711 Westheimer Rd,1,0,https://abc13.com/man-killed-security-guard-042-lounge-b013700-block-of-westheimer/11785521/
 2287135,"April 24, 2022",Pennsylvania,Philadelphia,1300 block of W Clearfield St,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288041,"April 24, 2022",Texas,Fort Worth,4200 block of Keeter Dr,0,1,https://www.dallasnews.com/news/crime/2022/04/25/north-richland-hills-police-shoot-man-after-family-disturbance/
 2286231,"April 24, 2022",Pennsylvania,Clairton,400 block of Saint Clair Ave,0,1,https://triblive.com/local/woman-hurt-in-clairton-shooting/
 2287125,"April 24, 2022",New York,Buffalo,Erie St and Marine Dr,1,1,https://www.wkbw.com/news/local-news/two-people-shot-near-canalside-in-buffalo
 2286869,"April 24, 2022",Illinois,Chicago,6026 N Winthrop Ave,0,2,https://twitter.com/SPOTNEWSonIG/status/1518457927870394368
 2286200,"April 24, 2022",Maryland,District Heights,6100 block of Marlboro Pike,0,1,https://twitter.com/alanhenney/status/1518115717173948417
 2286217,"April 24, 2022",Texas,Fort Worth,3800 block of Altamesa Blvd,1,0,https://www.star-telegram.com/news/local/crime/article260715757.html
+2287398,"April 24, 2022",Maryland,Rosedale,6000 block of Marquette Rd,0,1,https://www.baltimoresun.com/news/crime/bs-md-cr-baltimore-county-shooting-20220424-2t5ccqk7kve4fmmaabarfd2yeq-story.html
 2286207,"April 24, 2022",Pennsylvania,Philadelphia,Brinton St and Johnson St,0,1,https://6abc.com/east-mt-airy-shooting-man-shot-in-mt-philadelphia-gun-violence-april-24/11785415/
 2286707,"April 24, 2022",Illinois,Chicago,5611 W Madison St,0,2,https://twitter.com/SPOTNEWSonIG/status/1518400486755520513
 2286511,"April 24, 2022",Illinois,Chicago,1302 E 71st St,1,0,https://twitter.com/SPOTNEWSonIG/status/1518318054370955269
@@ -170,12 +199,7 @@ id,date,state,county,addr,death,injured,link
 2287043,"April 24, 2022",Georgia,Atlanta,2479 Abner Ter NW,0,1,https://www.atlantapd.org/Home/Components/News/News/2536/71
 2287032,"April 24, 2022",Pennsylvania,Lewistown,Partcheytown Rd,0,1,https://www.lewistownsentinel.com/news/local-news/2022/04/police-man-arrested-after-accidental-shooting/
 2286143,"April 24, 2022",Illinois,Chicago,1400 block of N Talman Ave,0,1,https://home.chicagopolice.org/media_incident/1400-block-of-n-talman-on-april-24-2022-at-approx-130-am-14th-district/
-2287029,"April 24, 2022",Georgia,Savannah,S Robinhood Dr and Nottingham Dr,0,1,https://www.wsav.com/crime-safety/1-injured-in-sunday-night-shooting-in-chatham-county/
-2286061,"April 24, 2022",Indiana,Lafayette,2905 Westchester Ln W,2,4,https://www.jconline.com/story/news/crime/2022/04/24/2-dead-4-wounded-overnight-shooting-citys-southwest-side/7431939001/
-2286404,"April 24, 2022",Georgia,Savannah,Congress St and Barnard St,0,1,https://www.wsav.com/crime-safety/3-injured-in-2-separate-downtown-savannah-shootings/
-2286406,"April 24, 2022",Georgia,Savannah,502 W Bay St,1,1,https://www.wsav.com/crime-safety/3-injured-in-2-separate-downtown-savannah-shootings/
-2286132,"April 24, 2022",Illinois,Chicago,10400 block of S Calumet Ave,0,1,https://home.chicagopolice.org/media_incident/10400-block-of-s-calumet-on-april-24-2022-at-approx-148-am-5th-district/
-2287013,"April 24, 2022",Georgia,South Fulton,4255 Will Lee Rd,1,0,https://www.cbs46.com/2022/04/24/police-investigate-deadly-park-shooting-south-fulton/
+2287937,"April 24, 2022",Florida,Cape Coral,NE 15th Ave,0,1,https://nbc-2.com/news/crime/2022/04/25/at-least-one-person-shot-in-cape-coral-neighborhood-sunday/
 2286128,"April 24, 2022",Illinois,Chicago,6700 block of S Winchester Ave,0,2,https://home.chicagopolice.org/media_incident/6700-block-of-s-winchester-on-april-24-2022-at-approx-1226-am-7th-district/
 2286118,"April 24, 2022",Illinois,Chicago,220 N Homan Ave,0,2,https://home.chicagopolice.org/media_incident/220-n-homan-on-april-24-2022-at-approx-1209-am-11th-district/
 2287003,"April 24, 2022",Ohio,Toledo,1100 block of Woodstock Ave,0,2,https://www.toledoblade.com/local/police-fire/2022/04/24/two-wounded-in-toledo-shooting/stories/20220424157
@@ -189,13 +213,20 @@ id,date,state,county,addr,death,injured,link
 2286946,"April 24, 2022",Florida,Miami,SW 107th Ave and SW 170th St,1,0,https://wsvn.com/news/local/miami-dade/man-dead-after-argument-in-sw-miami-dade-neighborhood-leads-to-shooting-1-detained/
 2286922,"April 24, 2022",Alabama,Huntsville,2900 block of Wilson Dr,0,1,https://whnt.com/news/huntsville/huntsville-police-say-weekend-shooting-was-the-result-of-a-fight/
 2286924,"April 24, 2022",Florida,Hastings,N/A,0,3,https://www.news4jax.com/news/local/2022/04/24/st-johns-county-sheriffs-office-investigating-triple-shooting-in-hastings/
-2286873,"April 24, 2022",Florida,Jacksonville Beach,300 2nd St N,0,2,https://www.news4jax.com/news/local/2022/04/25/2-injured-after-shooting-at-brix-taphouse-in-jacksonville-beach-police-say/
 2286885,"April 24, 2022",Alabama,Montgomery,100 block of Oak Forest Dr,1,0,https://www.montgomeryadvertiser.com/story/news/crime/2022/04/25/montgomery-police-conducting-death-investigation/7433662001/
 2286697,"April 24, 2022",Indiana,Indianapolis,1706 Countryside Dr,3,0,https://www.indystar.com/story/news/crime/2022/04/24/indianapolis-crime-police-find-three-people-dead-after-armed-standoff/7435327001/
 2286864,"April 24, 2022",Ohio,Cincinnati (Cheviot),1700 block of Fairmont Ave,0,1,https://www.fox19.com/2022/04/18/man-charged-with-attempted-murder-after-cheviot-shooting/
-2286861,"April 24, 2022",Florida,Fort Myers,3023 Franklin St,1,0,https://www.fox4now.com/news/local-news/one-dead-in-fort-myers-shooting
 2286857,"April 24, 2022",Florida,Delray Beach,Flanders Dr,0,1,https://cbs12.com/news/local/shooting-delray-beach-flanders-drive-kings-point
 2286040,"April 24, 2022",Texas,Austin,N Lamar Blvd and W Rundberg Ln,0,1,https://www.kxan.com/news/local/austin/apd-3-shootings-reported-overnight-in-austin/
+2287910,"April 24, 2022",Alaska,Anchorage,721 W Ave,0,1,https://www.alaskasnewssource.com/2022/04/25/apd-man-taken-hospital-after-sunday-morning-shooting-anchorage/
+2286827,"April 24, 2022",Illinois,Chicago,I-290 and S Keeler Ave,0,1,https://chicago.suntimes.com/crime/2022/4/24/23040329/man-hospitalized-after-shooting-on-eisenhower-expressway
+2286821,"April 24, 2022",Washington,Bellingham,800 block of Viking Cir,0,1,https://whatcom-news.com/shots-fired-at-bellingham-apartment-building-2-reported-injured_199835/
+2286015,"April 24, 2022",Texas,Houston,1400 block of Redford St,0,1,https://twitter.com/houstonpolice/status/1518156860909568000?cxt=HHwWgICy_eLnyZEqAAAA
+2286801,"April 24, 2022",Oregon,Portland,SE 9th Ave and Ash St,1,0,https://katu.com/news/local/homicide-southeast-portland-shooting-se-9th-avenue-ash-street-april-24-2022
+2286009,"April 24, 2022",Alabama,Birmingham,N/A,0,2,https://www.wbrc.com/2022/04/24/overnight-shooting-2-females-injured/
+2286857,"April 24, 2022",Florida,Delray Beach,Flanders Dr,0,1,https://cbs12.com/news/local/shooting-delray-beach-flanders-drive-kings-point
+2286040,"April 24, 2022",Texas,Austin,N Lamar Blvd and W Rundberg Ln,0,1,https://www.kxan.com/news/local/austin/apd-3-shootings-reported-overnight-in-austin/
+2287910,"April 24, 2022",Alaska,Anchorage,721 W Ave,0,1,https://www.alaskasnewssource.com/2022/04/25/apd-man-taken-hospital-after-sunday-morning-shooting-anchorage/
 2286827,"April 24, 2022",Illinois,Chicago,I-290 and S Keeler Ave,0,1,https://chicago.suntimes.com/crime/2022/4/24/23040329/man-hospitalized-after-shooting-on-eisenhower-expressway
 2286821,"April 24, 2022",Washington,Bellingham,800 block of Viking Cir,0,1,https://whatcom-news.com/shots-fired-at-bellingham-apartment-building-2-reported-injured_199835/
 2286015,"April 24, 2022",Texas,Houston,1400 block of Redford St,0,1,https://twitter.com/houstonpolice/status/1518156860909568000?cxt=HHwWgICy_eLnyZEqAAAA
@@ -302,43 +333,11 @@ id,date,state,county,addr,death,injured,link
 2286368,"April 23, 2022",California,Santa Maria,Main St and Hanson Way,1,0,https://keyt.com/news/santa-maria-north-county/2022/04/24/61-year-old-man-found-dead-with-gunshot-wounds-third-santa-maria-homicide-in-2022/
 2286003,"April 23, 2022",Wisconsin,Milwaukee,7909 W Medford Ave,0,1,https://www.wisn.com/article/police-investigating-2-homicides-in-milwaukee/39805218
 2285494,"April 23, 2022",Georgia,Atlanta,3179 Peachtree Rd,0,1,https://www.11alive.com/article/news/crime/buckhead-bars-red-martini-moondogs-hole-in-the-wall-argument-outside-shooting/85-0426ac45-010a-46e8-b1fa-788c498be7d9
-2286326,"April 23, 2022",Colorado,Denver,2205 19th St,1,0,https://www.thedenverchannel.com/news/crime/1-dead-in-shooting-near-downtown-denver-skate-park
 2286233,"April 23, 2022",California,Los Angeles (East Los Angeles),S Indiana St and Dennison St,1,0,https://mynewsla.com/crime/2022/04/24/man-fatally-wounded-in-east-los-angeles-2/
 2285860,"April 23, 2022",Georgia,Atlanta,135 Andrew Young International Blvd NW,0,5,https://www.wsbtv.com/news/local/atlanta/police-searching-shooters-near-centennial-park-downtown-atlanta/V4TIC3W7LNHDJPKXC3EQIWRTFU/
 2286209,"April 23, 2022",District of Columbia,Washington,3200 block of 23rd St SE,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46616
-2285589,"April 23, 2022",District of Columbia,Washington,800 block of Crittenden St NW,1,1,https://www.fox5dc.com/news/northwest-dc-officer-involved-shooting-woman-in-special-officer-uniform-killed-another-person-hurt
 2286220,"April 23, 2022",Maryland,Upper Marlboro,8800 block of Heathermore Blvd,0,1,https://twitter.com/alanhenney/status/1518039930617970688
 2286205,"April 23, 2022",District of Columbia,Washington,2900 block of 7th St NE,0,1,https://twitter.com/alanhenney/status/1518074869925171200
 2286268,"April 23, 2022",Oklahoma,Oklahoma City,SW 59th St and S Western Ave,0,1,https://www.news9.com/story/62648bbb95571311a8fb6cf9/victim-shot-multiple-times-in-sw-okc-no-word-on-suspect
 2286260,"April 23, 2022",Pennsylvania,Pittsburgh,2100 block of Wylie Ave,0,1,https://triblive.com/local/woman-hurt-in-clairton-shooting/
 2286252,"April 23, 2022",Florida,Tampa,8320 W Hillsborough Ave,1,0,https://www.wfla.com/news/hillsborough-county/man-ambushed-at-town-n-country-shopping-center-deputies-say/
-2285521,"April 23, 2022",Texas,Houston,3525 S Sam Houston Pkwy E,1,0,https://abc13.com/woman-shot-apartments-charged-manslaughter/11785877/
-2286115,"April 23, 2022",Maryland,Crofton,1451 Capitol Raceway Rd,0,2,https://twitter.com/RealTimeNews10/status/1518037405093318658
-2286211,"April 23, 2022",Maryland,Dundalk,1800 block of Walnut Ave,0,1,https://twitter.com/BaltMetroNews/status/1518038369342828546
-2286203,"April 23, 2022",Indiana,Indianapolis,N/A,0,1,https://www.wishtv.com/news/local-news/6-people-shot-2-killed-in-sunday-morning-violence/
-2285472,"April 23, 2022",Florida,Orlando,S Westmoreland Dr,0,1,https://www.clickorlando.com/news/local/2022/04/23/orlando-police-investigate-shooting-near-headquarters/
-2286028,"April 23, 2022",Illinois,Chicago,116 W Hubbard St,0,1,https://twitter.com/SPOTNEWSonIG/status/1518058807854870529
-2285640,"April 23, 2022",South Carolina,Dillon,2300 Block of Kentyre Rd,1,0,https://www.wmbfnews.com/2022/04/25/dillon-county-coroner-names-victim-deadly-nightclub-shooting/
-2286185,"April 23, 2022",Indiana,Indianapolis,N Emerson Ave and 38th St,0,2,https://www.wishtv.com/news/local-news/6-people-shot-2-killed-in-sunday-morning-violence/
-2286178,"April 23, 2022",Florida,Jacksonville,Beach Blvd,0,1,https://www.news4jax.com/news/local/2022/04/23/shooter-fires-into-car-on-beach-boulevard-in-broad-daylight-police-say/
-2287056,"April 23, 2022",Nevada,Las Vegas,955 E Twain Ave,1,1,https://www.8newsnow.com/news/police-investigate-homicide-in-southcentral-las-vegas/
-2286165,"April 23, 2022",Delaware,Wilmington,800 block of E 26th St,0,1,https://www.wdel.com/news/saturday-shooting-in-wilmington-hospitalizes-woman/article_60d626da-c3c5-11ec-a58e-037ffa0313fe.html
-2286431,"April 23, 2022",Georgia,Statesboro,66 Packinghouse Rd E,1,0,https://www.wsav.com/crime-safety/statesboro-apartment-shooting-leaves-1-dead/
-2287010,"April 23, 2022",Ohio,Warren,Martin St SW,0,1,https://www.wkbn.com/news/local-news/juvenile-shot-overnight-in-warren/
-2286108,"April 23, 2022",Illinois,Chicago,800 block of W 31st St,0,2,https://home.chicagopolice.org/media_incident/800-block-of-w-31st-st-on-april-23-2022-at-approx-1006-pm-9th-district/
-2286085,"April 23, 2022",Illinois,Chicago,800 block of N Trumbull Ave,0,1,https://home.chicagopolice.org/media_incident/800-block-of-n-trumbull-on-april-23-2022-at-approx-1000-pm-11th-district/
-2286080,"April 23, 2022",Maryland,Baltimore,900 block of Ensor St,0,1,https://www.facebook.com/BaltimoreCityPolice/posts/354064356749151
-2286078,"April 23, 2022",Maryland,Baltimore,1300 block of Pontiac St,1,0,https://www.facebook.com/BaltimoreCityPolice/posts/354064356749151
-2286949,"April 23, 2022",Indiana,Indianapolis,N/A,0,1,https://www.indystar.com/story/news/crime/2022/04/23/indianapolis-crime-shooting-3-injured-north-side/7428439001/
-2285949,"April 23, 2022",Alabama,Mobile,651 Azalea Rd,2,0,https://www.wkrg.com/news/mobile-apartment-complex-shooting-kills-a-17-year-old-and-21-year-old/
-2285711,"April 23, 2022",New York,Bronx,702 Clay Ave,1,2,https://www.cbsnews.com/newyork/news/police-release-new-video-of-deadly-shooting-outside-bronx-deli/
-2286907,"April 23, 2022",Florida,Jacksonville,Phillips Hwy,1,0,https://www.firstcoastnews.com/article/news/local/father-killed-in-nightclub-shooting-in-jacksonville/77-2aef7399-5b96-4cf1-a720-e6e86cc71d4f
-2285430,"April 23, 2022",Illinois,Chicago,1900 block of S Loomis St,0,1,https://home.chicagopolice.org/media_incident/1900-block-of-s-loomis-on-april-23-2022-at-approx-413-am-6th-district/
-2285936,"April 23, 2022",Ohio,Columbus,1380 Atcheson St,1,1,https://abc6onyourside.com/news/local/columbus-saunders-park-shooting-nafzger-4-23-2022
-2285428,"April 23, 2022",Illinois,Chicago,5700 block of S Artesian Ave,0,1,https://home.chicagopolice.org/media_incident/5700-block-of-s-artesian-on-april-23-2022-at-approx-1200-am-8th-district/
-2286053,"April 23, 2022",Illinois,Chicago,6200 block of S Francisco Ave,1,0,https://chicago.suntimes.com/crime/2022/4/24/23039407/man-fatally-shot-chicago-lawn-person-of-interest-custody
-2286037,"April 23, 2022",Texas,Austin,507 E Wonsley Dr,0,1,https://www.kxan.com/news/local/austin/apd-3-shootings-reported-overnight-in-austin/
-2285417,"April 23, 2022",Illinois,Chicago,6400 block of S King Dr,0,1,https://www.fox32chicago.com/news/woman-shot-while-inside-vehicle-in-parkway-gardens
-2285560,"April 23, 2022",Illinois,Chicago,4700 block of S Cottage Grove Ave,1,0,https://chicago.suntimes.com/crime/2022/4/23/23038863/man-fatally-shot-after-fight-bronzeville
-2285772,"April 23, 2022",Illinois,Chicago,2000 block of W 51st St,2,2,https://www.cbsnews.com/chicago/news/4-in-critical-condition-following-back-of-the-yards-shooting/
-2285398,"April 23, 2022",Oregon,Portland,SE 136th Ave and SE Powell Blvd,1,0,https://katu.com/news/local/police-identify-man-shot-killed-in-se-portlands-powellhurst-gilbert-neighborhood
