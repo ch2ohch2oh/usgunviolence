@@ -43,6 +43,9 @@ id,date,state,county,addr,death,injured,link
 2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.abc15.com/news/region-southeast-valley/mesa/death-investigation-underway-at-mesa-gas-station-near-gilbert-and-mckellips-roads
 2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
 2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289489,"April 27, 2022",Washington,Seattle,6500 block of 12th Ave NW,0,2,https://spdblotter.seattle.gov/2022/04/28/two-injured-one-arrested-after-wednesday-night-ballard-shooting/
+2289487,"April 27, 2022",Washington,Seattle,Eighth Ave NE and NE Northgate Way,0,1,https://www.kiro7.com/news/local/man-shot-during-north-seattle-carjacking/BC2RVF53RZCIJM4WSOKKZAJBZY/
+2289478,"April 27, 2022",Oklahoma,Sand Springs,N/A,0,1,https://www.krmg.com/news/man-shot-during-attempted-theft-police-say/YGGUMRCBXJHEXIXIJYQLF77WVY/
 2289215,"April 27, 2022",Virginia,Hampton,1067 Big Bethel Rd,0,0,https://www.13newsnow.com/article/news/crime/gun-at-bethel-high-school-hampton-virginia/291-127dade8-1406-4897-b13f-ce8a52ea2a92
 2289461,"April 27, 2022",Florida,Kissimmee,4795 W. Irlo Bronson Memorial Highway,1,1,https://www.clickorlando.com/news/local/2022/04/28/watch-live-osceola-deputies-flood-parking-lot-of-target-near-kissimmee/
 2289449,"April 27, 2022",Kentucky,Louisville,700 block of Louis Coleman Jr Dr,0,1,https://www.wlky.com/article/lmpd-teen-girl-taken-to-hospital-with-graze-wound-after-shooting-in-shawnee-neighborhood/39843190
@@ -228,7 +231,6 @@ id,date,state,county,addr,death,injured,link
 2287220,"April 25, 2022",Texas,Corpus Christi,Airline Rd and Williams Dr,0,1,https://www.kristv.com/news/local-news/corpus-christi-police-investigating-after-15-year-old-is-shot
 2288083,"April 25, 2022",Texas,Fort Worth,5100 block of Winifred Dr,0,2,https://www.star-telegram.com/news/local/crime/article260764117.html
 2287133,"April 25, 2022",Illinois,Chicago,4900 block of W Walton St,1,0,https://chicago.suntimes.com/crime/2022/4/25/23041434/man-killed-in-austin-drive-by-shooting
-2288046,"April 25, 2022",Oklahoma,Spencer,Spencer Rd and NE 36th St,0,1,https://okcfox.com/news/local/pedestrian-shot-in-spencer-police-investigating
 2287400,"April 25, 2022",Maryland,Baltimore,4200 block of Audrey Ave,0,1,https://foxbaltimore.com/news/local/one-dead-three-wounded-in-separate-shootings-across-baltimore-city-police-say
 2288026,"April 25, 2022",Texas,Denton,1100 block of East Sherman Dr,1,0,https://www.dallasnews.com/news/crime/2022/04/26/man-found-fatally-shot-inside-vehicle-in-denton-police-say/
 2288022,"April 25, 2022",Maryland,Baltimore,2900 block of Brighton St,0,1,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-monday-shooting-20220426-adeaxyyw25hx7mmytb3k44dmoy-story.html
@@ -257,7 +259,3 @@ id,date,state,county,addr,death,injured,link
 2286859,"April 25, 2022",Illinois,Chicago,628 N McClurg Ct,0,1,https://home.chicagopolice.org/media_incident/628-n-mcclurg-court-on-april-25-2022-at-approx-100-am-14th-district/
 2286810,"April 25, 2022",Pennsylvania,Philadelphia,G St and E Allegheny Ave,0,1,https://philadelphia.cbslocal.com/2022/04/25/kensington-shooting-possibly-drug-related-g-street-allegheny-avenue/
 2286817,"April 25, 2022",Pennsylvania,Philadelphia,500 block of Rosalie St,0,2,https://philadelphia.cbslocal.com/2022/04/25/lawncrest-double-shooting-rosalie-street/
-2287899,"April 25, 2022",Oregon,Aurora,12334 Ehlen Rd NE,1,1,https://www.kgw.com/article/news/local/aurora-shooting-officer-injured-suspect-dead-flying-j/283-578e3dfe-bc60-4561-a9a9-3efe36959027
-2288262,"April 25, 2022",New York,Brentwood,1126 Suffolk Ave,1,0,https://patch.com/new-york/brentwood-central-islip/man-killed-central-islip-shooting-pd
-2287534,"April 25, 2022",New York,Corona (Queens),Archer Ave and Parsons Blvd,1,0,https://pix11.com/news/local-news/queens/man-critical-after-being-shot-in-queens-subway-station-nypd/
-2288655,"April 25, 2022",Alabama,Tuskegee,2400 block of Rhonda Ave,1,0,https://www.alabamanews.net/2022/04/25/man-shot-and-killed-in-tuskegee/
