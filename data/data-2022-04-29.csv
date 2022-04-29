@@ -39,6 +39,11 @@ id,date,state,county,addr,death,injured,link
 2289553,"April 28, 2022",Indiana,Indianapolis,2966 W Kessler Blvd N Dr,1,1,https://fox59.com/news/indycrime/1-dead-1-hurt-in-shooting-outside-kessler-food-mart/
 2289506,"April 28, 2022",Illinois,Chicago,6300 block of S Laflin St,0,1,https://home.chicagopolice.org/media_incident/6300-block-of-s-laflin-on-april-28-2022-at-approx-613-a-m-7th-district/
 2289499,"April 28, 2022",Illinois,Chicago,1900 block of W Balmoral Ave,0,2,https://home.chicagopolice.org/media_incident/1900-block-of-w-balmoral-on-april-28-2022-approx-130-a-m-20th-dist/
+2290221,"April 28, 2022",Washington,Auburn,31600 block of Military Rd S,0,1,https://www.kiro7.com/news/local/1-injured-domestic-violence-shooting-auburn/4ZOICGPSYBCKHHGO33XOAJKAPA/
+2290219,"April 28, 2022",South Carolina,Greenville,Montis Dr,0,1,https://www.foxcarolina.com/2022/04/29/dispatch-deputies-responding-to-gunshot-victim-greenville-county/
+2290217,"April 28, 2022",South Carolina,Orangeburg,1900 block of Broughton St,1,0,https://www.wistv.com/2022/04/28/orangeburg-officials-investigating-shooting/
+2290208,"April 28, 2022",South Carolina,Charleston,Hitching Post Rd,0,1,https://www.live5news.com/2022/04/28/deputies-investigating-after-woman-shot-west-ashley/
+2290190,"April 28, 2022",Florida,Tallahassee,12000 block of Waterfront Rd,1,0,https://www.tallahassee.com/story/news/2022/04/28/lcso-woman-fires-deputies-fatally-shoots-herself-north-leon-county-tallahassee-police-death/9574110002/
 2290168,"April 28, 2022",Florida,Coconut Creek,4142 Cocoplum Cir,0,1,https://miami.cbslocal.com/2022/04/28/woman-injured-coconut-creek-shooting/
 2290177,"April 28, 2022",Florida,Hallandale (Hallandale Beach),S 22nd Ave and Pembroke Rd,0,2,https://www.local10.com/news/local/2022/04/29/bso-2-people-shot-in-hallandale-beach/
 2290165,"April 28, 2022",Florida,Opa Locka,Ali Baba Ave and NW 27th Ave,0,1,https://www.nbcmiami.com/news/local/man-wounded-in-shooting-in-opa-locka/2748004/
@@ -71,15 +76,12 @@ id,date,state,county,addr,death,injured,link
 2289944,"April 27, 2022",Tennessee,Memphis,3925 Chelsea Ave,0,0,https://wreg.com/news/two-charged-for-carrying-guns-at-local-high-school-police-say/
 2288842,"April 27, 2022",Mississippi,Biloxi,2688 Beach Blvd,5,0,https://www.wxxv25.com/gulfport-police-chief-suspect-who-barricaded-himself-in-store-is-dead3/
 2289118,"April 27, 2022",North Carolina,Lexington,2920 Jersey Church Rd,0,1,https://www.wxii12.com/article/davidson-county-sheriff-15-year-old-boy-shot-chest/39841921
-2289159,"April 27, 2022",North Carolina,Elizabethtown,Moutlrie Ln and Peanut Plant Rd,0,1,https://www.wect.com/2022/04/27/schools-locked-down-response-shooting-bladen-county/
 2289988,"April 27, 2022",New York,Staten Island,Lyman Ave,0,1,https://www.nydailynews.com/new-york/nyc-crime/ny-woman-shot-inside-staten-island-home-20220427-5d3gsst2k5ba5g7t437mrvcnse-story.html
 2289954,"April 27, 2022",New York,Brooklyn,Junius St and Liberty Ave,0,1,https://www.nydailynews.com/new-york/nyc-crime/ny-brooklyn-shooting-man-car-20220428-2ekzbti5p5b55nlpzjkgpsbz4q-story.html
 2289150,"April 27, 2022",New York,Brooklyn,Etna St and Richmond St,0,1,https://twitter.com/NYC_Alerts911/status/1519403048736600065
 2289131,"April 27, 2022",New York,Corona (Queens),54-50 188th St,0,3,https://nypost.com/2022/04/27/14-year-old-shot-when-gunman-opens-fire-in-queens/
 2289116,"April 27, 2022",California,Los Angeles,2100 block of W 108th St,1,0,https://ktla.com/news/local-news/westmont-shooting-leaves-man-dead-lasd/
 2289909,"April 27, 2022",Maryland,Lexington Park,47400 block of Southampton Dr,0,1,https://southernmarylandchronicle.com/2022/04/28/police-investigating-lexington-park-shooting-one-shot/
-2289098,"April 27, 2022",South Carolina,Greenville,Valentine St,0,2,https://www.foxcarolina.com/2022/04/27/deputies-responding-shooting-greenville-co/
-2289077,"April 27, 2022",South Carolina,Murrells Inlet,Wachesaw Rd,1,2,https://wpde.com/news/local/georgetown-county-deputies-investigate-shooting-near-murrells-inlet
 2289114,"April 27, 2022",Illinois,Chicago,6525 W Diversey Ave,1,0,https://chicago.suntimes.com/crime/2022/4/27/23044783/brickyard-mall-target-shooting
 2288940,"April 27, 2022",Ohio,Mansfield,100 block of Stewart Ave,1,0,https://www.cleveland19.com/2022/04/27/1-injured-mansfield-shooting-police-say/
 2289046,"April 27, 2022",Georgia,Decatur,100 block of W Ponce de Leon Ave,0,2,https://www.fox5atlanta.com/news/two-teens-shot-in-accidental-shooting-at-decatur-restaurant
@@ -134,8 +136,13 @@ id,date,state,county,addr,death,injured,link
 2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
 2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
 2289489,"April 27, 2022",Washington,Seattle,6500 block of 12th Ave NW,0,2,https://spdblotter.seattle.gov/2022/04/28/two-injured-one-arrested-after-wednesday-night-ballard-shooting/
+2290224,"April 27, 2022",Oregon,Salem,5500 block of SE Woodside Dr,0,1,https://www.koin.com/news/crime/salem-police-father-shot-his-son-during-dispute/
 2289487,"April 27, 2022",Washington,Seattle,Eighth Ave NE and NE Northgate Way,0,1,https://www.kiro7.com/news/local/man-shot-during-north-seattle-carjacking/BC2RVF53RZCIJM4WSOKKZAJBZY/
+2289077,"April 27, 2022",South Carolina,Murrells Inlet,Wachesaw Rd,1,2,https://abcnews4.com/news/local/man-charged-with-murder-in-murrells-inlet-homicide-assault
+2289098,"April 27, 2022",South Carolina,Greenville,115 Valentine St,0,2,https://www.wnct.com/news/southeast-region/two-teens-shot-at-south-carolina-park/
+2289159,"April 27, 2022",North Carolina,Elizabethtown,Moultrie Ln and Peanut Plant Rd,0,1,https://www.bladenjournal.com/news/42982/shooting-puts-schools-in-lockdown
 2289478,"April 27, 2022",Oklahoma,Sand Springs,N/A,0,1,https://www.krmg.com/news/man-shot-during-attempted-theft-police-say/YGGUMRCBXJHEXIXIJYQLF77WVY/
+2290187,"April 27, 2022",Florida,Delray Beach,W Atlantic Ave and SW 8th Ave,0,1,https://cbs12.com/news/local/drive-by-shooting-in-delray-beach-sends-man-to-hospital
 2289215,"April 27, 2022",Virginia,Hampton,1067 Big Bethel Rd,0,0,https://www.13newsnow.com/article/news/crime/gun-at-bethel-high-school-hampton-virginia/291-127dade8-1406-4897-b13f-ce8a52ea2a92
 2290010,"April 27, 2022",Florida,Miami,5900 block of NW 5th Ct,1,0,https://www.nbcmiami.com/news/local/man-dies-after-shooting-near-miami-edison-senior-high-school/2746875/
 2289449,"April 27, 2022",Kentucky,Louisville,700 block of Louis Coleman Jr Dr,0,1,https://www.wlky.com/article/lmpd-teen-girl-taken-to-hospital-with-graze-wound-after-shooting-in-shawnee-neighborhood/39843190
@@ -169,7 +176,6 @@ id,date,state,county,addr,death,injured,link
 2288522,"April 26, 2022",Colorado,Evans,4350 37th St,1,0,https://kdvr.com/news/local/evans-police-shooting-37th-street/
 2289201,"April 26, 2022",Illinois,Chicago,100 block of N Pulaski Rd,0,1,https://home.chicagopolice.org/media_incident/100-block-of-n-pulaski-on-april-26-2022-approx-905-p-m-11th-dist/
 2289199,"April 26, 2022",Illinois,Chicago,6500 block of S Yale Ave,0,1,https://home.chicagopolice.org/media_incident/6500-block-of-s-yale-on-april-26-2022-approx-951-p-m-7th-dist/
-2289084,"April 26, 2022",South Carolina,Rock Hill,800 Gist Rd,3,1,https://www.wsoctv.com/news/local/three-men-killed-rock-hill-shooting-overnight-police-say/7TKX4ZPK7ZC4RMDX7FZSUFKLUY/
 2289157,"April 26, 2022",New York,Corona (Queens),200-11 Murdock Ave,0,1,https://twitter.com/NYC_Alerts911/status/1519151344661274625
 2289155,"April 26, 2022",New York,Bronx,1932 Crotona Pkwy,0,1,https://twitter.com/NYC_Alerts911/status/1519152435331223553
 2288476,"April 26, 2022",Tennessee,Rockvale,6545 TN-99,0,0,https://www.wsmv.com/2022/04/26/officials-find-shotgun-high-school-parking-lot/
@@ -243,4 +249,1003 @@ id,date,state,county,addr,death,injured,link
 2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
 2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
 2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
-2288367,"April 26, 2022",New York,Bronx,East 143rd St and Willis Ave,0,1,https://nypost.com/2022/04/26/at-least-2-stabbed-1-shot-and-bullets-in-hells-kitchen-overnight-nypd/
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
+2288863,"April 26, 2022",Pennsylvania,Lancaster,S Queen St and E Andrew St,0,1,https://www.wgal.com/article/shooting-occurs-lancaster-city/39830676#
+2288061,"April 26, 2022",Arkansas,Magnolia,Bennett Cir,0,2,http://www.magnoliareporter.com/news_and_business/local_news/article_7245a30e-c565-11ec-b270-5f7babb10247.html
+2289709,"April 26, 2022",Ohio,Piqua,100 N Wayne St,0,3,https://www.wdtn.com/news/local-news/3-piqua-pd-officers-injured-in-accidental-discharge-incident/
+2288822,"April 26, 2022",Pennsylvania,Shippensburg,Britton Rd,0,1,https://www.psp.pa.gov/PIRRs/Carlisle%20Press%20Releases/H_CARL_26APR2022_2300.pdf
+2288484,"April 26, 2022",Wisconsin,Janesville,1345 Plainfield Ave,1,0,https://www.nbc15.com/2022/04/27/jpd-give-update-janesville-business-shooting/
+2289693,"April 26, 2022",New Mexico,Portales,900 block of W 16th St,1,0,https://www.easternnewmexiconews.com/story/2022/04/27/news/man-charged-in-portales-shooting-death/171857.html
+2289685,"April 26, 2022",Texas,San Antonio,1 Haven for Hope Way,0,3,https://news4sanantonio.com/news/local/three-hospitalized-after-shooting-at-haven-for-hope-shelter-near-downtown-investigation-sanantonio-police-texas-handgun-security-guards-gun-shots-detectives-ambulance
+2288808,"April 26, 2022",Pennsylvania,Upper Darby,S Keystone Ave,1,0,https://twitter.com/UDPolice/status/1519020209989996546
+2288805,"April 26, 2022",Florida,Tampa,15501 Bruce B Downs Blvd,1,0,https://www.wfla.com/news/hillsborough-county/person-shot-dead-at-tampa-apartment-complex-police-investigating/
+2288004,"April 26, 2022",Florida,Miami,SW 240th St and SW 187th Ave,0,1,https://www.local10.com/news/local/2022/04/26/group-beats-man-with-object-shoots-him-in-southwest-miami-dade/
+2288002,"April 26, 2022",Texas,Rockdale,500 Childress Dr,0,0,https://www.tdtnews.com/news/central_texas_news/article_f8776e3e-c584-11ec-9050-cf2b6aad6d1a.html
+2289641,"April 26, 2022",Texas,Fort Worth,2700 block of Shenandoah Rd,0,1,https://www.star-telegram.com/news/local/crime/article260801972.html
+2288759,"April 26, 2022",Florida,Fort Lauderdale,3291 W Sunrise Blvd,0,2,https://www.local10.com/news/local/2022/04/27/cellphone-video-shows-moments-after-man-is-shot-inside-swap-shop-in-lauderhill/
+2287981,"April 26, 2022",District of Columbia,Washington,800 block of 19th St NE,0,1,https://twitter.com/AllisonPapson/status/1518992769703895041
+2287949,"April 26, 2022",District of Columbia,Washington,3400 block of 22nd St SE,0,1,https://www.wusa9.com/article/news/crime/four-shootings-in-three-hours-leave-one-dead-in-dc/65-b7137f05-31ec-4ef1-9a36-d2550cf7ef5b
+2289627,"April 26, 2022",Pennsylvania,New Kensington,1300 block of Leishman Ave,0,1,https://www.wpxi.com/news/local/man-shot-multiple-times-new-kensington/TN6ZKTCOQJBYXJJPUGLUTHSIEI/
+2288738,"April 26, 2022",Pennsylvania,Pittsburgh (Penn Hills),McFarland Dr,0,1,https://www.cbsnews.com/pittsburgh/news/police-investigating-shooting-in-penn-hills/
+2289598,"April 26, 2022",Indiana,Goshen,401 Lincolnway E,0,0,https://www.wndu.com/2022/04/27/police-discover-guns-after-routine-traffic-stop-outside-goshen-high-school/
+2289589,"April 26, 2022",Texas,Grand Prairie,1800 block of Galveston St,1,0,https://www.dallasnews.com/news/crime/2022/04/27/man-fatally-shot-in-grand-prairie-police-say/
+2288718,"April 26, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,0,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288716,"April 26, 2022",Pennsylvania,Philadelphia,6300 block of Greenway Ave,0,1,https://6abc.com/southwest-philadelphia-shooting-man-shot-in-chest-greenway-avenue-63rd-street/11795714/
+2288714,"April 26, 2022",Pennsylvania,Philadelphia,60th St and S Delancey St,0,1,https://6abc.com/philadelphia-shooting-cobbs-creek-man-shot-run-over-delancey-street-philly-police/11795177/
+2289537,"April 26, 2022",Texas,Houston,9801 Meadowglen Ln,0,1,https://cw39.com/crime/woman-charged-with-shooting-boyfriend-in-west-houston-apartment/
+2288684,"April 26, 2022",Delaware,Wilmington,2300 block of N Madison St,0,1,https://nixle.us/DKNGD
+2288672,"April 26, 2022",Texas,Beaumont,1400 block of N 7th St,0,2,https://www.12newsnow.com/article/news/crime/beaumont-police-investigating-7th-st-shooting-near-interstate-tuesday/502-a0abf48b-db3f-4a05-ba2d-257a01f65219
