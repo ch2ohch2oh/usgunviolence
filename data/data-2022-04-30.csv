@@ -1,4 +1,5 @@
 id,date,state,county,addr,death,injured,link
+2290892,"April 30, 2022",New Hampshire,Gorham,N Main St,2,0,https://www.necn.com/news/local/man-and-woman-shot-to-death-in-gorham-nh-investigators-say/2727891/
 2290859,"April 29, 2022",District of Columbia,Washington,N/A,0,1,https://twitter.com/Killmoenews1/status/1520227330773458944
 2290855,"April 29, 2022",New Mexico,Albuquerque,5151 Lang Ave NE,0,1,https://www.abqjournal.com/2494387/one-injured-in-shooting-at-abq-cabelas.html
 2290786,"April 29, 2022",North Carolina,Winston Salem (Winston-salem),Carver School Rd,0,1,https://myfox8.com/news/north-carolina/winston-salem/man-shot-multiple-times-in-ws-in-critical-condition/
@@ -50,6 +51,17 @@ id,date,state,county,addr,death,injured,link
 2290251,"April 29, 2022",Indiana,Indianapolis,5700 block of San Paulo Circle,1,0,https://fox59.com/news/impd-investigating-shooting-death-on-citys-northeast-side/
 2290244,"April 29, 2022",Illinois,Chicago,3400 block of W 63rd St,0,1,https://home.chicagopolice.org/media_incident/3400-block-of-w-63rd-st-on-april-29-2022-at-approx-753-a-m-8th-district/
 2290236,"April 29, 2022",Maryland,Baltimore,3600 block of 5th St,1,0,https://www.baltimoresun.com/news/crime/bs-md-ci-cr-shooting-southern-district-homicide-20220429-rdqtrbwu6vhhtnbu5775yc4s5m-story.html
+2290949,"April 29, 2022",New York,Schenectady,1200 block of Webster St,0,2,https://wnyt.com/schenectady-new-york-news/schenectady-shooting-webster-street-/6459471/?cat=10114
+2290947,"April 29, 2022",New York,Troy,10th St and Rensselaer St,0,1,https://www.news10.com/news/rensselaer-county/gunshot-wound-victim-found-on-10th-street-in-troy/
+2290945,"April 29, 2022",New York,Albany,Madison Ave and Grand St,1,0,https://cbs6albany.com/news/local/albany-shooting-being-investigated-as-a-homicide
+2290943,"April 29, 2022",New York,Hyde Park,N Cross Rd,1,0,https://www.dailyfreeman.com/2022/04/29/woman-dead-after-confrontation-with-police-in-hyde-park/?utm_email=B4F3846D64319552D5C4B419CB&g2i_eui=f8kf4PiMWl6UHZQEoQjNKdWPgiEL8F2w&g2i_source=newsletter&utm_source=listrak&utm_medium=email&utm_term=https%3a%2f%2
+2290940,"April 29, 2022",Mississippi,Oxford,Saddle Creek Dr,1,0,https://www.wjtv.com/news/state/man-charged-in-connection-to-oxford-homicide/
+2290938,"April 29, 2022",Mississippi,Gulfport,Tropical Cove and Pass Rd,0,1,https://www.wlox.com/2022/04/29/one-person-injured-overnight-gulfport-shooting/
+2290934,"April 29, 2022",Louisiana,Lake Charles,1000 block of McCall St,1,1,https://www.kplctv.com/2022/04/29/lake-charles-police-investigating-two-homicides-this-morning/
+2290931,"April 29, 2022",Louisiana,Lake Charles,500 block of W Lagrange St,2,0,https://www.kplctv.com/2022/04/29/lake-charles-police-investigating-two-homicides-this-morning/
+2290929,"April 29, 2022",Louisiana,Baton Rouge,11500 block of N Harrells Ferry Rd,1,0,https://www.theadvocate.com/baton_rouge/news/crime_police/article_81ee69cc-c7f8-11ec-963b-fb84ae6b9f1e.html
+2290925,"April 29, 2022",Massachusetts,New Bedford,100 block of Weld St,1,0,https://www.wpri.com/news/local-news/se-mass/man-shot-killed-in-new-bedford/
+2290903,"April 29, 2022",Louisiana,New Orleans,3201 Magazine St,0,6,https://www.wwltv.com/mobile/article/news/crime/6-shot-at-balcony-bar-on-magazine-street/289-7574fa27-3029-481f-87d8-68ba47faff2e
 2290882,"April 29, 2022",Pennsylvania,Philadelphia,W Warren St and Markley St,2,0,https://www.fox29.com/news/police-2-people-shot-and-killed-in-norristown
 2290721,"April 29, 2022",North Carolina,Charlotte,5820 E W.T. Harris Blvd,0,1,https://www.wsoctv.com/news/local/large-police-presence-east-charlotte-strip-mall/4YN5SL4OZVBLLEVXRWKEUCLIEQ/
 2290868,"April 29, 2022",Maryland,Baltimore,3282 Garrison Blvd,2,0,https://www.wbaltv.com/article/liberty-heights-avenue-fatal-shooting-baltimore-april-29-2022/39866697
@@ -72,7 +84,6 @@ id,date,state,county,addr,death,injured,link
 2290608,"April 28, 2022",Tennessee,Memphis,Getwell Rd and Elliston Rd,0,1,https://wreg.com/news/local/multiple-shootings-within-6-hours-leave-3-injured/
 2289829,"April 28, 2022",Tennessee,Memphis,4625 Tchulahoma Rd,0,1,https://wreg.com/news/local/she-shot-me-woman-accused-of-shooting-childs-father-at-oakhaven-store/
 2289864,"April 28, 2022",West Virginia,Bluefield,535 W Cumberland Rd,0,0,https://www.bdtonline.com/news/gun-found-in-student-locker-at-bluefield-high-school/article_4a776ad4-c73a-11ec-98a0-732c3d51c16d.html
-2290026,"April 28, 2022",Alabama,Bessemer,1800 block of Berkley Ave,1,3,https://www.wvtm13.com/article/bessemer-shooting-one-dead-three-injured-berkley-avenue/39854670
 2290362,"April 28, 2022",Texas,Houston,407 FM 1960 Rd E,0,1,https://www.click2houston.com/news/local/2022/04/29/victim-fights-back-survives-after-being-shot-by-robber-at-least-18-times-hcso-says/
 2290004,"April 28, 2022",Connecticut,Norwich,River Ave,0,1,https://connecticut.news12.com/police-1-person-killed-at-garcia-mini-market-in-bridgeport
 2290006,"April 28, 2022",Alabama,Mobile,700 Donald St,0,0,https://www.wkrg.com/mobile-county/2-leflore-students-arrested-for-having-guns-on-campus/
@@ -138,6 +149,9 @@ id,date,state,county,addr,death,injured,link
 2290219,"April 28, 2022",South Carolina,Greenville,Montis Dr,0,1,https://www.foxcarolina.com/2022/04/29/dispatch-deputies-responding-to-gunshot-victim-greenville-county/
 2290217,"April 28, 2022",South Carolina,Orangeburg,1900 block of Broughton St,1,0,https://www.wistv.com/2022/04/28/orangeburg-officials-investigating-shooting/
 2290208,"April 28, 2022",South Carolina,Charleston,Hitching Post Rd,0,1,https://www.live5news.com/2022/04/28/deputies-investigating-after-woman-shot-west-ashley/
+2290927,"April 28, 2022",Arkansas,West Memphis,S 18th St and E Broadway Ave,0,1,https://www.kait8.com/2022/04/29/arkansas-state-police-investigation-shooting-involving-west-memphis-officer/
+2290920,"April 28, 2022",New Jersey,Newark,444 S 19th St,0,1,https://www.rlsmedia.com/article/breaking-person-found-shot-inside-car-newark
+2290026,"April 28, 2022",Alabama,Bessemer,1800 block of Berkley Ave,1,3,https://www.al.com/news/birmingham/2022/04/woman-killed-in-bessemer-shooting-that-injured-3-others-identified.html
 2290190,"April 28, 2022",Florida,Tallahassee,12000 block of Waterfront Rd,1,0,https://www.tallahassee.com/story/news/2022/04/28/lcso-woman-fires-deputies-fatally-shoots-herself-north-leon-county-tallahassee-police-death/9574110002/
 2289996,"April 28, 2022",Connecticut,Bridgeport,239 Newfield Ave,1,0,https://www.ctpost.com/news/article/Police-identify-man-killed-in-Bridgeport-shooting-17136216.php
 2290168,"April 28, 2022",Florida,Coconut Creek,4142 Cocoplum Cir,0,1,https://miami.cbslocal.com/2022/04/28/woman-injured-coconut-creek-shooting/
@@ -189,7 +203,6 @@ id,date,state,county,addr,death,injured,link
 2289835,"April 27, 2022",Florida,Naples (Golden Gate),Santa Barbara Blvd and Westport Ln,1,0,https://nbc-2.com/news/local/2022/04/28/deputies-swarm-area-of-santa-barbra-blvd-in-collier-county/
 2289010,"April 27, 2022",California,Oakland,6th St and Broadway,0,1,https://www.mercurynews.com/2022/04/27/woman-shot-at-oakland-homeless-camp-2/
 2289008,"April 27, 2022",California,Los Angeles,Imperial Hwy and Hoover St,1,0,https://ktla.com/news/local-news/shooting-leaves-one-dead-in-vermont-vista/
-2289542,"April 27, 2022",New Jersey,Beverly,200 block of Ivy Rd,1,1,https://www.burlingtoncountytimes.com/story/news/2022/04/28/edgewater-park-homicide-ivy-road/9564825002/
 2288999,"April 27, 2022",Georgia,Columbus,Olde Town Dr and Miller Rd,1,0,https://www.wtvm.com/2022/04/27/1-man-dead-after-shooting-olde-town-dr-columbus/
 2289812,"April 27, 2022",New Jersey,Asbury Park,600 block of Pine St,0,1,https://www.rlsmedia.com/article/asbury-park-shooting-under-investigation-2
 2289379,"April 27, 2022",Tennessee,Memphis,I-40 and Covington Pike,0,1,https://www.actionnews5.com/2022/04/28/police-man-shot-while-driving-i-40/
@@ -236,10 +249,1003 @@ id,date,state,county,addr,death,injured,link
 2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
 2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
 2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
-2289489,"April 27, 2022",Washington,Seattle,6500 block of 12th Ave NW,0,2,https://spdblotter.seattle.gov/2022/04/28/two-injured-one-arrested-after-wednesday-night-ballard-shooting/
-2290224,"April 27, 2022",Oregon,Salem,5500 block of SE Woodside Dr,0,1,https://www.koin.com/news/crime/salem-police-father-shot-his-son-during-dispute/
-2289487,"April 27, 2022",Washington,Seattle,Eighth Ave NE and NE Northgate Way,0,1,https://www.kiro7.com/news/local/man-shot-during-north-seattle-carjacking/BC2RVF53RZCIJM4WSOKKZAJBZY/
-2289077,"April 27, 2022",South Carolina,Murrells Inlet,Wachesaw Rd,1,2,https://abcnews4.com/news/local/man-charged-with-murder-in-murrells-inlet-homicide-assault
-2289159,"April 27, 2022",North Carolina,Elizabethtown,Moultrie Ln and Peanut Plant Rd,0,1,https://www.bladenjournal.com/news/42982/shooting-puts-schools-in-lockdown
-2289478,"April 27, 2022",Oklahoma,Sand Springs,N/A,0,1,https://www.krmg.com/news/man-shot-during-attempted-theft-police-say/YGGUMRCBXJHEXIXIJYQLF77WVY/
-2290187,"April 27, 2022",Florida,Delray Beach,W Atlantic Ave and SW 8th Ave,0,1,https://cbs12.com/news/local/drive-by-shooting-in-delray-beach-sends-man-to-hospital
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
+2289730,"April 27, 2022",Pennsylvania,Philadelphia,6100 block of Oxford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2289728,"April 27, 2022",Pennsylvania,Philadelphia,4700 block of Haverford Ave,0,1,https://www.opendataphilly.org/dataset/shooting-victims/resource/a6240077-cbc7-46fb-b554-39417be606ee?fbclid=IwAR30GF4qzNGjSTqMzFesC3-ml2OtdmwXzuPhIfkOVe-RMmxYtJkVF8yPJIM
+2288707,"April 27, 2022",Pennsylvania,Philadelphia,E St and E Alleghany Ave,0,2,https://philadelphia.cbslocal.com/2022/04/27/philadelphia-shooting-kensington-man-woman-injured-allegheny-avenue-e-street/
+2288872,"April 27, 2022",Colorado,Colorado Springs,1400 block of Potter Dr,0,1,https://www.kktv.com/2022/04/27/least-1-injured-east-colorado-springs-shooting/
+2289610,"April 27, 2022",Texas,San Antonio,3399 Wurzbach Rd,0,5,https://www.ksat.com/news/local/2022/04/27/gunfire-interrupts-music-video-shoot-outside-northwest-side-barbershop-wounding-5-people/
+2289689,"April 27, 2022",Texas,Schertz,1001 Elbel Rd,0,0,https://news4sanantonio.com/news/local/handgun-found-inside-clemens-high-school-classroom-students-officers-schertz-texas-investigation-classes
+2289675,"April 27, 2022",Texas,San Antonio,Quig Dr and Linn Rd,0,1,https://news4sanantonio.com/news/local/man-shot-3-times-at-southeast-side-neighborhood-refuses-to-talk-with-investigators-investigation-sanantonio-police-victim-suspect-handgun-violence-texas-hospital-ambulance
+2289666,"April 27, 2022",Texas,San Antonio,5200 S Flores St,0,1,https://news4sanantonio.com/news/local/police-shot-suspect-after-attempting-to-break-in-school
+2289664,"April 27, 2022",Massachusetts,Cambridge,50 Essex St,0,0,https://www.nbcboston.com/news/local/teen-accused-of-bringing-loaded-gun-to-school-in-cambridge/2705555/
+2288786,"April 27, 2022",Colorado,Aurora,14590 E 2nd Ave,0,1,https://twitter.com/AuroraPD/status/1519186005286293504
+2289656,"April 27, 2022",Nevada,Henderson,400 block of Hunter Dr,2,0,https://www.reviewjournal.com/crime/homicides/2-dead-in-henderson-in-suspected-murder-suicide-2567980/
+2289522,"April 27, 2022",Texas,Houston,3422 Sampson St,1,0,https://cityofhouston.news/investigation-into-fatal-shooting-at-3422-sampson-street/
+2289565,"April 27, 2022",Pennsylvania,Philadelphia,5756 US-13,0,2,https://6abc.com/philadelphia-shooting-cobbs-creek-58th-street-baltimore-avenue-shootout-shopping-center/11799170/
+2288733,"April 27, 2022",Florida,Cape Coral,1900 block of SE Van Loon Terrace,0,1,https://www.winknews.com/2022/04/27/cape-coral-police-investigating-shooting-on-southeast-van-loon-terrace/
+2290270,"April 27, 2022",Colorado,Aurora,14593 E Mississippi Ave,0,1,https://twitter.com/AuroraPD/status/1519451158183657472
+2289683,"April 27, 2022",Ohio,Middletown,800 block of 10th Ave,0,1,https://www.journal-news.com/news/child-shot-while-playing-with-gun-in-middletown/5C3TR7BOO5GUHBEXW545XOXGZY/
+2289768,"April 27, 2022",Colorado,Denver,1325 W 11th Ave,1,0,https://www.thedenverchannel.com/news/local-news/denver-closes-la-alma-park-after-63-year-old-man-shot-killed
+2288705,"April 27, 2022",Arizona,Mesa,6005 E McKellips Rd,1,0,https://www.azcentral.com/story/news/local/mesa-breaking/2022/04/27/police-man-truck-found-fatally-shot-truck-circle-k-mesa/9554774002/
+2289535,"April 27, 2022",Pennsylvania,Philadelphia,2600 block of N Warnock St,0,1,https://philadelphia.cbslocal.com/2022/04/28/man-dog-ruby-shot-philly/
+2288703,"April 27, 2022",Pennsylvania,Philadelphia,Jackson St and Water St,0,1,https://philadelphia.cbslocal.com/2022/04/27/south-philadelphia-shooting-sound-engineer-ambushed-studio-jackson-water-streets/
+2289524,"April 27, 2022",Texas,Houston,3400 block of Woodchase Dr,1,0,https://abc13.com/houston-crime-woman-shot-gun-violence-woodchase/11797753/
+2288669,"April 27, 2022",Michigan,Detroit,N/A,0,1,https://www.facebook.com/TheDetroitScanner/posts/5478084435548900
+2289503,"April 27, 2022",Illinois,Chicago,1300 block of S Independence Blvd,0,2,https://home.chicagopolice.org/media_incident/1300-block-of-s-independence-on-april-27-2022-approx-952-p-m-10th-dist/
+2289496,"April 27, 2022",Illinois,Chicago,3700 block of W 60th St,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-west-60th-on-27-april-2022-at-approx-755-p-m-008th-district/
+2289493,"April 27, 2022",Illinois,Chicago,3900 block of W Jackson Blvd,0,1,https://www.fox32chicago.com/news/teen-critically-wounded-in-drive-by-shooting-on-chicagos-west-side
