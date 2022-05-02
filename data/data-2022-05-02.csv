@@ -1,10 +1,10 @@
 id,date,state,county,addr,death,injured,link
-2292166,"May 1, 2022",Kentucky,Bowling Green,19 E 13th Ave,1,0,https://www.facebook.com/bgtruecrime/posts/2029193860616043
+2292300,"May 2, 2022",Kentucky,Flatwoods,100 block of East St,0,1,https://www.dailyindependent.com/news/police-officer-shot-in-flatwoods-suspect-at-large-russell-schools-closed-with-video/article_845c1996-c9fd-11ec-af82-a7f46b09f6d7.html
+2292253,"May 2, 2022",Virginia,Portsmouth,2200 block of Richmond Ave,1,0,https://www.wtkr.com/news/man-found-with-fatal-gunshot-wound-police-investigate
 2292150,"May 1, 2022",Arizona,Phoenix,Indian School Road and 51st Ave,1,0,https://www.12news.com/article/news/crime/man-killed-in-west-phoenix-shooting/75-13c1a724-d915-47fa-8350-ebfcc2475a76
 2292145,"May 1, 2022",Kentucky,Louisville,Story Ave and Spring St,0,1,https://www.wlky.com/article/one-person-injured-in-butchertown-shooting/39872709
 2292134,"May 1, 2022",Kentucky,Louisville,8007 Sneath Ave,0,2,https://www.whas11.com/article/news/crime/highview-shooting-sneath-avenue-lmpd/417-1cf11b9a-1470-4b0f-8a63-3091f1a43ec6
 2292130,"May 1, 2022",Virginia,Colonial Heights,2126 Ruffin Mill Rd,1,0,https://www.progress-index.com/story/news/2022/05/01/person-shot-death-chesterfield-truck-stop-one-suspect-caught/9611326002/
-2292123,"May 1, 2022",Virginia,Petersburg,1 Hayden Dr,0,1,https://www.msn.com/en-us/news/crime/virginia-state-university-campus-goes-on-lockdown-after-woman-shot-at-freshman-dorm-sunday/ar-AAWOZvq?ocid=BingNewsSearch
 2292060,"May 1, 2022",Pennsylvania,Philadelphia,6100 block of Baynton St,1,0,https://philadelphia.cbslocal.com/2022/05/01/philadelphia-police-fire-weapons-west-oak-lane-man-dead-drive-by-shooting/
 2292023,"May 1, 2022",New York,Rochester,Joseph Pl,0,1,https://www.rochesterfirst.com/crime/rochester-shooting-victim-expected-to-survive-after-incident-on-joseph-pl/
 2292050,"May 1, 2022",New York,Rochester,600 block of Dewey Ave,0,1,https://www.rochesterfirst.com/crime/police-investigation-underway-near-driving-park-ave-in-rochester/
@@ -62,6 +62,20 @@ id,date,state,county,addr,death,injured,link
 2291635,"May 1, 2022",Illinois,Frankfort,7928 Lincoln Hwy,1,0,https://www.fox32chicago.com/news/frankfort-shooting-robber-fatally-shot-by-bar-patron
 2291633,"May 1, 2022",Illinois,Chicago,200 block of E Walton Pl,1,0,https://chicago.suntimes.com/crime/2022/5/1/23051819/person-found-shot-to-death-inside-gold-coast-business-police
 2291616,"May 1, 2022",Ohio,Cincinnati,E 8th St and Main St,0,1,https://www.wlwt.com/article/shooting-downtown-cincinnati-main-street/39870578
+2292310,"May 1, 2022",Oregon,Shady Cove,N/A,0,1,https://kobi5.com/news/local-news/jackson-county-sheriffs-office-investigating-shooting-in-shady-cove-sunday-187935/
+2292290,"May 1, 2022",Texas,Dallas,3700 block of McNeil St,1,1,https://dpdbeat.com/2022/05/01/homicide-at-3700-mcneil-lane/
+2292287,"May 1, 2022",Texas,Waco,3400 block of Morrow Ave,1,1,https://www.kwtx.com/2022/05/02/waco-police-looking-murder-suspect-after-two-women-shot-one-dead/
+2292282,"May 1, 2022",West Virginia,Terra Alta,N/A,1,0,https://www.wboy.com/news/crime/man-arrested-after-terra-alta-shooting/
+2292166,"May 1, 2022",Kentucky,Bowling Green,19 E 13th Ave,1,0,https://www.wbko.com/2022/05/02/police-scene-bgpd-investigates-possible-shooting/
+2292278,"May 1, 2022",West Virginia,Huntington,2200 block of Madison Ave,0,1,https://wchstv.com/news/local/one-person-hospitalized-after-shooting-in-huntington-05-02-2022
+2292123,"May 1, 2022",Virginia,Petersburg,1 Hayden Dr,0,1,https://www.wavy.com/news/one-person-injured-in-shooting-at-vsu-freshman-dorm/
+2292271,"May 1, 2022",Virginia,Richmond,Midlothian Turnpike,0,1,https://www.nbc12.com/2022/05/01/richmond-man-shot-calls-help-high-school-parking-lot/
+2292263,"May 1, 2022",Virginia,Richmond,Engleside Cir,0,1,https://www.nbc12.com/2022/05/02/2-people-expected-recover-after-shooting-blocks-away-richmond-raceway/
+2292239,"May 1, 2022",Virginia,Manassas,7411 Hoadly Rd,0,2,https://www.potomaclocal.com/2022/05/01/3-shot-during-youth-football-game-at-benton-middle-school/
+2292248,"May 1, 2022",Virginia,Portsmouth,2600 block of Frederick Blvd,0,2,https://www.wtkr.com/news/2-injured-following-late-night-portsmouth-shooting-police-investigate
+2292232,"May 1, 2022",Virginia,Roanoke,600 block of Westside Blvd NW,0,3,https://wset.com/news/local/3-injured-in-overnight-roanoke-shooting-westside-boulevard-melrose-avenue-roanoke-virginia-may-1-2022
+2292224,"May 1, 2022",Connecticut,Hartford,493 Park St,0,1,https://www.wtnh.com/news/connecticut/hartford/police-investigate-hartford-shooting-on-park-street/
+2292206,"May 1, 2022",Tennessee,Chattanooga,4000 block of Chandler Ave,0,2,https://newschannel9.com/news/local/man-fighting-for-his-life-woman-hurt-after-shooting-on-chandler-avenue-sunday-morning
 2292195,"May 1, 2022",Tennessee,Clarksville,708 Power St,1,0,https://whopam.com/2022/05/01/clarksville-pd-investigating-fatal-shooting/
 2291791,"May 1, 2022",Kentucky,Lexington,W High St and Versailles Rd,1,0,https://www.lex18.com/news/crime/coroner-responds-to-scene-after-lexington-shooting
 2292169,"May 1, 2022",Mississippi,Clinton,Hannah Dr,1,0,https://www.wjtv.com/news/local-news/man-shot-killed-inside-clinton-home/
@@ -87,7 +101,6 @@ id,date,state,county,addr,death,injured,link
 2291352,"April 30, 2022",Arizona,Phoenix,35th Ave and Greenway Rd,1,0,https://www.azcentral.com/story/news/local/arizona-breaking/2022/04/30/phoenix-police-investigate-death-man-suspected-domestic-quarrel/9602003002/
 2291348,"April 30, 2022",North Carolina,Winston Salem (Winston-salem),4300 block of Old Walkertown Rd,0,1,https://myfox8.com/news/north-carolina/winston-salem/woman-shot-overnight-in-winston-salem-police-say/
 2292019,"April 30, 2022",California,San Diego,Orange Ave and 40th St,1,0,https://fox5sandiego.com/news/local-news/man-dies-after-being-found-wounded-at-local-park/
-2291333,"April 30, 2022",Tennessee,Nashville,6105 Morrow Rd,1,0,https://www.wsmv.com/2022/05/01/police-are-investigating-fatal-shooting-west-nashville/
 2292017,"April 30, 2022",New York,Buffalo,Martha Ave and Roosevelt Ave,1,0,https://www.wivb.com/news/crime/18-year-old-killed-in-saturday-evening-buffalo-shooting/
 2292015,"April 30, 2022",New York,Jamestown,E 6th St and American Pl,1,0,https://www.wkbw.com/news/local-news/jamestown-police-investigating-homicide
 2291329,"April 30, 2022",North Carolina,Rocky Mount,800 E Virginia St,1,1,https://www.witn.com/2022/04/30/one-dead-one-hospitalized-rocky-mount-park-shooting/
@@ -110,7 +123,6 @@ id,date,state,county,addr,death,injured,link
 2291876,"April 30, 2022",Colorado,Denver,401 E 20th Ave,0,1,https://www.thedenverchannel.com/news/crime/3-wounded-in-2-separate-shootings-in-denver
 2291200,"April 30, 2022",District of Columbia,Washington,7th St NW and N St NW,0,1,https://twitter.com/alanhenney/status/1520279254239436802
 2291183,"April 30, 2022",Texas,San Antonio,500 block of W Martin St,0,1,https://www.ksat.com/news/local/2022/04/30/man-found-with-gunshot-wounds-in-parking-lot-near-downtown-police-say/
-2291179,"April 30, 2022",Tennessee,Johnson City,Spring St,0,2,https://www.wjhl.com/news/crime/jcpd-investigating-after-downtown-shooting/
 2291175,"April 30, 2022",Illinois,Chicago,4500 block of W Chicago Ave,0,1,https://home.chicagopolice.org/media_incident/4500-block-of-w-chicago-avenue-on-april-30-2022-at-approx-715-a-m-15th-district/
 2291156,"April 30, 2022",Illinois,Chicago,900 block of N St Louis,0,1,https://home.chicagopolice.org/media_incident/900-block-of-n-st-louis-on-april-30-2022-at-approx-1201-p-m-11th-district/
 2291868,"April 30, 2022",Delaware,Wilmington,1200 block of N Walnut St,0,1,https://www.wdel.com/news/man-hospitalized-after-saturday-afternoon-shooting-in-wilmington/article_fa5b5e5e-c967-11ec-943e-3f638173f7db.html
@@ -171,11 +183,21 @@ id,date,state,county,addr,death,injured,link
 2291608,"April 30, 2022",Kansas,Kansas City,N 26th St and Wood Ave,2,1,https://www.kmbc.com/article/three-dead-after-two-separate-shootings-in-kansas-city-ks/39870681#
 2291598,"April 30, 2022",North Carolina,Rocky Mount,300 block of Middle St,1,0,https://www.witn.com/2022/05/01/one-dead-after-late-night-shooting-rocky-mount/
 2291288,"April 30, 2022",California,Encino,18013 Ventura Blvd,1,0,https://ktla.com/news/local-news/1-killed-in-shooting-at-tarzana-dispensary-lapd/
+2292305,"April 30, 2022",Washington,Gig Harbor,4831 Point Fosdick Dr,0,1,https://www.q13fox.com/news/gig-harbor-police-man-shoots-shopper-mistaking-him-for-shoplifter
 2291584,"April 30, 2022",Ohio,Cleveland,9800 block of Buckeye St,0,1,https://www.cleveland19.com/2022/05/01/45-year-old-man-shot-buckeye-street-cleveland-police-say/
+2292297,"April 30, 2022",Texas,Houston,Bellaire Blvd and S Gessner Rd,0,1,https://abc13.com/teenager-shot-teen-robbery-suspects-shooting-on-bellaire-man-shoots-suspect/11808662/
+2292295,"April 30, 2022",Texas,Dallas,1112 Belleview St,1,0,https://www.nbcdfw.com/news/local/one-dead-after-shooting-at-dart-cedars-station/2955541/
 2291569,"April 30, 2022",Texas,Houston,1200 W Tidwell Rd,0,2,https://abc13.com/man-injured-drive-by-shooting-gun-violence-apartment-complex/11807599/
 2291567,"April 30, 2022",Texas,Port Arthur,4500 block of Gulfway Dr,0,1,https://www.12newsnow.com/article/news/crime/port-arthur-police-investigating-saturday-shooting/502-5155897c-c33d-4dbb-ba9b-0ed88c49a567
 2291564,"April 30, 2022",Texas,College Station,2300 Cottage Ln,0,2,https://www.kbtx.com/2022/05/01/shots-fired-college-station-apartment-complex/
+2292268,"April 30, 2022",Virginia,Richmond,5700 block of Hull Street Rd,1,0,https://www.nbc12.com/2022/05/01/police-investigate-shooting-death-man-richmond/
 2291550,"April 30, 2022",Iowa,Cedar Rapids,1100 block of K St SW,0,1,https://www.kcrg.com/2022/04/30/cedar-rapids-police-investigating-after-one-person-injured-shots-fired-incident/
+2292219,"April 30, 2022",Virginia,Newport News,100 block of Arboretum Way,0,2,https://www.wavy.com/news/local-news/newport-news/nn-police-on-scene-of-incident-at-apartment-complex/
+2292226,"April 30, 2022",Connecticut,New Haven,Lamberton St and Dewitt St,0,1,https://www.nhregister.com/news/article/New-Haven-man-injured-in-shooting-police-say-17140157.php?src=nhrhpdesecp
+2292222,"April 30, 2022",Connecticut,Bridgeport,Boston Ave and Seaview Ave,0,1,https://www.ctpost.com/news/article/Bridgeport-PD-Person-shot-seemingly-on-Boston-17138702.php?src=rdctpdensecp
+2291333,"April 30, 2022",Tennessee,Nashville,6105 Morrow Rd,1,0,https://fox17.com/news/local/one-dead-in-shooting-outside-community-center-in-the-nations
+2291179,"April 30, 2022",Tennessee,Johnson City,Spring St and Tipton St,0,2,https://wcyb.com/news/local/jcpd-searching-for-suspect-in-downtown-shooting
+2292201,"April 30, 2022",Tennessee,Clarksville,3083 Wilma Rudolph Blvd,0,1,https://clarksvillenow.com/local/man-shot-at-hotel-2-caught-in-pursuit-1-suspect-at-large-in-clarksville/
 2291509,"April 30, 2022",Alabama,Birmingham,4200 block of 2nd Ave,1,0,https://police.birminghamal.gov/media-release-87-homicide-investigation-2nd-avenue-south/
 2291494,"April 30, 2022",Alabama,Birmingham,700 block of New Hill Ave,1,0,https://police.birminghamal.gov/media-release-88-homicide-investigation-new-hill-avenue/
 2290892,"April 30, 2022",New Hampshire,Gorham,N Main St,2,0,https://www.necn.com/news/local/man-and-woman-shot-to-death-in-gorham-nh-investigators-say/2727891/
@@ -272,14 +294,3 @@ id,date,state,county,addr,death,injured,link
 2290477,"April 29, 2022",Illinois,Chicago,14 E Elm St,0,1,https://chicago.suntimes.com/crime/2022/4/29/23048788/gold-coast-robbery
 2290962,"April 29, 2022",Illinois,Chicago,3400 block of S Indiana Ave,1,0,https://chicago.suntimes.com/crime/2022/4/29/23049991/man-killed-in-douglas-shooting
 2290956,"April 29, 2022",New York,Rochester,Weyl St and Bauman St,0,1,https://www.rochesterfirst.com/news/local-news/woman-shot-on-weyl-street/
-2290949,"April 29, 2022",New York,Schenectady,1200 block of Webster St,0,2,https://wnyt.com/schenectady-new-york-news/schenectady-shooting-webster-street-/6459471/?cat=10114
-2290947,"April 29, 2022",New York,Troy,10th St and Rensselaer St,0,1,https://www.news10.com/news/rensselaer-county/gunshot-wound-victim-found-on-10th-street-in-troy/
-2290945,"April 29, 2022",New York,Albany,Madison Ave and Grand St,1,0,https://cbs6albany.com/news/local/albany-shooting-being-investigated-as-a-homicide
-2291600,"April 29, 2022",South Dakota,Rapid City,200 block of E Monroe St,1,0,https://www.blackhillsfox.com/2022/04/30/rapid-city-man-arrested-following-friday-night-shooting-death/
-2290940,"April 29, 2022",Mississippi,Oxford,Saddle Creek Dr,1,0,https://www.wjtv.com/news/state/man-charged-in-connection-to-oxford-homicide/
-2290934,"April 29, 2022",Louisiana,Lake Charles,1000 block of McCall St,1,1,https://www.kplctv.com/2022/04/29/lake-charles-police-investigating-two-homicides-this-morning/
-2290931,"April 29, 2022",Louisiana,Lake Charles,500 block of W Lagrange St,2,0,https://www.kplctv.com/2022/04/29/lake-charles-police-investigating-two-homicides-this-morning/
-2290925,"April 29, 2022",Massachusetts,New Bedford,100 block of Weld St,1,0,https://www.wpri.com/news/local-news/se-mass/man-shot-killed-in-new-bedford/
-2291534,"April 29, 2022",Mississippi,Laurel,Ferrell St and Poplar Dr,0,4,https://www.facebook.com/laurelleadercall/posts/10158838816965910
-2291521,"April 29, 2022",Mississippi,Jackson,915 Ellis Ave,0,1,https://www.wlbt.com/2022/04/29/man-shot-near-angry-rooster-jackson-police-search-parking-lot-evidence/
-2290938,"April 29, 2022",Mississippi,Gulfport,Tropical Cove and Pass Rd,0,1,https://www.wlox.com/2022/04/29/one-person-injured-overnight-gulfport-shooting/
