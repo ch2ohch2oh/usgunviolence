@@ -1,5 +1,16 @@
 id,date,state,county,addr,death,injured,link
+2295172,"May 5, 2022",Kentucky,Louisville,10200 Dixie Hwy,0,0,https://www.wave3.com/2022/05/05/valley-hs-student-found-with-gun-drugs-campus/
+2295162,"May 5, 2022",Georgia,Lawrenceville,Harbor Bay Dr and Fort Martin Way,2,0,https://www.11alive.com/article/news/crime/gwinnett-homicide-in-lawrenceville/85-4a0ce4c3-ba61-40a7-a6aa-444a8f87c7b5
+2295160,"May 5, 2022",Texas,Houston,630 block of Rushcreek Dr,1,0,https://twitter.com/houstonpolice/status/1522246465476870144
+2295140,"May 5, 2022",Georgia,Atlanta,1798 Haygood Dr NE,0,0,https://www.11alive.com/article/news/local/druid-hills-high-school-lockdown/85-7b134210-60e2-4d94-bf71-b0a904c2f083
+2295119,"May 5, 2022",Georgia,Stone Mountain,5616 Redan Rd,0,2,https://www.11alive.com/article/news/crime/stone-mountain-gas-station-valero-shooting/85-14ece4ae-de6f-4e78-9c98-27c628f981e3
+2295117,"May 5, 2022",Georgia,Atlanta,2522 Bouldercrest Rd SE,0,1,https://www.11alive.com/article/news/crime/dekalb-family-dollar-shooting/85-57acc878-8877-4414-940d-88719d60543a
+2295112,"May 5, 2022",Georgia,Atlanta,969 Marietta St NW,0,1,https://www.11alive.com/article/news/crime/officer-shot-west-midtown/85-a28fa170-3163-4f6e-b4a6-14137f4c848c
+2295109,"May 5, 2022",New York,Poughkeepsie,97 South Ave,0,1,https://dailyvoice.com/new-york/mountvernon/police-fire/suspect-nabbed-for-shooting-repo-man-police-say/831753/
+2294962,"May 5, 2022",Maryland,Parkville,1100 block of Deanwood Rd,0,2,https://foxbaltimore.com/news/local/baltimore-county-police-investigate-shooting-in-parkville
+2295093,"May 5, 2022",Louisiana,New Orleans,1900 block Saint Ann St,0,1,"https://nopdnews.com/getattachment/493ed4e9-2bbd-4440-a27a-6fc171bbac4f/May-4-through-May-5,-2022/"
 2295086,"May 5, 2022",New York,Bronx,671 Westchester Ave,0,2,https://twitter.com/NYC_Alerts911/status/1522380806655819776
+2295089,"May 5, 2022",Iowa,Granger,N/A,0,1,https://www.kcci.com/article/sheriffs-office-iowa-man-expected-to-survive-after-self-inflicted-gunshot-dallas/39919369
 2295083,"May 5, 2022",Illinois,Geneva,700 block of McKinley Ave,1,0,https://www.dailyherald.com/news/20220505/1-person-in-custody-after-suspicious-shooting-death-of-geneva-woman
 2295074,"May 5, 2022",Ohio,Dayton,4400 block of Saylor St,1,0,https://www.daytondailynews.com/crime/woman-found-in-car-dies-at-hospital-following-harrison-twp-shooting/K3OM7CZT6RCR7LYAAXAFR5DHRY/
 2295067,"May 5, 2022",Ohio,Columbus,3726 Eakin Rd,0,1,https://myfox28columbus.com/news/local/eakin-road-hilltop-columbus-franklin-county-ohio-shooting-division-of-police-victim-5-5-2022
@@ -10,16 +21,13 @@ id,date,state,county,addr,death,injured,link
 2295045,"May 5, 2022",Illinois,Chicago,4300 block of W Ford City Dr,0,1,https://home.chicagopolice.org/media_incident/4300-block-of-w-ford-city-dr-on-may-5-2022-at-approx-512-a-m-8th-district/
 2295042,"May 5, 2022",Texas,Fort Worth,5200 block of Eastland St,1,1,https://www.star-telegram.com/news/local/crime/article261108032.html
 2294679,"May 5, 2022",Michigan,Clare,1131 N McEwan St,1,0,https://www.buzzfile.com/business/Dairy-Phil-989-386-2647
-2295031,"May 5, 2022",Ohio,Lowellville,52 Rocket Pl,0,1,https://fox8.com/news/self-inflicted-shooting-leads-to-lockdown-of-lowellville-schools/
 2295024,"May 5, 2022",Illinois,Chicago,12100 block of S Lowe Ave,0,3,https://wgntv.com/news/chicagocrime/17-year-old-boy-critical-following-double-shooting-in-west-pullman/
 2295018,"May 5, 2022",Ohio,Euclid,Miller Ave and E 222nd St,1,0,https://www.cleveland.com/crime/2022/05/euclid-police-investigating-shooting-death-of-man.html
 2294939,"May 5, 2022",Maryland,Baltimore,Pelham Ave and Belair Rd,0,3,https://www.wbaltv.com/article/triple-shooting-bel-air-road-northeast-baltimore/39918771
 2294974,"May 5, 2022",Maryland,Baltimore,200 block of S Eaton St,1,0,https://www.wbaltv.com/article/south-eaton-street-shooting-highlandtown-elementary-middle-school/39918130
-2294962,"May 5, 2022",Maryland,Parkville,1100 block of Deanwood Rd,0,2,https://baltimore.cbslocal.com/2022/05/05/multiple-people-injured-in-parkville-shooting-police-say/
 2294960,"May 5, 2022",Maryland,Essex,900 block of Boundbrook Way,1,0,https://foxbaltimore.com/news/local/essex-man-killed-by-baltimore-county-police-was-armed-with-knives-authorities-say
 2294935,"May 5, 2022",Indiana,West Terre Haute,7100 block of Fayette Rd,0,2,https://www.tribstar.com/news/local_news/wth-man-arrested-after-shooting-injures-2/article_ea88bb45-b039-59c4-bc62-4fae81e5a7ae.html
 2294928,"May 5, 2022",Tennessee,Chattanooga,7804 E Brainerd Rd,0,1,https://www.local3news.com/local-news/police-investigating-shooting-near-food-city-on-east-brainerd-road/article_fb9d8ea6-ccb7-11ec-a68e-dfce0dfcd942.html
-2294926,"May 5, 2022",Tennessee,Memphis,Quail Crest Ln,1,0,https://www.actionnews5.com/2022/05/05/one-shot-killed-shelby-county-homicide/
 2294922,"May 5, 2022",Delaware,Wilmington,1300 block of Anchorage St,0,1,https://www.wdel.com/news/man-critical-after-shooting-in-wilmingtons-browntown/article_4d6cff38-cc85-11ec-8c56-f35535f7f440.html
 2294874,"May 5, 2022",Indiana,Michigan City,200 block of Thurman Ave,0,1,https://hometownnewsnow.com/local-news/632587
 2294887,"May 5, 2022",New York,Niagara Falls,442 Elmwood Ave,0,1,https://niagaraaction.com/a-city-encompassed-by-violence-nfpd-responds-to-homicide-shooting-and-robbery-overnight/
@@ -45,13 +53,26 @@ id,date,state,county,addr,death,injured,link
 2294649,"May 5, 2022",Illinois,Chicago,3900 block of N Kenneth Ave,1,1,https://home.chicagopolice.org/media_incident/3900-block-of-n-kenneth-on-may-05-2022-at-approx-1205-am-17th-district/
 2294327,"May 5, 2022",New York,New York (Manhattan),354 W 37th St,2,0,https://nypost.com/2022/05/05/nyc-shooting-leaves-2-people-critically-injured/
 2294563,"May 5, 2022",Rhode Island,Providence,I-95 and Elmwood Ave,0,1,https://www.wpri.com/news/local-news/providence/man-shot-on-providence-highway/
-2294268,"May 5, 2022",New York,Buffalo,136 Person St,1,0,https://twitter.com/TonawandaFire/status/1522026268568571906
+2295151,"May 5, 2022",California,Santa Rosa,1000 block of Aston Ave,2,0,https://www.pressdemocrat.com/article/news/santa-rosa-police-investigating-shooting/
+2295262,"May 5, 2022",Louisiana,Shreveport,3400 block of Hardy St,0,1,https://www.arklatexhomepage.com/news/crime/spd-woman-charged-after-argument-ends-in-shooting/
+2295250,"May 5, 2022",New Jersey,Newark,300 block of Mount Prospect Ave,1,0,https://www.rlsmedia.com/article/developing-man-shot-dead-mount-prospect-avenue-newark
+2295031,"May 5, 2022",Ohio,Lowellville,52 Rocket Pl,1,0,https://www.vindy.com/news/local-news/2022/05/lowellville-shaken/
+2295245,"May 5, 2022",New Jersey,Newark,456 S 12th St,0,2,https://www.rlsmedia.com/article/breaking-woman-shot-newarks-west-ward
+2295219,"May 5, 2022",Michigan,Grand Rapids,1200 block of Cass Ave SE,0,2,https://www.woodtv.com/news/grand-rapids/grand-rapids-police-investigate-after-two-men-shot/
+2294926,"May 5, 2022",Tennessee,Memphis,6700 block of Quail Crest Ln,1,0,https://wreg.com/news/local/one-dead-after-southeast-shelby-county-shooting/
+2295197,"May 5, 2022",North Carolina,Kinston,E Highland Ave and Charlotte Ave,2,0,https://www.witn.com/2022/05/06/suspect-arrested-charged-with-two-counts-murder-kinston/
+2295174,"May 4, 2022",Texas,Houston,3300 block of Yellowstone Blvd,1,0,https://twitter.com/houstonpolice/status/1522322362787586052
 2294138,"May 4, 2022",Tennessee,Memphis,2700 block of Frayser Blvd,0,1,https://wreg.com/news/local/17-year-old-critical-after-shooting-in-frayser/
+2295169,"May 4, 2022",Georgia,Savannah,2200 block of Waters Ave,0,1,https://www.wtoc.com/2022/05/05/one-person-injured-following-shooting-wednesday-night/
 2294150,"May 4, 2022",Virginia,Roanoke,1200 block of Hanover Ave NW,1,0,https://www.wfxrtv.com/news/local-news/roanoke-valley-news/roanoke-police-investigate-deadly-shooting/
+2295158,"May 4, 2022",Georgia,Atlanta,2770 Lenox Rd NE,1,0,https://www.11alive.com/article/news/local/buckhead/atlantas-buckhead-neighborhood-lenox-shooting/85-e475681b-bf8a-407f-a8f9-08f51b146ef6
+2293943,"May 4, 2022",Texas,Houston,14800 block of Gulf Fwy,0,2,https://cityofhouston.news/suspect-arrested-charged-in-shooting-incident-at-14300-gulf-freeway/
+2294355,"May 4, 2022",Texas,Houston,9446 E Ave L,0,1,https://cityofhouston.news/suspect-arrested-charged-in-shooting-9446-east-avenue-l/
 2294225,"May 4, 2022",Virginia,Manassas,7500 block of Helmsdale Pl,0,2,https://www.insidenova.com/headlines/two-shot-in-manassas-search-underway-for-gunman/article_052ecf9e-cbe0-11ec-acb5-273e2cde5c99.html
 2293911,"May 4, 2022",New York,Brooklyn,932 Broadway,0,1,https://pix11.com/news/local-news/brooklyn/man-shot-following-dispute-in-brooklyn-police-say/
 2294184,"May 4, 2022",Alaska,Anchorage,1500 Karluk St,0,1,https://www.alaskasnewssource.com/2022/05/04/man-hospitalized-another-detained-after-karluk-street-shooting/
-2294179,"May 4, 2022",New Jersey,Newark,Irvine Turner Blvd and W Kinney St,0,3,https://www.nj.com/essex/2022/05/4-year-old-among-3-wounded-in-newark-shooting-police-say.html
+2295098,"May 4, 2022",California,Vallejo,3400 block of Hazelwood St,1,0,https://www.kron4.com/news/bay-area/vallejo-police-investigating-apparent-homicide/
+2294268,"May 4, 2022",New York,Buffalo,136 Person St,1,0,https://buffalonews.com/news/local/crime-and-courts/person-street-fatal-shooting-was-citys-second-killing-of-the-day/article_a119d60e-cc91-11ec-840b-33f78ee71f22.html
 2294163,"May 4, 2022",Kentucky,Stanton,125 Pinecreek Dr,0,1,https://www.lex18.com/news/powel-county-schools-using-nti-day-wednesday-due-to-search-for-armed-and-dangerous-suspect
 2295076,"May 4, 2022",Ohio,Dayton (Trotwood),5500 block of Autumn Leaf Dr,0,1,https://www.daytondailynews.com/crime/trotwood-police-investigate-after-gunshot-victim-dropped-off-at-hospital/2XSKNTIGIRHVPCWT7CAEQ3JPX4/
 2293996,"May 4, 2022",New York,Albany,Stanwix St,1,1,https://wnyt.com/albany-new-york-news/arrest-homicide-stanwix-street-albany/6463324/?cat=10114
@@ -61,9 +82,7 @@ id,date,state,county,addr,death,injured,link
 2294188,"May 4, 2022",Virginia,Richmond,Spotsylvania St,0,1,https://www.wric.com/news/local-news/richmond/juvenile-boy-shot-near-mosby-court-in-richmond/
 2294161,"May 4, 2022",California,Paramount,I-105 and Garfield Ave,1,0,https://www.cbsnews.com/losangeles/news/man-in-lanes-westbound-105-freeway-paramount-shot-chp-officer/
 2294158,"May 4, 2022",Kentucky,Louisville,15th St and St. Catherine St,0,1,https://www.wdrb.com/news/child-in-critical-condition-after-shooting-in-california-neighborhood-lmpd-says/article_a2c8eef6-cc08-11ec-ae7b-ab49c0cbe8b2.html
-2295015,"May 4, 2022",Virginia,Norfolk,7101 Sewells Point Rd,0,2,https://www.wavy.com/news/local-news/norfolk/2-injured-in-norfolk-shooting/
 2295008,"May 4, 2022",Ohio,Cleveland,W 46th St and Train Ave,1,0,https://www.cleveland.com/news/2022/05/man-arrested-after-fatal-shooting-of-his-mother-on-clevelands-west-side.html
-2295006,"May 4, 2022",Virginia,Chesapeake,3200 block of Walden St,1,0,https://www.wtkr.com/news/one-dead-chesapeake-police-investigate-wednesday-night-homicide
 2294566,"May 4, 2022",Illinois,Des Plaines,402 W Touhy Ave,1,0,https://abc7chicago.com/elk-grove-township-shooting-mobile-home-park-blackhawk-estates-touhy/11819813/
 2294264,"May 4, 2022",New York,Staten Island,Holland Ave and Richmond Terr,0,1,https://www.silive.com/crime-safety/2022/05/cops-man-18-shot-in-mariners-harbor-2-men-sought-for-questioning.html
 2294984,"May 4, 2022",Maryland,Cumberland,202 Memorial Ave,1,0,https://www.times-news.com/news/local_news/court-documents-altercation-preceded-fatal-shooting/article_dbded938-cc91-11ec-a4c0-b75378e9082e.html
@@ -133,23 +152,29 @@ id,date,state,county,addr,death,injured,link
 2294456,"May 4, 2022",Louisiana,New Orleans,Decatur St and Gov Nicholls St,0,1,https://www.nola.com/news/crime_police/article_97ac74cc-cbac-11ec-9be3-5b20540c67be.html
 2294451,"May 4, 2022",Missouri,Saint Louis (Normandy),Holborn Dr,0,1,https://fox2now.com/news/missouri/man-shot-in-normandy-wednesday-morning/
 2294444,"May 4, 2022",California,Los Angeles,1149 N Wilmington Blvd,0,1,https://twitter.com/DowntownLAScan/status/1522098875607044097
+2295286,"May 4, 2022",North Carolina,Reidsville,N Washington Ave,0,1,https://www.wfmynews2.com/article/news/crime/2-arrested-in-reidsville-shooting-attempted-murder-and-kidnapping/83-123d0832-b368-4325-b56e-c1cd4954b6fd
 2294430,"May 4, 2022",Alabama,Birmingham (Vestavia Hills),Liberty Pkwy and Overton Rd,1,0,https://www.al.com/news/birmingham/2022/05/male-found-shot-seriously-wounded-at-liberty-parkway-exit-off-i-459.html
+2295274,"May 4, 2022",Louisiana,Eunice,200 block of Acadia St,0,1,https://www.katc.com/news/st-landry-parish/man-wanted-in-connection-with-eunice-shooting-that-injured-a-teenager
 2294304,"May 4, 2022",Kentucky,Louisville,3400 block of Portland Plaza,1,0,https://www.whas11.com/article/news/crime/man-shot-killed-portland-plaza-louisville-police-investigation-kentucky/417-da59e958-5dc6-49e5-876c-d3bc43f2390b
 2293867,"May 4, 2022",Ohio,Columbus,2200 block of Aberdeen Ave,0,1,https://www.columbus.gov/Templates/Detail.aspx?id=2147486739
 2294371,"May 4, 2022",California,San Diego,600 block of Upas St,0,1,https://www.kusi.com/39-year-old-man-shot-in-hillcrest-police-apprehended-suspect-in-nearby-canyon/
+2295238,"May 4, 2022",New Jersey,Paterson,White St and W Broadway,0,1,https://www.rlsmedia.com/article/police-paterson-investigate-shooting-injured-one
 2294368,"May 4, 2022",Ohio,Akron,1100 block of Chesapeake Dr,0,1,https://www.cleveland.com/crime/2022/05/teen-male-shot-multiple-times-in-akron-police-say.html
 2294365,"May 4, 2022",California,Chula Vista,Olympic Pkwy and Town Center Dr,0,1,https://timesofsandiego.com/crime/2022/05/04/possible-road-rage-shooting-wounds-one-in-chula-vista/
-2294355,"May 4, 2022",Texas,Houston,E Ave L and 95th St,0,1,https://news4sanantonio.com/newsletter-daily/nephew-shoots-uncle-in-the-leg-over-an-argument-police-say
+2295212,"May 4, 2022",New Jersey,Newark,867 Frelinghuysen Ave,0,1,https://www.rlsmedia.com/article/gunman-randomly-shoots-man-parking-lot-popeyes-restaurant-newark
 2294344,"May 4, 2022",Texas,San Antonio,I-35 S,1,0,https://news4sanantonio.com/news/local/police-investigate-after-man-is-shot-while-driving-on-highway-local-san-antonio-texas-crime-gun-violence
 2294339,"May 4, 2022",California,Santa Rosa,1835 Mendocino Ave,0,1,https://www.pressdemocrat.com/article/news/santa-rosa-police-looking-for-suspect-in-parking-lot-shooting/?ref=mostsection
 2293876,"May 4, 2022",Ohio,Dayton (Moraine),OH-741S,1,0,https://www.news5cleveland.com/news/state/police-officers-shoot-armed-man-after-i-75-crash-in-ohio
+2295006,"May 4, 2022",Virginia,Chesapeake,3200 block of Walden St,1,0,https://www.13newsnow.com/article/news/crime/chesapeake-police-person-fatally-shot-south-norfolk-area/291-7045730c-aa2e-43a4-835e-4118eb30dc58
+2295015,"May 4, 2022",Virginia,Norfolk,7101 Sewells Point Rd,0,2,https://www.13newsnow.com/article/news/crime/norfolk-police-two-women-shot-sewells-point-road/291-f9737d6b-2865-4521-abca-feb104ad3fa0
+2295186,"May 4, 2022",New Jersey,Elizabeth,Broad St and W Grand St,0,1,https://www.rlsmedia.com/article/man-shot-stomach-near-elizabeth-train-station
+2294179,"May 4, 2022",New Jersey,Newark,92 Irvine Turner Blvd,0,3,https://www.rlsmedia.com/article/breaking-man-child-shot-newarks-central-ward
 2294300,"May 4, 2022",Wisconsin,Milwaukee,2900 block of N 12th St,1,0,https://twitter.com/USFiR2015/status/1522016845397733376
 2294289,"May 4, 2022",Tennessee,Johnson City,500 Washington Ave,0,2,https://www.johnsoncitypress.com/news/crime/breaking-johnson-city-police-seek-publics-help-in-shooting-investigations/article_54d7bce2-cbcf-11ec-a98a-8796a5a78c5e.html
 2294280,"May 4, 2022",Texas,Houston,12200 block of W Village Dr,1,0,https://www.khou.com/article/news/crime/shots-fired-at-vehicle-northeast-harris-county/285-1646d427-4864-490c-9b6b-736de86c59d2
 2294283,"May 4, 2022",Illinois,Chicago,4500 block of S Paulina St,1,0,https://chicago.suntimes.com/2022/5/4/23058020/man-22-killed-in-back-of-the-yards-shooting?_ga=2.57133610.1626761906.1651583550-2062829410.1646153856
 2294275,"May 4, 2022",Virginia,Richmond,E Laburnum Ave and Pilots Ln,0,1,https://www.wric.com/news/crime/bullets-in-car-woman-at-the-hospital-after-henrico-shooting/
 2294272,"May 4, 2022",New York,Bronx,E 174th St and Hoe Ave,0,2,https://twitter.com/NYC_Alerts911/status/1522062791712165890
-2293943,"May 4, 2022",Texas,Houston,14800 block of Gulf Fwy,0,2,https://www.click2houston.com/news/local/2022/05/04/officer-injured-after-possible-shooting-in-southeast-houston-hpd-says/
 2293692,"May 3, 2022",North Carolina,Greensboro,400 block of McIntosh St,0,1,https://myfox8.com/news/north-carolina/greensboro/1-person-shot-on-mcintosh-street-in-greensboro-police-say/
 2293632,"May 3, 2022",West Virginia,Bluefield,800 block of Frederick St,0,2,https://www.wvva.com/2022/05/04/i-heard-rapid-firearm-discharges-really-close-house-neighbors-react-drive-by-shooting-bluefield/
 2294140,"May 3, 2022",Tennessee,Memphis,2700 block of Jeffrey Ave,1,0,https://wreg.com/news/local/one-hurt-during-shooting-in-bethel-grove/
@@ -158,6 +183,8 @@ id,date,state,county,addr,death,injured,link
 2294145,"May 3, 2022",Tennessee,Nashville,1500 block of 14th Ave N,1,0,https://www.newschannel5.com/news/one-person-killed-in-north-nashville-shooting
 2294240,"May 3, 2022",New York,Pulaski,Maple Ave,1,0,https://www.syracuse.com/crime/2022/05/large-police-presence-in-oswego-county-ends-with-man-dying-by-suicide.html
 2294235,"May 3, 2022",New York,Syracuse,200 block of Chavez Terr,0,1,https://www.syracuse.com/crime/2022/05/man-taken-to-upstate-hospital-after-getting-shot-in-arm-on-syracuses-south-side-police-say.html
+2295147,"May 3, 2022",California,Barstow,32400 block of Jiggs Rd,1,0,https://www.vvng.com/26-year-old-victorville-man-shot-and-killed-in-barstow-suspect-at-large/
+2293374,"May 3, 2022",Texas,Houston,10965 S Gessner Rd,1,0,https://cityofhouston.news/surveillance-video-in-fatal-shooting-at-10965-south-gessner-road/
 2293521,"May 3, 2022",Virginia,Fredericksburg,800 block of Bellows Ave,0,2,https://www.potomaclocal.com/2022/05/03/2-shot-in-stafford-county-authorities-search-for-suspects/
 2293603,"May 3, 2022",Louisiana,Baton Rouge,2100 block of North 39th St,0,5,https://www.wbrz.com/news/brpd-multiple-people-hurt-in-shooting-tuesday-afternoon
 2293555,"May 3, 2022",New York,Bronx,E Burnside Ave,1,2,https://www.nbcnewyork.com/news/local/crime-and-courts/25-year-old-man-in-custody-after-bronx-shooting-leaves-1-dead-2-hurt/3672700/
@@ -168,12 +195,10 @@ id,date,state,county,addr,death,injured,link
 2293530,"May 3, 2022",New York,Brooklyn,165 York St,0,1,https://twitter.com/NYC_Alerts911/status/1521613675689357313
 2294393,"May 3, 2022",California,Berkeley,1100 block of Channing Way,1,0,https://www.mercurynews.com/2022/05/05/berkeley-police-investigating-fatal-shooting/
 2293513,"May 3, 2022",Georgia,Savannah,2200 block of E 37th St,0,2,https://www.wtoc.com/2022/05/03/two-people-injured-early-morning-shooting-e-37th-st/
-2293468,"May 3, 2022",Virginia,Norfolk,900 block of E Virginia Beach Blvd,1,1,https://www.wavy.com/news/local-news/norfolk/1-dead-another-injured-in-norfolk-shooting/
 2293501,"May 3, 2022",California,Los Angeles,100 block of W 5th St,1,0,https://mynewsla.com/crime/2022/05/03/lapd-armed-man-barricaded-in-downtown-l-a-fatally-shot-by-police/
 2293480,"May 3, 2022",Illinois,Chicago,7300 block of S East End Ave,0,1,https://home.chicagopolice.org/media_incident/7300-block-of-s-east-end-on-may-3-2022-at-approx-302-p-m-3rd-district/
 2293490,"May 3, 2022",Illinois,Chicago,7600 block of S East End Ave,0,1,https://home.chicagopolice.org/media_incident/7600-block-of-s-east-end-on-may-3-2022-at-approximately-951-a-m-4th-district/
 2293488,"May 3, 2022",Illinois,Chicago,3700 block of W Chicago Ave,0,1,https://home.chicagopolice.org/media_incident/3700-block-of-w-chicago-on-may-3-2022-at-approx-1041-a-m-11th-district/
-2293374,"May 3, 2022",Texas,Houston,10900 block of S Gessner Rd,1,0,https://www.houstonchronicle.com/news/houston-texas/crime/article/Man-shot-killed-at-southwest-Houston-apartment-17143933.php
 2293120,"May 3, 2022",Illinois,Chicago,1000 block of Jackson St,1,0,https://www.dailyherald.com/news/20220503/north-chicago-man-who-was-shot-while-mowing-lawn-identified
 2294123,"May 3, 2022",Texas,Dallas,7932 S Great Trinity Forest Way,1,0,https://dpdbeat.com/2022/05/04/homicide-on-great-trinity-forest-way-3/
 2293471,"May 3, 2022",Texas,Adkins,11700 block of Loop 107,1,0,https://www.ksat.com/news/local/2022/05/03/man-dies-after-shooting-in-southeast-bexar-county-home-bcso-says/
@@ -192,7 +217,6 @@ id,date,state,county,addr,death,injured,link
 2293351,"May 3, 2022",Missouri,Saint Louis,4200 block of N Grand Blvd,1,1,https://www.kmov.com/2022/05/03/double-shooting-north-city-leaves-2-wounded/
 2293341,"May 3, 2022",Oklahoma,Oklahoma City,100 block of SW 65th St,0,2,https://www.news9.com/story/62718e77febaa50724a810c2/police-searching-for-suspect-after-shooting-in-sw-okc
 2294089,"May 3, 2022",New Jersey,Paterson,Auburn St and Fair St,1,0,https://www.nj.com/passaic-county/2022/05/nj-man-25-found-fatally-shot-inside-parked-car.html
-2294086,"May 3, 2022",New Jersey,Edison,NJ-27 and Colton Rd,0,1,https://www.nj.com/middlesex/2022/05/man-drove-up-to-girlfriend-shot-her-after-attacking-her-and-stealing-her-suv-cops-say.html
 2294080,"May 3, 2022",Wisconsin,Milwaukee,N 44th St and W Auer Ave,1,1,https://www.cbs58.com/news/milwaukee-police-1-dead-another-injured-in-shooting-near-44th-and-auer
 2293306,"May 3, 2022",Florida,Tallahassee,3000 block of S Adams St,0,1,https://www.wtxl.com/news/local-news/tpd-investigating-early-morning-shooting
 2293304,"May 3, 2022",Nebraska,Bellevue,Sunbury Dr and Victoria Ave,1,0,https://omaha.com/news/local/crime-and-courts/42-year-old-man-kills-himself-after-officers-stop-his-vehicle-bellevue-police-report/article_d94fc91e-cb17-11ec-85c9-ebf5b3661131.html
@@ -225,8 +249,6 @@ id,date,state,county,addr,death,injured,link
 2293162,"May 3, 2022",Pennsylvania,Erie,N/A,0,1,https://www.goerie.com/story/news/crime/2022/05/03/erie-pa-shootings-police-investigating-after-man-shot-in-leg-tuesday/65353516007/
 2293862,"May 3, 2022",Ohio,Brunswick,4300 block of Southwick Blvd,1,0,https://www.wkyc.com/article/news/crime/18-year-old-girl-murdered-brunswick-boyfriend-arrested/95-3a3f67e2-e441-4dc5-a681-5bccad390e1e
 2294153,"May 3, 2022",California,Compton,1530 S Wilmington Ave,1,1,https://ktla.com/news/local-news/would-be-robber-fatally-shot-during-gun-battle-at-compton-smoke-shop-2-sought/
-2293844,"May 3, 2022",Pennsylvania,Philadelphia,100 block of E Fisher Ave,0,1,https://philadelphia.cbslocal.com/2022/05/04/philadelphia-shooting-olney-carjacking-man-injured-east-fisher-avenue/
-2293145,"May 3, 2022",Illinois,Chicago,1000 block of N Springfield Ave,0,1,https://home.chicagopolice.org/media_incident/1000-block-of-n-springfield-on-may-3-2022-approx-117-a-m-11th-dist/
 2293143,"May 3, 2022",Illinois,Chicago,2300 block of W Jackson Blvd,0,1,https://home.chicagopolice.org/media_incident/2300-block-of-w-jackson-on-may-3-2022-approx-1232-a-m-12th-dist/
 2293568,"May 3, 2022",Arizona,Tucson,5301 E Glenn St,3,0,https://www.kold.com/2022/05/05/update-man-killed-wife-stepdaughter-murder-suicide-police-say/
 2293127,"May 3, 2022",Illinois,Chicago,7400 block of N Wolcott Ave,1,1,https://chicago.suntimes.com/crime/2022/5/3/23054829/2-men-shot-1-fatally-in-rogers-park-police?_ga=2.52742568.1626761906.1651583550-2062829410.1646153856
@@ -243,27 +265,3 @@ id,date,state,county,addr,death,injured,link
 2294306,"May 3, 2022",Missouri,Saint Louis,3400 block of Blair Ave,0,1,https://www.kmov.com/2022/05/04/59-year-old-shot-by-brick-hurling-thief-north-city/
 2293806,"May 3, 2022",Louisiana,New Orleans,600 block of Felicity St,0,1,https://www.wdsu.com/article/nopd-juvenile-shot-and-injured-in-lower-garden-district/39899137
 2293751,"May 3, 2022",Texas,San Antonio,3203 Bolmore Dr,1,0,https://www.ksat.com/news/local/2022/05/04/man-dies-from-injuries-after-shooting-at-southeast-side-apartment-complex-sapd-says/
-2293783,"May 3, 2022",Connecticut,Norwich,400 block of E Main St,0,1,https://www.wtnh.com/news/norwich-pd-investigate-shooting-on-east-main-st/
-2293740,"May 3, 2022",Texas,Brady,N Bridge St and Crothers Ave,0,1,https://www.conchovalleyhomepage.com/news/texas/statement-on-the-shooting-of-brady-police-officer/
-2294388,"May 3, 2022",California,San Diego,4400 block of Morena Blvd,1,0,https://timesofsandiego.com/crime/2022/05/03/79-year-old-man-shot-wounded-in-parking-lot-on-morena-boulevard/
-2294386,"May 3, 2022",Connecticut,New Haven,Mape St and Brownell St,0,1,https://www.nhregister.com/news/article/Man-19-shot-on-Maple-Street-in-New-Haven-17147940.php?src=nhrhpdesecp
-2294375,"May 3, 2022",Ohio,Cleveland,St. Clair Ave,1,0,https://www.cleveland19.com/2022/05/04/driver-dies-after-being-shot-multiple-times-cleveland/
-2293762,"May 3, 2022",Texas,San Antonio,S Hackberry and W Drexel Ave,0,1,https://www.ksat.com/news/local/2022/05/03/trash-collector-caught-in-the-middle-of-southeast-side-shootout-police-say/
-2293581,"May 3, 2022",Kentucky,Lexington,E 4th St,0,1,https://www.wtvq.com/man-found-shot-on-east-fourth-street-in-lexington/
-2293759,"May 3, 2022",Alabama,Mobile (Prichard),Eastland Dr and Lott Rd,1,0,https://www.al.com/news/mobile/2022/05/knife-wielding-fugitive-shot-dead-tuesday-night-by-mobile-county-deputies-after-2-hour-standoff.html
-2293755,"May 3, 2022",Texas,San Antonio,SW 24th St and W Commerce St,1,0,https://news4sanantonio.com/news/local/southeast-side-shooting-leaves-one-person-seriously-injured-san-antonio-bexar-county-shooting-in-progress
-2293707,"May 3, 2022",Texas,Laredo,N India Ave and Guerrero St,1,0,https://www.lmtonline.com/local/article/Man-identified-from-fatal-shooting-in-Laredo-17147824.php
-2293537,"May 3, 2022",Kentucky,Louisville,300 block of Macon Ave,1,0,https://www.wave3.com/2022/05/03/louisville-man-arrested-alleged-murder-woman-st-matthews-shooting/
-2294198,"May 3, 2022",Virginia,Portsmouth,4100 block of Meadowview Rd,0,2,https://www.13newsnow.com/article/news/crime/2-men-injured-in-portsmouth-shooting-meadowview-road/291-2dabd569-9664-46b9-9241-24459f2919a8
-2294205,"May 3, 2022",Virginia,Suffolk,2210 E Washington St,1,1,https://www.13newsnow.com/article/news/local/mycity/suffolk/suffolk-police-one-dead-one-injured-shooting/291-fa5c21c3-2e1c-476a-92f4-96419c836eb0
-2292999,"May 2, 2022",New York,Rochester,Lake Ave,0,1,https://twitter.com/RPLCinfosharing/status/1521333995925131271
-2292995,"May 2, 2022",California,Union City,2500 Medallion Dr,0,1,https://sanfrancisco.cbslocal.com/2022/05/02/union-city-apartment-shooting-2500-medallion-drive/
-2293685,"May 2, 2022",Arkansas,Sherwood,N/A,1,0,https://www.thv11.com/article/news/local/teen-dies-accidental-shooting-family-member/91-ebd8b60e-e3b2-4630-8ea6-14b301de61db
-2293648,"May 2, 2022",South Carolina,Orangeburg,Maple St,0,1,https://thetandd.com/news/local/crime-and-courts/orangeburg-pedestrian-shot-twice/article_51c90631-d7f3-51e1-9a46-682126cc518d.html
-2293646,"May 2, 2022",South Carolina,Conway,330 Commonwealth Cir,0,1,https://www.wmbfnews.com/2022/05/03/document-shows-report-fight-shooting-conway-area-apartments-sparked-ccu-alert-no-arrests-made/
-2292926,"May 2, 2022",Illinois,Chicago,7100 block of S Honore,0,1,https://home.chicagopolice.org/media_incident/7100-block-of-s-honore-on-may-2-2022-approx-826-p-m-7th-dist/
-2292701,"May 2, 2022",Kentucky,Louisville,4400 block of Plantus Place,1,0,https://www.wdrb.com/news/crime-reports/wanted-police-release-name-picture-of-suspect-in-newburg-shooting/article_575e37dc-caf0-11ec-96dc-5f60a692d5c0.html
-2293639,"May 2, 2022",California,Fresno,Thomas Ave and Bond Ave,0,1,https://abc30.com/central-fresno-shooting-man-shot/11813113/
-2293636,"May 2, 2022",Texas,Fort Worth,2900 block of Garden Bell Way,0,1,https://www.star-telegram.com/news/local/crime/article261012347.html
-2292743,"May 2, 2022",Pennsylvania,Newtown (Upper Makefield),100 block of Timber Ridge Rd,2,0,https://www.goerie.com/story/news/crime/2022/05/02/erie-man-teen-charged-fatal-shooting-7-year-old-antonio-espn-yarger-jr/65353062007/
-2292609,"May 2, 2022",South Carolina,North Charleston,3825 Ladson Rd,1,0,https://www.live5news.com/2022/05/02/coroners-office-identifies-man-killed-shooting-ladson-apartment-complex/
