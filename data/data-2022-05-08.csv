@@ -57,6 +57,11 @@ id,date,state,county,addr,death,injured,link
 2296172,"May 7, 2022",Florida,Fort Myers,I-75 and Alico Rd,0,1,https://nbc-2.com/news/local/2022/05/07/victim-shot-in-overnight-shooting-along-i-75-near-alico/
 2296149,"May 7, 2022",Michigan,Kalamazoo,1200 block of James St,0,1,https://www.mlive.com/news/kalamazoo/2022/05/15-year-old-shot-overnight-in-kalamazoo.html
 2296120,"May 7, 2022",California,South Gate,2100 block of Firestone Blvd,1,0,https://mynewsla.com/crime/2022/05/07/one-dead-in-fatal-shooting-near-south-gate/
+2296709,"May 7, 2022",Ohio,Hamilton,180 Joe Nuxhall Way,1,3,https://www.wcpo.com/news/local-news/multiple-people-hurt-after-shooting-call-at-hamilton-fop-lodge
+2296701,"May 7, 2022",Washington,Wenatchee,11 N Chelan Ave,1,1,https://www.ncwlife.com/wenatchee-shooting-leaves-one-man-dead-and-an-officer-wounded/
+2296696,"May 7, 2022",Texas,Round Rock,3500 block of Bent Tree Loop,1,1,https://www.ksat.com/news/local/2022/05/07/shelter-in-place-issued-in-round-rock-due-to-individual-actively-shooting-at-officers-police-say/
+2296692,"May 7, 2022",Nevada,Las Vegas,3800 block of E Lake Mead Blvd,1,0,https://www.reviewjournal.com/crime/homicides/man-fatally-shot-in-northeast-las-vegas-2573145/
+2296685,"May 7, 2022",New Mexico,Albuquerque,100 block of Richmond Ave SE,1,0,https://www.koat.com/article/gunshot-victim-dies-near-nob-hill/39934069#
 2296680,"May 7, 2022",Louisiana,Bossier City,2500 Montgomery Ln,0,1,https://www.ksla.com/2022/05/07/7-year-old-grazed-drive-by-shooting/
 2296667,"May 7, 2022",Louisiana,Baton Rouge,4400 block of Cannon St,0,1,https://www.wafb.com/2022/05/08/man-shot-saturday-afternoon-cannon-street/
 2296155,"May 7, 2022",Michigan,Saginaw,2800 block of Williamson Rd,0,2,/incident/2296155
@@ -148,7 +153,10 @@ id,date,state,county,addr,death,injured,link
 2295630,"May 6, 2022",Illinois,Decatur,129 S Oakland Ave,0,3,https://newschannel20.com/news/local/two-men-arrested-after-3-people-shot-outside-bar
 2296058,"May 6, 2022",Washington,Pullman,Brandi Way,1,0,https://www.khq.com/news/wsu-student-dies-from-accidental-gunshot-wound/article_65954702-cdbe-11ec-9ec3-23f75558b860.html
 2296051,"May 6, 2022",Washington,Tacoma,1600 block of S 35th St,0,1,https://www.kiro7.com/news/local/investigation-underway-after-shootout-ends-with-crash-injuries/GUKYWE4R25BRPPJQC576YPI3PM/
+2296717,"May 6, 2022",Oregon,Portland,NE Victoria Ave and NE Hancock St,0,1,https://www.koin.com/news/crime/police-looking-for-suspect-after-shooting-wounds-1-in-ne-portland/
+2296714,"May 6, 2022",Oregon,Beaverton,SW Macorey Ct,1,0,https://katu.com/news/local/roommate-arrested-after-deadly-shooting-in-beaverton-police-say
 2296033,"May 6, 2022",Louisiana,New Orleans,1800 block of Painters St,1,0,https://www.nola.com/news/crime_police/article_9e9a8b78-cda7-11ec-a9ac-03222a1574cd.html
+2296690,"May 6, 2022",Nevada,Las Vegas,S 3rd St and Coolidge Ave,0,1,https://www.ktnv.com/news/crime/shooting-near-first-friday-leaves-one-with-life-threatening-injuries
 2296022,"May 6, 2022",Arkansas,Pine Bluff,Beech St,1,0,https://www.thv11.com/article/news/crime/police-man-fatally-shot-apartment-complex-pine-bluff/91-26291b88-064e-44da-9466-a9bba5e72393
 2296020,"May 6, 2022",Arkansas,Little Rock,Lewis St and W 24th St,0,1,https://www.fox16.com/crime/lrpd-1-injured-in-friday-shooting-near-intersection-of-24th-and-lewis/
 2296017,"May 6, 2022",Arkansas,Springdale,19100 block of Sonora Rd,1,0,https://www.5newsonline.com/article/news/crime/police-springdale-shooting-sonora-road-leaves-one-man-dead-suspect-in-custody/527-3a261577-f665-4268-b757-57631566021a
@@ -273,19 +281,4 @@ id,date,state,county,addr,death,injured,link
 2295353,"May 5, 2022",Illinois,Chicago,100 block of W Chicago Ave,0,1,https://wgntv.com/news/chicago-news/man-38-wounded-in-downtown-shooting/
 2294327,"May 5, 2022",New York,New York (Manhattan),354 W 37th St,2,0,https://nypost.com/2022/05/05/nyc-shooting-leaves-2-people-critically-injured/
 2295752,"May 5, 2022",Texas,Grand Prairie,1690 W Polo Rd,1,0,https://gptxnews.com/news/armed-robbery-suspect-shot-and-killed-at-dollar-general-in-grand-prairie-by-armed-customer/?fbclid=IwAR2ogrybgZk6x4Dx2lxh1iUW2WXdwEhjFgGQCKmCWsr1hgR5uGWVk4YqQX0
-2296064,"May 5, 2022",Washington,Sunnyside,613 S 6th St,0,2,https://www.yaktrinews.com/large-police-presence-in-sunnyside/
 2294887,"May 5, 2022",New York,Niagara Falls,442 Elmwood Ave,0,1,https://www.niagara-gazette.com/news/local_news/second-shooting-suspect-arrested-in-shooting-robbery-spree/article_cfbca1b0-f065-5d96-b580-6965b510a3f4.html
-2294563,"May 5, 2022",Rhode Island,Providence,I-95 and Elmwood Ave,0,1,https://www.wpri.com/news/local-news/providence/man-shot-on-providence-highway/
-2296024,"May 5, 2022",New York,Utica,Saratoga St,0,2,https://www.uticaod.com/story/news/local/2022/05/06/utica-police-seek-video-footage-saratoga-street-shooting/9672696002/?utm_source=uticaod-Daily%20Briefing&utm_medium=email&utm_campaign=daily_briefing&utm_term=list_article_thumb&utm_content=NEWYORK-UTICA
-2295346,"May 5, 2022",Arkansas,Fort Smith,4000 block of Marshall Dr,0,1,https://www.5newsonline.com/article/news/crime/fort-smith-police-investigating-shooting-marshall-drive-grinnell-ave/527-24e92a6f-8bc3-4d58-a319-be727d29219f
-2295338,"May 5, 2022",Mississippi,Jackson,Dorgan St and Gunda St,0,1,https://www.wapt.com/article/police-firefighters-and-paramedics-respond-to-reported-shooting/39920905
-2295783,"May 5, 2022",Alabama,Goodwater,116 Armory St,1,0,https://www.wsfa.com/2022/05/07/2-charged-with-manslaughter-coosa-county-shooting/
-2295331,"May 5, 2022",South Carolina,Marion,E Liberty St and Main St,1,0,https://www.foxcarolina.com/2022/05/05/mayor-marion-officer-was-helping-with-disturbance-before-deadly-officer-involved-shooting/
-2295324,"May 5, 2022",Alabama,Loxley,1400 block of Wolf Run Rd,1,0,https://weartv.com/news/local/alabama-woman-killed-in-baldwin-county-shooting
-2296004,"May 5, 2022",Alabama,Huntsville,4010 Hunters Ridge Dr SW,1,0,https://www.waff.com/2022/05/05/1-shot-1-custody-huntsville-shooting/
-2296002,"May 5, 2022",Alabama,Dutton,AL-40,1,0,https://www.wdhn.com/news/crime/4-year-old-dies-after-accidentally-shooting-himself-in-north-alabama/
-2295310,"May 5, 2022",Alabama,Tuscaloosa,900 Hargrove Rd,0,1,https://abc3340.com/news/local/man-injured-in-shooting-at-tuscaloosa-apartments-gunshot-wound-gunfire-weapon-shot-hospital-assault-arrests-tpd-alabama-tuscaloosa-bent-tree-apartments-hargrove-road
-2295304,"May 5, 2022",Alabama,Albertville,Terry Cir,1,0,https://www.al.com/news/huntsville/2022/05/north-alabama-man-shot-dead-by-police-identified.html
-2295294,"May 5, 2022",Alabama,Birmingham,1501 Avenue I,0,1,https://www.al.com/news/birmingham/2022/05/investigation-underway-after-male-shows-up-at-birmingham-fire-station-with-life-threatening-gunshot-wound.html
-2295296,"May 5, 2022",Alabama,Bessemer,1700 block of Alliance Rd,1,1,https://www.al.com/news/birmingham/2022/05/tenant-killed-by-jefferson-county-landlord-who-shot-himself-in-front-of-deputies-identified.html
-2295292,"May 5, 2022",Alabama,Birmingham,1600 Block of 26th Ave,1,0,https://police.birminghamal.gov/media-release-93-homicide-investigation-25th-avenue-north/
