@@ -9,10 +9,8 @@ id,date,state,county,addr,death,injured,link
 2297957,"May 9, 2022",North Carolina,Leasburg,Leasburg Rd and Sunny Ln,0,2,https://www.wral.com/man-shoots-kills-wife-then-taken-to-hospital-after-shooting-himself-says-person-county-sheriff/20273627/
 2297914,"May 9, 2022",Tennessee,Hixson,1609 Thrasher Pike,0,0,https://www.wdef.com/middle-valley-elementary-sso-recovers-a-gun-from-ten-year-olds-backpack/
 2297931,"May 9, 2022",Ohio,Toledo,400 block of Kopernik Ave,0,1,https://www.wtol.com/article/news/crime/man-shot-early-monday-in-central-toledo/512-5ec445b1-aa0a-4cb1-9209-79faefcd812b
-2297916,"May 9, 2022",New York,Corona (Queens),66-17 Fresh Pond Rd,1,1,https://twitter.com/NYC_Alerts911/status/1523658781774786560
 2297921,"May 9, 2022",Alabama,Montgomery,2312 Eastern Blvd,1,0,https://www.montgomeryadvertiser.com/story/news/2022/05/09/montgomery-police-respond-fatal-shooting-eastern-blvd/9710161002/
 2297909,"May 9, 2022",Tennessee,Nashville,Nashboro Blvd,0,1,https://www.wkrn.com/news/local-news/man-critically-injured-in-shooting-in-nashboro-village-area/
-2297906,"May 9, 2022",New York,Staten Island,Union Pl and Beach St,0,1,https://twitter.com/NYC_Alerts911/status/1523749120535580676
 2297896,"May 9, 2022",New York,Bronx,2066 Morris Ave,0,1,https://twitter.com/NYC_Alerts911/status/1523771807450419200
 2297898,"May 9, 2022",North Carolina,Winston Salem (Winston-salem),925 E 2nd St,0,1,https://myfox8.com/news/north-carolina/winston-salem/winston-salem-man-shot-in-arm-police-say/
 2297894,"May 9, 2022",Indiana,Evansville,US-41 and IN-57,1,0,https://fox8.com/news/manhunt-ends-for-casey-white-vicky-white/
@@ -36,7 +34,6 @@ id,date,state,county,addr,death,injured,link
 2297614,"May 9, 2022",Georgia,Augusta,900 Block of D'Antignac St,0,1,https://www.wjbf.com/news/rcso-investigating-shooting-on-dantignac-street-in-augusta/
 2297551,"May 9, 2022",Texas,Houston,8920 Gulf Fwy,1,1,https://abc13.com/houston-crime-overnight-shootings-deadly-shooting-gulf-freeway/11830983/
 2297598,"May 9, 2022",Georgia,Atlanta,300 block of Skipper Place NW,0,1,https://www.wsbtv.com/news/local/atlanta/police-shoot-man-who-opened-fire-group-children-bus-stop-northwest-atlanta/KSOBYOV5JVD4ZB3UURZE2R6SPQ/
-2297570,"May 9, 2022",West Virginia,Beckley,2120 Harper Rd,1,1,https://www.wvva.com/2022/05/09/two-shot-beckley-country-inn-suites/
 2297514,"May 9, 2022",Pennsylvania,Philadelphia,6200 block of Bustleton Ave,0,1,https://www.fox29.com/news/police-investigating-two-separate-shootings-leaving-three-injured
 2297481,"May 9, 2022",Pennsylvania,Philadelphia,151 W Lehigh Ave,0,2,https://www.fox29.com/news/police-investigating-two-separate-shootings-leaving-three-injured
 2297477,"May 9, 2022",Pennsylvania,Philadelphia,1004 W Lehigh Ave,0,1,https://6abc.com/shootings-outside-philadelphia-restaurants-west-lehigh-avenue-germantown-north-philly-shooitng/11830664/
@@ -45,8 +42,14 @@ id,date,state,county,addr,death,injured,link
 2297455,"May 9, 2022",Michigan,Detroit,20400 block of Norwood St,0,1,https://www.facebook.com/TheDetroitScanner/posts/5511269598897050
 2297449,"May 9, 2022",Florida,Jacksonville,Bert Rd,0,1,https://www.news4jax.com/news/local/2022/05/09/multiple-shots-fired-at-arlington-apartment-complex-man-injured/
 2297433,"May 9, 2022",Washington,Tacoma,5400 block of S Tacoma Way,1,0,https://www.theolympian.com/news/business/article261245862.html
+2298092,"May 9, 2022",Alabama,Tuscaloosa,4420 21st St,0,5,https://www.wvua23.com/5-shot-at-hay-court-monday-night/
+2297916,"May 9, 2022",New York,Corona (Queens),66-17 Fresh Pond Rd,1,1,https://abc7ny.com/ridgewood-shooting-queens-women-shot-manhunt/11831378/
+2298179,"May 9, 2022",New York,Syracuse,236 Girard Ave,0,1,https://www.syracuse.com/crime/2022/05/syracuse-police-find-teen-shot-near-van-duyn-elementary-school.html
+2298173,"May 9, 2022",Montana,Kalispell,120 Swan Mountain Dr,0,1,https://nbcmontana.com/news/local/accidental-gunshot-injures-1-person-in-evergreen
+2297906,"May 9, 2022",New York,Staten Island,Union Pl and Beach St,0,1,https://nypost.com/2022/05/09/man-shot-outside-nyc-school-for-autistic-students/
+2298152,"May 9, 2022",Virginia,Suffolk,200 block of Jackson St,0,1,https://www.wtkr.com/news/police-investigating-after-man-hurt-in-suffolk-shooting
+2298129,"May 9, 2022",Kentucky,Elizabethtown,2010 N Mulberry St,0,1,https://www.thenewsenterprise.com/news/crime_and_courts/man-shot-at-motel-in-elizabethtown/article_853ceeb1-d9f8-56df-8709-570277508426.html
 2298112,"May 9, 2022",Virginia,Dumfries,17133 Dumfries Rd,0,1,https://www.potomaclocal.com/2022/05/09/1-shot-at-motel-6-near-dumfries/
-2298092,"May 9, 2022",Alabama,Tuscaloosa,4420 21st St,0,3,https://patch.com/alabama/tuscaloosa/multiple-victims-west-end-shooting-monday-night
 2298046,"May 8, 2022",Massachusetts,Boston,74 Hemenway St,0,1,https://liveboston617.org/2022/05/08/breaking-brazen-daytime-shooting-in-fenway-neighborhood-leaves-one-hospitalized/
 2298058,"May 8, 2022",Mississippi,Jackson,Ginger Dr,1,1,https://www.wjtv.com/news/local-news/man-dies-woman-shot-during-family-gathering-in-jackson/
 2297311,"May 8, 2022",Alabama,Birmingham,25th St and 7th Ave S,0,1,https://www.wvtm13.com/article/birmingham-police-investigate-a-shooting-involving-an-officer/39937574#
@@ -80,7 +83,6 @@ id,date,state,county,addr,death,injured,link
 2297257,"May 8, 2022",Tennessee,Madison,1830 Spring Branch Dr,1,0,https://www.newschannel5.com/news/man-found-dead-after-spring-branch-drive-shooting
 2297251,"May 8, 2022",Pennsylvania,Philadelphia,Kensington Ave and Clearfield St,0,2,https://6abc.com/philadelphia-shooting-homicide-kensington-west-girard-avenue/11829723/
 2296841,"May 8, 2022",New York,Rochester,Pierpont Street and Bryan Street,0,1,https://13wham.com/news/local/man-fatally-shot-on-mothers-day-in-rochester
-2296838,"May 8, 2022",New York,Rochester,N Plymouth Ave and Smith St,1,0,https://13wham.com/news/local/man-fatally-shot-on-mothers-day-in-rochester
 2297244,"May 8, 2022",Pennsylvania,Philadelphia,900 block of W Girard Ave,1,0,https://6abc.com/philadelphia-shooting-homicide-kensington-west-girard-avenue/11829723/
 2297881,"May 8, 2022",North Carolina,Winston Salem (Winston-salem),Glenbrook Dr,0,1,https://www.wfmynews2.com/article/news/crime/man-shot-glenbrook-drive-winston-salem-found-lying-in-the-road/83-8455a655-f230-466d-a4f9-75fef0c94f16
 2297240,"May 8, 2022",Pennsylvania,Philadelphia,900 block of E. Schiller St,1,2,https://6abc.com/philadelphia-shooting-homicide-kensington-west-girard-avenue/11829723/
@@ -128,7 +130,6 @@ id,date,state,county,addr,death,injured,link
 2296991,"May 8, 2022",Ohio,Cincinnati,300 block of Maple St,0,3,https://www.fox19.com/2022/05/08/multiple-people-shot-elmwood-place-police-say/
 2296988,"May 8, 2022",Ohio,Canton,1206 Lippert Rd NE,1,1,https://www.news5cleveland.com/news/local-news/akron-canton-news/1-dead-1-injured-after-canton-apartment-shooting
 2296980,"May 8, 2022",Georgia,Savannah,Bull St and Broughton St,1,1,https://www.wtoc.com/2022/05/08/2-injured-after-early-morning-shooting-downtown-savannah/
-2297713,"May 8, 2022",New York,Middletown,567 Rte 211 E,2,0,https://www.thedailybeast.com/off-duty-nypd-cop-kills-wifes-suspected-lover-in-murder-suicide-in-orange-county-new-york
 2297711,"May 8, 2022",Maryland,Baltimore,300 block of Furrow St,1,0,https://www.facebook.com/BaltimoreCityPolice/posts/pfbid0262kXmBuvoJFUNSwmEVkXH3n6hwKi2RhjH2fp34xHdxmhbsdhSbfLRrM38MDmj714l
 2297707,"May 8, 2022",California,Fresno,4654 N Chestnut Ave,0,1,https://abc30.com/northeast-fresno-shooting-man-shot-in-car-shots-fired-suspects/11829964/
 2297687,"May 8, 2022",California,Hanford,Redington St and Phillips St,0,1,https://abc30.com/hanford-shooting-15-year-old-shot-boy-injured-suspects-arrested/11831820/
@@ -137,7 +138,6 @@ id,date,state,county,addr,death,injured,link
 2296922,"May 8, 2022",Texas,Houston,11402 North Fwy,0,1,https://abc13.com/michoacan-restaurant-shooting-off-north-freeway-man-shot-at-houston-crime/11828471/
 2296914,"May 8, 2022",Texas,San Antonio,300 block of Wilmot St,0,1,https://news4sanantonio.com/news/local/homeowner-shoots-man-accused-of-breaking-into-her-house
 2296983,"May 8, 2022",Georgia,Savannah,900 block of E 33rd St,1,0,https://www.wtoc.com/2022/05/08/1-injured-after-shooting-900-block-e-33rd-street/
-2297585,"May 8, 2022",West Virginia,Logan,Little Buffalo Creek Rd,0,1,https://www.wvnstv.com/news/west-virginia-news/suspect-in-logan-county-shooting-found-in-a-car-crash/
 2297668,"May 8, 2022",Missouri,Saint Louis,4200 block of Shreve Ave,0,1,https://fox2now.com/news/4-dead-9-shot-after-violent-mothers-day-weekend-in-st-louis/
 2297211,"May 8, 2022",Missouri,Saint Louis,7400 block of S Broadway Ave,1,1,https://fox2now.com/news/4-dead-9-shot-after-violent-mothers-day-weekend-in-st-louis/
 2296898,"May 8, 2022",Wisconsin,Milwaukee,N/A,0,1,https://www.cbs58.com/news/police-investigate-three-non-fatal-overnight-shootings
@@ -176,13 +176,19 @@ id,date,state,county,addr,death,injured,link
 2297438,"May 8, 2022",Arizona,Phoenix,6145 N 35th Ave,0,1,https://www.12news.com/article/news/crime/shooting-inside-walmart-in-phoenix/75-329d2ca4-74c0-40e6-84c5-e5f49e963921
 2297431,"May 8, 2022",Washington,Tacoma,E 35th St and E D St,1,0,https://www.theolympian.com/news/business/article261245862.html
 2297068,"May 8, 2022",District of Columbia,Washington,6200 Block of Georgia Ave NW,0,1,https://trainingtrack.hsema.dc.gov/NRss/RssFeed/AlertDetails/46842
-2297426,"May 8, 2022",Oregon,Portland,SE Salmon St,1,0,https://katu.com/news/local/woman-shot-killed-along-eastbank-esplanade-in-portland
 2297424,"May 8, 2022",Delaware,Wilmington,900 block of E 24th St,0,1,https://nixle.us/DLHN3
 2297033,"May 8, 2022",Iowa,Iowa City,500 Newton Rd,0,1,https://www.kcrg.com/2022/05/08/university-iowa-police-say-report-person-shot-campus/
+2297426,"May 8, 2022",Oregon,Portland,SE Salmon St,1,0,https://katu.com/news/local/woman-shot-killed-along-eastbank-esplanade-in-portland
 2297420,"May 8, 2022",California,Orinda,3900 block of Grizzly Peak Blvd,1,0,https://www.mercurynews.com/2022/05/08/orinda-man-found-fatally-shot-near-hills-recreation-area/
+2298122,"May 8, 2022",Kentucky,Monticello (Susie),Grayer Ridge Rd,0,1,https://www.wtvq.com/sheriff-22-year-old-arrested-charged-with-shooting-mother-on-mothers-day/
+2297570,"May 8, 2022",West Virginia,Beckley,2120 Harper Rd,1,1,https://www.wvva.com/2022/05/09/two-shot-beckley-country-inn-suites/
+2296838,"May 8, 2022",New York,Rochester,N Plymouth Ave and Smith St,1,0,https://13wham.com/news/local/arrest-made-for-mothers-day-homicide-in-rochester
+2298168,"May 8, 2022",West Virginia,Erbacon,Pilot Knob Rd,1,0,https://www.wboy.com/news/crime/webster-co-woman-charged-in-boys-suicide/
+2297585,"May 8, 2022",West Virginia,Logan,Little Buffalo Creek Rd,0,1,https://www.wymt.com/2022/05/09/man-arrested-early-morning-shooting/
+2298147,"May 8, 2022",Idaho,Idaho Falls,1000 Memorial Dr,0,1,https://www.idahostatejournal.com/news/crimes_court/police-two-arrested-after-shootout-at-idaho-falls-lds-temple/article_3e9e265d-d2fe-5507-9443-5c6e2a4d90c0.html
+2297713,"May 8, 2022",New York,Middletown,567 Rte 211 E,2,0,https://abc7ny.com/wallkill-buffalo-wild-wings-parking-lot-murder-suicide/11831546/
 2297170,"May 8, 2022",California,Pomona,100 block of E 2nd St,0,3,https://ktla.com/news/local-news/3-men-arrive-at-hospital-as-police-investigate-pomona-shooting/
 2297391,"May 8, 2022",California,Gardena,1300 block of W Redondo Beach Blvd,1,0,https://ktla.com/news/local-news/lancaster-man-fatally-shot-in-gardena-police/
-2298122,"May 8, 2022",Kentucky,Monticello (Susie),Grayer Ridge Rd,1,0,https://www.wtvq.com/sheriff-22-year-old-arrested-charged-with-shooting-mother-on-mothers-day/
 2297381,"May 8, 2022",Mississippi,Jackson,Woody Dr,0,1,https://www.wapt.com/article/reported-shooting-on-woody-drive-in-jackson/39938913
 2298119,"May 8, 2022",Kentucky,Hopkinsville,2000 block of Poplar St,0,1,https://whopam.com/2022/05/08/hpd-investigating-sunday-afternoon-shooting/
 2297371,"May 8, 2022",Alabama,Bessemer,2800 block of Dartmouth Ave,1,2,https://www.wvtm13.com/article/man-killed-teen-injured-in-bessemer-shooting/39936887#
@@ -313,8 +319,3 @@ id,date,state,county,addr,death,injured,link
 2296723,"May 7, 2022",Illinois,Chicago,4600 block of W Dickens St,0,2,https://chicago.suntimes.com/2022/5/7/23061890/2-teens-hurt-in-hermosa-shooting
 2296343,"May 7, 2022",Illinois,Chicago,11600 block of S Lowe Ave,2,1,https://wgntv.com/news/chicagocrime/1-killed-2-wounded-in-west-pullman-shooting/
 2297435,"May 7, 2022",Washington,Puyallup,4302 S Meridian,0,1,https://www.q13fox.com/news/police-carjacking-victim-arrested-after-shooting-attacker-in-face
-2296701,"May 7, 2022",Washington,Wenatchee,11 N Chelan Ave,1,1,https://www.ncwlife.com/wenatchee-shooting-leaves-one-man-dead-and-an-officer-wounded/
-2296692,"May 7, 2022",Nevada,Las Vegas,3800 block of E Lake Mead Blvd,1,0,https://www.reviewjournal.com/crime/homicides/man-fatally-shot-in-northeast-las-vegas-2573145/
-2297404,"May 7, 2022",California,North Highlands,I-80 and Madison Ave,0,2,https://sacramento.cbslocal.com/2022/05/07/2-shot-north-highlands/
-2297409,"May 7, 2022",California,Stockton,E 12th St and S Airport Way,0,1,https://sacramento.cbslocal.com/2022/05/08/various-crimes-stockton-may-7/
-2297388,"May 7, 2022",California,Modesto,Dallas St and Park Hurst Way,1,0,https://www.modbee.com/news/local/crime/article261224727.html#storylink=sectionheadlines
